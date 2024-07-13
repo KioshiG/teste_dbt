@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,job_title,phone,domain,email,country_code,country,city,latitude,longitude,recurring_customer,customer_level,registration_date
+1,Field,Stockings,F,Developer II,1632536588,mapquest.com,field.stockings@mapquest.com,BR,Brazil,Lajeado,-9.9246703,-48.2592606,true,platinum,2018-03-16 18:58:14
+2,Kaia,Simnell,M,Help Desk Operator,7518802350,google.es,kaia.simnell@google.es,BR,Brazil,Matinha,-3.0854936,-44.9626829,false,non-customer,
+3,Sheffield,Grosier,F,Community Outreach Specialist,8598013753,tinypic.com,sheffield.grosier@tinypic.com,BR,Brazil,Imbituba,-28.2446355,-48.6764133,false,non-customer,
+4,Omar,Gianotti,M,Executive Secretary,8701272873,yellowbook.com,omar.gianotti@yellowbook.com,BR,Brazil,Praia Grande,-24.0088421,-46.4124616,true,standard,2018-01-23 09:11:25
+5,Shepperd,Springford,F,Senior Financial Analyst,7448815268,google.fr,shepperd.springford@google.fr,BR,Brazil,Encantado,-29.2360837,-51.869606,false,non-customer,
+6,Caitlin,Melloi,F,Operator,1816957258,telegraph.co.uk,caitlin.melloi@telegraph.co.uk,BR,Brazil,Nova Granada,-20.5897439,-49.318099,false,non-customer,
+7,Lyle,Fruchon,F,Paralegal,8822717277,deliciousdays.com,lyle.fruchon@deliciousdays.com,BR,Brazil,Serra Negra,-22.6148577,-46.7057601,false,non-customer,
+8,Missy,Bernhardsson,F,Librarian,4761400167,redcross.org,missy.bernhardsson@redcross.org,BR,Brazil,Campo Belo,-20.8938356,-45.2721363,true,platinum,2018-02-08 11:30:56
+9,Gracie,Scoines,F,Chief Design Engineer,5246619339,phpbb.com,gracie.scoines@phpbb.com,BR,Brazil,Uberlândia,-18.9172494,-48.2841556,false,non-customer,
+10,Eirena,Parfrey,M,Cost Accountant,8302662672,yale.edu,eirena.parfrey@yale.edu,BR,Brazil,Glória do Goitá,-7.9995755,-35.2947008,true,standard,2019-11-11 14:32:03
+11,Mair,Walsham,M,Software Consultant,3087410104,statcounter.com,mair.walsham@statcounter.com,BR,Brazil,Santa Cruz do Capibaribe,-7.9484331,-36.2064182,true,platinum,2018-12-05 12:17:45
+12,Berky,Garth,M,Database Administrator II,4752864140,yale.edu,berky.garth@yale.edu,BR,Brazil,Seropédica,-22.7691646,-43.6950804,false,non-customer,
+13,Dino,Kurth,M,Geologist IV,5726239670,odnoklassniki.ru,dino.kurth@odnoklassniki.ru,BR,Brazil,Pesqueira,-8.3627277,-36.7388486,true,platinum,2018-03-05 09:59:31
+14,Paton,Skoggings,F,Administrative Officer,9774585160,godaddy.com,paton.skoggings@godaddy.com,BR,Brazil,São Marcos,-28.9481925,-51.0749483,false,non-customer,
+15,Darbie,Shilburne,M,Automation Specialist III,9702871367,msn.com,darbie.shilburne@msn.com,BR,Brazil,Araranguá,-28.9361187,-49.4923013,true,premium,2018-09-12 03:04:24
+16,Guenna,Menego,M,Information Systems Manager,6158078958,posterous.com,guenna.menego@posterous.com,BR,Brazil,Caieiras,-23.3711864,-46.7575221,false,non-customer,
+17,Kory,Jorgesen,F,Computer Systems Analyst III,6707196203,dropbox.com,kory.jorgesen@dropbox.com,BR,Brazil,Nossa Senhora da Glória,-10.2156554,-37.4212807,true,standard,2018-05-22 05:55:20
+18,Addie,Wilkerson,F,Desktop Support Technician,8566046374,reference.com,addie.wilkerson@reference.com,BR,Brazil,Três Lagoas,-20.6121259,-51.8287077,true,premium,2018-10-25 07:30:52
+19,Darci,McIsaac,M,Developer IV,8129695442,bandcamp.com,darci.mcisaac@bandcamp.com,BR,Brazil,Osvaldo Cruz,-21.7972251,-50.879763,true,premium,2018-08-16 23:22:53
+20,Cordy,Woosnam,F,Food Chemist,2768686283,flavors.me,cordy.woosnam@flavors.me,BR,Brazil,Camaquã,-30.8493976,-51.8048311,false,non-customer,
+21,Odille,Slipper,M,Speech Pathologist,3618326483,imageshack.us,odille.slipper@imageshack.us,BR,Brazil,Ribeirão,-8.5135139,-35.3747515,true,platinum,2018-12-07 15:13:49
+22,Sammie,Gepp,F,Financial Analyst,8998900440,people.com.cn,sammie.gepp@people.com.cn,BR,Brazil,José de Freitas,-4.6722064,-42.4724578,false,non-customer,
+23,Ajay,Roddick,F,Assistant Professor,9509562264,marketwatch.com,ajay.roddick@marketwatch.com,BR,Brazil,Palmas de Monte Alto,-14.1500098,-43.2521507,true,platinum,2019-03-06 00:03:46
+24,Gustie,Burgoyne,M,Systems Administrator III,7397353420,sina.com.cn,gustie.burgoyne@sina.com.cn,BR,Brazil,Almenara,-16.1796844,-40.6953223,true,premium,2019-09-28 01:41:55
+25,Stefan,Summerside,M,Social Worker,1306873838,earthlink.net,stefan.summerside@earthlink.net,BR,Brazil,Paraty,-23.2218772,-44.7235076,true,platinum,2019-06-27 02:20:45
+26,Myriam,Garrity,M,Software Engineer II,7448896264,xinhuanet.com,myriam.garrity@xinhuanet.com,BR,Brazil,Paranapanema,-23.3866812,-48.7218983,false,non-customer,
+27,Euphemia,Gallico,M,Speech Pathologist,1774181144,shop-pro.jp,euphemia.gallico@shop-pro.jp,BR,Brazil,Capela,-10.5102117,-37.0530033,true,premium,2019-01-27 10:26:29
+28,Faun,Surgeon,F,Teacher,1162830742,example.com,faun.surgeon@example.com,BR,Brazil,Ilhabela,-23.8158392,-45.3664809,false,non-customer,
+29,Ly,Cranmer,F,Staff Scientist,8177223172,nba.com,ly.cranmer@nba.com,BR,Brazil,Afogados da Ingazeira,-7.7480174,-37.6346628,false,non-customer,
+30,Ewen,Rainville,F,Occupational Therapist,3023702673,soup.io,ewen.rainville@soup.io,BR,Brazil,Coari,-4.8798602,-64.7162415,false,non-customer,
+31,Liliane,Battram,F,Librarian,7932986720,census.gov,liliane.battram@census.gov,BR,Brazil,Cambebba,-3.8017999,-38.4809114,false,non-customer,
+32,Farrah,Jachtym,F,Account Representative IV,3701423490,technorati.com,farrah.jachtym@technorati.com,BR,Brazil,Itapemirim,-20.9829904,-40.9990597,true,platinum,2018-04-22 11:21:41
+33,Wendell,Tyrer,M,Administrative Officer,9656042944,e-recht24.de,wendell.tyrer@e-recht24.de,BR,Brazil,Ribeirão das Neves,-19.7619024,-44.0853572,false,non-customer,
+34,Vernor,Humpage,M,Mechanical Systems Engineer,7702606774,infoseek.co.jp,vernor.humpage@infoseek.co.jp,BR,Brazil,Boa Vista,2.8235098,-60.6758331,false,non-customer,
+35,Eamon,Middas,F,Registered Nurse,1396237840,wunderground.com,eamon.middas@wunderground.com,BR,Brazil,Ponta Porã,-22.523123,-55.7242526,true,platinum,2018-11-03 16:03:54
+36,Guthry,Blowing,M,Database Administrator I,5397952306,rakuten.co.jp,guthry.blowing@rakuten.co.jp,BR,Brazil,Tupã,-21.9310093,-50.5069723,true,standard,2018-08-07 03:38:53
+37,Carlyle,Arkley,M,Programmer Analyst III,2046619366,bloglovin.com,carlyle.arkley@bloglovin.com,BR,Brazil,Garibaldi,-29.2581646,-51.5289168,true,premium,2020-01-19 03:55:27
+38,Samuel,Moorhead,F,Geologist IV,3825546426,sciencedaily.com,samuel.moorhead@sciencedaily.com,BR,Brazil,São Gabriel,-30.2915042,-54.5218074,true,standard,2019-05-29 10:03:40
+39,Bren,Van Der Weedenburg,F,Compensation Analyst,7533573522,chronoengine.com,bren.van der weedenburg@chronoengine.com,BR,Brazil,Matozinhos,-19.5547969,-44.0871994,false,non-customer,
+40,Petunia,Wormald,M,Operator,6484514163,pcworld.com,petunia.wormald@pcworld.com,BR,Brazil,Areia Branca,-10.7884789,-37.3185938,false,non-customer,
+41,Paddy,MacLardie,M,Financial Advisor,7808160830,newsvine.com,paddy.maclardie@newsvine.com,BR,Brazil,Baixo Guandu,-19.5097867,-41.0165586,false,non-customer,
+42,Gregoire,Brosio,F,Engineer I,1612787117,webnode.com,gregoire.brosio@webnode.com,BR,Brazil,Parnaíba,-2.9055447,-41.7733626,true,platinum,2018-09-14 13:53:00
+43,Wilmar,Secrett,F,Teacher,1327354926,intel.com,wilmar.secrett@intel.com,BR,Brazil,Fartura,-23.3879703,-49.5076392,false,non-customer,
+44,Willie,Jagiello,M,Internal Auditor,8475569776,ibm.com,willie.jagiello@ibm.com,BR,Brazil,Sidrolândia,-20.9306687,-54.9697212,true,premium,2019-07-24 12:03:51
+45,Tally,Maxweell,M,Sales Associate,5728659291,whitehouse.gov,tally.maxweell@whitehouse.gov,BR,Brazil,Buriti Bravo,-5.8327847,-43.8356779,true,platinum,2019-03-23 16:26:09
+46,Rubin,Haily,M,Analog Circuit Design manager,6546082972,cnn.com,rubin.haily@cnn.com,BR,Brazil,Espírito Santo do Pinhal,-22.1755019,-46.805914,false,non-customer,
+47,Larry,Ackers,M,Safety Technician III,3539880743,hibu.com,larry.ackers@hibu.com,BR,Brazil,Jaboatão,-8.1132729,-35.0169621,false,non-customer,
+48,Davidde,Cathcart,M,Geologist II,2539790683,google.co.uk,davidde.cathcart@google.co.uk,BR,Brazil,Viamão,-30.0722165,-51.0969571,true,premium,2019-03-25 04:17:19
+49,Estrella,Tythe,M,Senior Cost Accountant,3948052525,comcast.net,estrella.tythe@comcast.net,BR,Brazil,Brusque,-27.1220596,-48.9379168,false,non-customer,
+50,Kasey,Chawkley,F,Associate Professor,5661138232,ucsd.edu,kasey.chawkley@ucsd.edu,BR,Brazil,Ituverava,-20.3345205,-47.7921348,false,non-customer,
+51,Cicely,Borsnall,F,Health Coach II,1038804672,eventbrite.com,cicely.borsnall@eventbrite.com,BR,Brazil,Araguari,-18.6517964,-48.1904503,true,premium,2018-03-17 05:38:35
+52,Hephzibah,Szimon,F,Senior Financial Analyst,4566497923,uiuc.edu,hephzibah.szimon@uiuc.edu,BR,Brazil,Flores da Cunha,-29.0303854,-51.2003761,false,non-customer,
+53,Hermione,De la Barre,F,Cost Accountant,9964734088,uiuc.edu,hermione.de la barre@uiuc.edu,BR,Brazil,Mirador,-23.2245912,-52.7670021,true,platinum,2018-11-26 05:36:14
+54,Sophie,Swepson,M,Teacher,8431052413,unblog.fr,sophie.swepson@unblog.fr,BR,Brazil,Visconde do Rio Branco,-21.013792,-42.8376099,true,standard,2018-09-03 02:19:45
+55,Corene,Oade,M,Safety Technician II,8512148135,dell.com,corene.oade@dell.com,BR,Brazil,Santo Amaro,-12.5465375,-38.7110678,true,premium,2019-05-21 17:17:19
+56,Morgan,Jaffray,M,VP Sales,4439751991,latimes.com,morgan.jaffray@latimes.com,BR,Brazil,Cordeirópolis,-22.4939375,-47.4294326,true,standard,2019-06-06 07:02:22
+57,Talbot,McAuliffe,M,VP Quality Control,6718056207,yahoo.co.jp,talbot.mcauliffe@yahoo.co.jp,BR,Brazil,Penedo,-10.2735517,-36.5536172,true,premium,2020-01-18 18:08:18
+58,Wait,Gregoriou,M,Junior Executive,9586056421,buzzfeed.com,wait.gregoriou@buzzfeed.com,BR,Brazil,Poá,-23.5198964,-46.3408798,false,non-customer,
+59,Pate,Verny,F,Software Engineer III,9914943939,cyberchimps.com,pate.verny@cyberchimps.com,BR,Brazil,Pacaembu,-21.563131,-51.2658432,false,non-customer,
+60,Eveline,Dallaghan,F,Quality Engineer,9041166400,example.com,eveline.dallaghan@example.com,BR,Brazil,São José de Mipibu,-6.0777029,-35.2420083,true,platinum,2019-08-08 19:30:09
+61,Bancroft,Martinek,F,VP Quality Control,4846249776,cnbc.com,bancroft.martinek@cnbc.com,BR,Brazil,Rio Negrinho,-26.424537,-49.5483671,false,non-customer,
+62,Corrina,Dumbreck,F,Human Resources Manager,2266903004,yellowpages.com,corrina.dumbreck@yellowpages.com,BR,Brazil,Votorantim,-23.5388072,-47.4563943,false,non-customer,
+63,Kelsy,Bedson,M,Office Assistant II,8478678854,barnesandnoble.com,kelsy.bedson@barnesandnoble.com,BR,Brazil,Inhumas,-16.3062209,-49.4872858,true,standard,2018-03-01 02:32:55
+64,Doralynne,Gehrts,M,Financial Advisor,7202581045,adobe.com,doralynne.gehrts@adobe.com,BR,Brazil,Frei Paulo,-10.5440373,-37.5960704,false,non-customer,
+65,Barbey,Corradengo,M,Assistant Media Planner,7161587366,baidu.com,barbey.corradengo@baidu.com,BR,Brazil,Barra Mansa,-22.5408519,-44.1772604,true,premium,2019-01-28 18:53:19
+66,Clim,Duffyn,M,Product Engineer,5697396813,yelp.com,clim.duffyn@yelp.com,BR,Brazil,Nova Olímpia,-23.4739979,-53.088539,false,non-customer,
+67,Rockwell,Bagley,F,Financial Analyst,9103015183,nih.gov,rockwell.bagley@nih.gov,BR,Brazil,Itinga,-16.5625267,-41.8402054,false,non-customer,
+68,Garret,Gamwell,M,Developer IV,6178054982,phpbb.com,garret.gamwell@phpbb.com,BR,Brazil,Dois Córregos,-22.3734081,-48.3860575,true,platinum,2018-08-09 08:41:10
+69,Legra,Pirot,M,Clinical Specialist,5354953796,mozilla.com,legra.pirot@mozilla.com,BR,Brazil,Quaraí,-30.3845133,-56.4488086,false,non-customer,
+70,Evered,Clack,M,Assistant Media Planner,3174355205,theatlantic.com,evered.clack@theatlantic.com,BR,Brazil,Poá,-23.5198964,-46.3408798,false,non-customer,
+71,Mitch,Bowery,M,Community Outreach Specialist,7363994814,opensource.org,mitch.bowery@opensource.org,BR,Brazil,Marechal Deodoro,-9.710143,-35.897056,true,platinum,2019-11-20 09:15:13
+72,Korry,Grand,F,Payment Adjustment Coordinator,5533392536,geocities.jp,korry.grand@geocities.jp,BR,Brazil,Buri,-23.7981763,-48.5962748,false,non-customer,
+73,Janek,O'Noulane,M,Account Coordinator,8509722544,geocities.jp,janek.o'noulane@geocities.jp,BR,Brazil,Abreu e Lima,-7.9011493,-34.8987086,false,non-customer,
+74,Milissent,Abbes,F,Legal Assistant,8145059232,tinyurl.com,milissent.abbes@tinyurl.com,BR,Brazil,Iperó,-23.351784,-47.6931718,false,non-customer,
+75,Dorey,Capey,M,Community Outreach Specialist,6543532228,examiner.com,dorey.capey@examiner.com,BR,Brazil,Campo Largo,-25.4596855,-49.5273149,false,non-customer,
+76,Dacy,Polfer,F,Tax Accountant,6917112436,china.com.cn,dacy.polfer@china.com.cn,BR,Brazil,Passos,-20.7430332,-46.6096926,true,platinum,2018-07-03 11:08:43
+77,Tamqrah,Horry,M,GIS Technical Architect,2718795929,feedburner.com,tamqrah.horry@feedburner.com,BR,Brazil,Bom Despacho,-19.6499319,-45.2243578,true,platinum,2018-11-26 03:21:35
+78,Jordon,Watkins,M,Assistant Media Planner,1544274101,yellowpages.com,jordon.watkins@yellowpages.com,BR,Brazil,Lins,-21.6733002,-49.7471388,true,premium,2020-02-19 20:16:21
+79,Ransom,Reiglar,M,Technical Writer,3153258080,ucsd.edu,ransom.reiglar@ucsd.edu,BR,Brazil,Erechim,-27.6849439,-52.2337184,false,non-customer,
+80,Wilone,Heakins,F,Technical Writer,7866396077,utexas.edu,wilone.heakins@utexas.edu,BR,Brazil,Colatina,-19.5365508,-40.6258001,true,standard,2019-12-24 14:26:10
+81,Rozanne,Alleyne,M,Sales Associate,6076791723,flavors.me,rozanne.alleyne@flavors.me,BR,Brazil,Morrinhos,-17.7178133,-49.1221414,false,non-customer,
+82,Aymer,Rawsen,M,Senior Sales Associate,3914845938,creativecommons.org,aymer.rawsen@creativecommons.org,BR,Brazil,Imbituva,-25.2641605,-50.6378804,true,platinum,2018-10-24 16:42:42
+83,Kimble,Shakelady,F,Programmer IV,5397896884,wikipedia.org,kimble.shakelady@wikipedia.org,BR,Brazil,Prudentópolis,-25.1023112,-51.1376317,true,standard,2018-08-18 00:45:25
+84,Trish,Lilbourne,M,Software Consultant,5531259928,phoca.cz,trish.lilbourne@phoca.cz,BR,Brazil,Juazeiro do Norte,-7.22698,-39.297682,false,non-customer,
+85,Donica,Drew,M,Research Associate,8034248303,desdev.cn,donica.drew@desdev.cn,BR,Brazil,Medeiros Neto,-17.3079902,-40.1862129,false,non-customer,
+86,Elsinore,Cashley,F,Analyst Programmer,6123838543,usnews.com,elsinore.cashley@usnews.com,BR,Brazil,Barão de Melgaço,-16.9163431,-56.0249982,false,non-customer,
+87,Cecily,Peiser,F,Recruiting Manager,3468978639,mediafire.com,cecily.peiser@mediafire.com,BR,Brazil,Barra do Corda,-5.5018917,-45.2464996,false,non-customer,
+88,Rog,Stobbie,M,Pharmacist,8062543601,shop-pro.jp,rog.stobbie@shop-pro.jp,BR,Brazil,Macaíba,-5.8949347,-35.4343604,true,standard,2018-09-23 19:32:40
+89,Abbott,Mateiko,M,Senior Editor,7663990221,devhub.com,abbott.mateiko@devhub.com,BR,Brazil,Miracema,-21.4138052,-42.1917995,false,non-customer,
+90,Petronella,Pepperell,M,Professor,9419283041,tiny.cc,petronella.pepperell@tiny.cc,BR,Brazil,São Sebastião,-23.7243543,-45.4306592,false,non-customer,
+91,Daffi,Cisar,F,Registered Nurse,3525100767,multiply.com,daffi.cisar@multiply.com,BR,Brazil,Presidente Médici,-11.1693755,-61.8991382,true,standard,2018-04-14 20:28:26
+92,Raimund,Trimmill,M,Project Manager,3866210765,china.com.cn,raimund.trimmill@china.com.cn,BR,Brazil,Serrana,-21.2105166,-47.625836,false,non-customer,
+93,Marti,Burdge,M,Research Assistant I,4801722138,twitpic.com,marti.burdge@twitpic.com,BR,Brazil,Dois Vizinhos,-25.7464549,-53.0615734,false,non-customer,
+94,Morten,Fury,F,Graphic Designer,3743879792,google.ru,morten.fury@google.ru,BR,Brazil,Guapimirim,-22.5961542,-42.9611571,false,non-customer,
+95,Margie,Hakeworth,F,Technical Writer,8266590228,cbsnews.com,margie.hakeworth@cbsnews.com,BR,Brazil,Caçapava do Sul,-30.5148445,-53.4832383,true,platinum,2019-11-13 10:42:28
+96,Klarika,Van den Velden,F,Research Assistant I,2677510910,studiopress.com,klarika.van den velden@studiopress.com,BR,Brazil,Itaitinga,-3.9715688,-38.5276456,true,standard,2019-10-29 20:03:24
+97,Gypsy,Grist,F,GIS Technical Architect,2789242005,gmpg.org,gypsy.grist@gmpg.org,BR,Brazil,Novo Hamburgo,-29.6918991,-51.1255697,true,premium,2018-09-18 21:18:12
+98,Caz,Houlworth,F,Electrical Engineer,9315640454,tinypic.com,caz.houlworth@tinypic.com,BR,Brazil,Penalva,-3.2148486,-45.2618568,false,non-customer,
+99,Ursala,Wannop,M,Software Consultant,1485109849,multiply.com,ursala.wannop@multiply.com,BR,Brazil,Caxias,-4.8654138,-43.3619983,true,platinum,2018-12-17 18:49:29
+100,Richie,Allmark,M,Staff Accountant II,2529574201,mit.edu,richie.allmark@mit.edu,BR,Brazil,Jardim do Seridó,-6.5843262,-36.7731681,true,platinum,2018-05-01 04:34:35
+101,Emili,Gerardet,F,Developer II,1924408901,cdc.gov,emili.gerardet@cdc.gov,BR,Brazil,Irati,-26.6246782,-52.8955875,false,non-customer,
+102,Vance,Timmermann,F,Automation Specialist IV,1816698670,printfriendly.com,vance.timmermann@printfriendly.com,BR,Brazil,Porto Alegre,-30.0758479,-51.1787781,true,platinum,2018-04-25 04:28:49
+103,Johnathon,Swyndley,M,Budget/Accounting Analyst I,1839022436,posterous.com,johnathon.swyndley@posterous.com,BR,Brazil,Cajueiro,-9.367769,-36.1545404,false,non-customer,
+104,Ira,Eminson,M,Electrical Engineer,6219232114,home.pl,ira.eminson@home.pl,BR,Brazil,Timbiras,-4.087067,-43.7142484,false,non-customer,
+105,Garrott,Klarzynski,M,Quality Engineer,3176540527,unicef.org,garrott.klarzynski@unicef.org,BR,Brazil,Belém,-6.6906402,-35.5000999,false,non-customer,
+106,Mattie,Heyball,F,Director of Sales,7218490250,1688.com,mattie.heyball@1688.com,BR,Brazil,Ibaiti,-23.8401119,-50.1924435,false,non-customer,
+107,Codie,Ketteman,M,Design Engineer,4314973309,omniture.com,codie.ketteman@omniture.com,BR,Brazil,Assis,-22.6604341,-50.4187813,true,platinum,2018-08-14 21:35:41
+108,Hadrian,Folini,F,Staff Scientist,1901231702,usa.gov,hadrian.folini@usa.gov,BR,Brazil,Guaratinguetá,-22.8140057,-45.1904004,true,standard,2019-09-30 08:33:27
+109,Sibbie,Martineau,M,Assistant Media Planner,6275329723,4shared.com,sibbie.martineau@4shared.com,BR,Brazil,Monte Alegre,-6.0912649,-35.4124355,true,standard,2018-02-02 16:31:21
+110,Ethyl,O'Heneghan,M,Administrative Assistant II,1509414359,pen.io,ethyl.o'heneghan@pen.io,BR,Brazil,Uberlândia,-18.9172494,-48.2841556,true,platinum,2018-07-16 11:50:17
+111,Beilul,Staining,F,Analog Circuit Design manager,2108734263,bloglovin.com,beilul.staining@bloglovin.com,BR,Brazil,Birigui,-21.2922593,-50.3407923,false,non-customer,
+112,Pincus,Columbell,F,Clinical Specialist,9269985646,alibaba.com,pincus.columbell@alibaba.com,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+113,Helga,Asken,F,Senior Financial Analyst,8446097230,ucoz.com,helga.asken@ucoz.com,BR,Brazil,Pirajuí,-21.9929318,-49.4547036,true,platinum,2019-04-08 18:36:28
+114,Isabella,Tute,M,Payment Adjustment Coordinator,4993717640,flavors.me,isabella.tute@flavors.me,BR,Brazil,Santo Antônio de Posse,-22.6053393,-46.914966,true,premium,2019-09-19 01:55:36
+115,Howey,Trafford,F,Actuary,9547014018,cbc.ca,howey.trafford@cbc.ca,BR,Brazil,Alagoa Grande,-7.0787824,-35.5876697,false,non-customer,
+116,Lynnea,Pfertner,M,Software Engineer I,7747499235,delicious.com,lynnea.pfertner@delicious.com,BR,Brazil,São Bento do Sul,-26.2301262,-49.3471838,true,standard,2018-03-11 19:47:49
+117,Jobye,McEntee,F,Financial Advisor,3415174185,joomla.org,jobye.mcentee@joomla.org,BR,Brazil,Caçapava do Sul,-30.5148445,-53.4832383,true,standard,2019-11-10 03:38:53
+118,Nalani,Vahl,M,Sales Representative,1205866035,networkadvertising.org,nalani.vahl@networkadvertising.org,BR,Brazil,Itiruçu,-13.4743387,-40.1657466,false,non-customer,
+119,Maddalena,Hubber,F,Account Representative IV,7305678440,weebly.com,maddalena.hubber@weebly.com,BR,Brazil,Patos,-7.026967,-37.2776539,false,non-customer,
+120,Sabine,Jeacocke,F,Health Coach I,7974845409,cpanel.net,sabine.jeacocke@cpanel.net,BR,Brazil,Augusto Corrêa,-1.0762009,-46.5547852,false,non-customer,
+121,Bobbie,Offer,M,Physical Therapy Assistant,6453057435,thetimes.co.uk,bobbie.offer@thetimes.co.uk,BR,Brazil,Araraquara,-21.8022635,-48.184644,false,non-customer,
+122,Clarita,Blose,M,Biostatistician IV,5517227978,purevolume.com,clarita.blose@purevolume.com,BR,Brazil,Piraí,-22.602558,-43.9055155,false,non-customer,
+123,Nadia,Feighney,M,Paralegal,9096060898,xinhuanet.com,nadia.feighney@xinhuanet.com,BR,Brazil,Ubatuba,-23.4602881,-45.0479872,true,standard,2019-12-03 07:53:23
+124,Peterus,Moody,M,Teacher,3605482206,symantec.com,peterus.moody@symantec.com,BR,Brazil,Macaíba,-5.8949347,-35.4343604,false,non-customer,
+125,La verne,Cicetti,M,Design Engineer,3603301473,baidu.com,la verne.cicetti@baidu.com,BR,Brazil,Caieiras,-23.3711864,-46.7575221,true,standard,2019-08-25 16:06:41
+126,Henka,Depport,M,Cost Accountant,4881783295,tmall.com,henka.depport@tmall.com,BR,Brazil,Mococa,-21.4649238,-47.0145295,false,non-customer,
+127,Konrad,Witherdon,F,Registered Nurse,3755431272,netvibes.com,konrad.witherdon@netvibes.com,BR,Brazil,São José do Egito,-7.4686612,-37.2746574,false,non-customer,
+128,Theo,Beagan,F,GIS Technical Architect,2008685503,yale.edu,theo.beagan@yale.edu,BR,Brazil,Bom Conselho,-9.2786495,-36.6150136,false,non-customer,
+129,Artie,Rannigan,M,Professor,6395826339,networksolutions.com,artie.rannigan@networksolutions.com,BR,Brazil,Assis,-22.6604341,-50.4187813,true,platinum,2018-01-03 16:52:21
+130,Denny,Cunio,M,Software Test Engineer IV,1626949953,un.org,denny.cunio@un.org,BR,Brazil,Miguel Pereira,-22.4412481,-43.4580314,true,standard,2019-06-04 04:37:54
+131,Isiahi,Bullingham,M,Recruiter,4168138355,google.co.jp,isiahi.bullingham@google.co.jp,BR,Brazil,Muzambinho,-21.35188,-46.4970116,false,non-customer,
+132,Thorvald,Lawes,F,Senior Developer,5398691495,multiply.com,thorvald.lawes@multiply.com,BR,Brazil,Santana de Parnaíba,-23.4429961,-46.9226576,false,non-customer,
+133,Cy,Geffcock,M,Chemical Engineer,5593732270,latimes.com,cy.geffcock@latimes.com,BR,Brazil,Jandira,-23.5307464,-46.8991995,false,non-customer,
+134,Shawn,Stanex,F,Research Associate,4662311247,sfgate.com,shawn.stanex@sfgate.com,BR,Brazil,Tobias Barreto,-11.1851883,-38.0005207,false,non-customer,
+135,Clementine,Popelay,M,Chief Design Engineer,9429510405,accuweather.com,clementine.popelay@accuweather.com,BR,Brazil,Lago da Pedra,-4.5699815,-45.133574,true,platinum,2020-01-22 23:13:33
+136,Janet,Reaman,M,Community Outreach Specialist,2952843551,blogs.com,janet.reaman@blogs.com,BR,Brazil,Itapecerica,-20.4703278,-45.1120424,false,non-customer,
+137,Daisey,Januszkiewicz,F,Assistant Media Planner,5488969714,icq.com,daisey.januszkiewicz@icq.com,BR,Brazil,Gravatá,-8.2116007,-35.5677787,true,platinum,2019-01-05 18:06:16
+138,Dill,Carnow,M,Software Engineer IV,5363733674,exblog.jp,dill.carnow@exblog.jp,BR,Brazil,Corumbá,-19.0152673,-57.6594997,false,non-customer,
+139,Britteny,Crumley,F,Tax Accountant,8169000570,aol.com,britteny.crumley@aol.com,BR,Brazil,Cabedelo,-7.0294857,-34.8458603,true,standard,2018-07-09 14:49:24
+140,Dewitt,Sayse,M,VP Sales,2205025073,addthis.com,dewitt.sayse@addthis.com,BR,Brazil,Maracanaú,-3.879263,-38.612338,false,non-customer,
+141,Lotte,Shankle,F,Design Engineer,4495030693,cloudflare.com,lotte.shankle@cloudflare.com,BR,Brazil,Castelo,-20.6037462,-41.203524,true,platinum,2018-11-15 21:45:07
+142,Beverlee,Pealing,M,Internal Auditor,5355794538,indiegogo.com,beverlee.pealing@indiegogo.com,BR,Brazil,Vilhena,-12.7414031,-60.1304566,false,non-customer,
+143,Misha,Aspling,F,Clinical Specialist,7656776653,google.co.jp,misha.aspling@google.co.jp,BR,Brazil,Passos,-20.7430332,-46.6096926,true,platinum,2018-01-20 18:51:34
+144,Westbrook,Freckelton,M,Executive Secretary,4342686684,hao123.com,westbrook.freckelton@hao123.com,BR,Brazil,Pereira Barreto,-20.6436652,-51.1110523,true,premium,2018-06-22 12:42:51
+145,Antone,Maxsted,M,Senior Cost Accountant,5226295630,addtoany.com,antone.maxsted@addtoany.com,BR,Brazil,Campo Formoso,-10.507793,-40.323089,false,non-customer,
+146,Malva,McPartling,F,Geologist III,8317533204,1und1.de,malva.mcpartling@1und1.de,BR,Brazil,Cajazeiras,-6.8897071,-38.5612185,true,standard,2019-01-14 19:48:27
+147,Paulette,Fleay,M,Analog Circuit Design manager,8795681270,vkontakte.ru,paulette.fleay@vkontakte.ru,BR,Brazil,Estrela,-29.501873,-51.9640632,false,non-customer,
+148,Sissy,Dwyr,F,Occupational Therapist,6086412223,businessweek.com,sissy.dwyr@businessweek.com,BR,Brazil,Ortigueira,-24.2099688,-50.9263297,true,platinum,2018-10-24 04:21:25
+149,Sandie,Eagger,M,Environmental Specialist,4408363222,epa.gov,sandie.eagger@epa.gov,BR,Brazil,Paranapanema,-23.3866812,-48.7218983,false,non-customer,
+150,Maisie,Edgeworth,F,VP Product Management,7052484453,harvard.edu,maisie.edgeworth@harvard.edu,BR,Brazil,Pentecoste,-3.7924795,-39.2698136,false,non-customer,
+151,Karisa,Blooman,F,Recruiter,1961407346,virginia.edu,karisa.blooman@virginia.edu,BR,Brazil,Alvarães,-3.7751449,-65.3807101,true,platinum,2018-11-08 18:33:41
+152,Mortimer,Mendoza,F,Structural Analysis Engineer,5956192057,nationalgeographic.com,mortimer.mendoza@nationalgeographic.com,BR,Brazil,Rio Claro,-22.4101426,-47.5717516,true,standard,2018-06-27 11:00:05
+153,Warde,Speed,M,Occupational Therapist,1732117007,example.com,warde.speed@example.com,BR,Brazil,Navegantes,-26.8947924,-48.6550692,false,non-customer,
+154,Maurine,Henri,F,Web Designer IV,4246011132,tiny.cc,maurine.henri@tiny.cc,BR,Brazil,Maceió,-9.6498487,-35.7089492,true,standard,2019-05-04 21:36:59
+155,Brady,MacDiarmid,M,Nurse Practicioner,3709737694,yahoo.co.jp,brady.macdiarmid@yahoo.co.jp,BR,Brazil,Alfenas,-21.4261129,-45.9481612,true,standard,2019-03-02 12:41:31
+156,Mariana,Poser,M,Senior Cost Accountant,2343404489,opensource.org,mariana.poser@opensource.org,BR,Brazil,Barbacena,-21.2399347,-43.7764925,false,non-customer,
+157,Peirce,Goose,F,Librarian,2541954081,oracle.com,peirce.goose@oracle.com,BR,Brazil,Ortigueira,-24.2099688,-50.9263297,true,standard,2018-03-20 06:37:13
+158,Ros,Halwood,F,Pharmacist,8062049522,answers.com,ros.halwood@answers.com,BR,Brazil,Barra do Bugres,-15.0705872,-57.1882847,true,premium,2018-01-18 03:11:32
+159,Wendie,Colvine,F,Electrical Engineer,8012514708,hostgator.com,wendie.colvine@hostgator.com,BR,Brazil,Jardim,-21.4803962,-56.1494143,true,standard,2019-03-14 04:34:04
+160,Kessiah,Whittuck,M,Account Executive,7074537195,blogspot.com,kessiah.whittuck@blogspot.com,BR,Brazil,Itatinga,-23.1067087,-48.6123867,false,non-customer,
+161,Patrizia,De Ruggero,F,Help Desk Technician,9212904380,skype.com,patrizia.de ruggero@skype.com,BR,Brazil,Pontes e Lacerda,-15.5804435,-59.3800105,true,premium,2019-10-11 01:20:05
+162,Adan,MacFadden,F,Research Associate,3984455853,imgur.com,adan.macfadden@imgur.com,BR,Brazil,Itupiranga,-5.0377529,-49.8547266,false,non-customer,
+163,Ronald,Choffin,M,General Manager,7058626959,hhs.gov,ronald.choffin@hhs.gov,BR,Brazil,Joinville,-26.3044084,-48.8463832,true,standard,2019-01-05 23:26:49
+164,Donnie,Colleran,F,Civil Engineer,9451673238,ocn.ne.jp,donnie.colleran@ocn.ne.jp,BR,Brazil,Cruz das Almas,-12.6735557,-39.1016848,false,non-customer,
+165,Aleta,Sessions,F,Community Outreach Specialist,2663254538,weather.com,aleta.sessions@weather.com,BR,Brazil,Barra do Piraí,-22.4720256,-43.8273373,false,non-customer,
+166,Dede,Tansey,F,Editor,3543010992,i2i.jp,dede.tansey@i2i.jp,BR,Brazil,Porto Real,-22.4183841,-44.3482701,false,non-customer,
+167,Batholomew,Bonham,M,Human Resources Assistant II,1305978673,flavors.me,batholomew.bonham@flavors.me,BR,Brazil,Porto Seguro,-16.4443537,-39.0653656,false,non-customer,
+168,Abelard,Gaucher,M,Help Desk Technician,3223792296,deliciousdays.com,abelard.gaucher@deliciousdays.com,BR,Brazil,Peruíbe,-24.314422,-46.9936142,true,premium,2019-03-20 09:57:01
+169,Virgie,Caudrey,F,Teacher,2122687353,example.com,virgie.caudrey@example.com,BR,Brazil,Uberlândia,-18.9172494,-48.2841556,true,premium,2018-07-30 00:43:54
+170,Briny,Schaumann,M,Accounting Assistant I,2163396316,gnu.org,briny.schaumann@gnu.org,BR,Brazil,Mogi Mirim,-22.455799,-47.0193913,true,standard,2019-07-07 08:23:33
+171,Alphonso,Derrington,M,Senior Financial Analyst,4978409296,reverbnation.com,alphonso.derrington@reverbnation.com,BR,Brazil,Iaçu,-12.8454679,-40.2271243,false,non-customer,
+172,Ottilie,Davidov,F,Editor,8968883067,chron.com,ottilie.davidov@chron.com,BR,Brazil,Bela Vista do Paraíso,-22.9941291,-51.1931385,false,non-customer,
+173,Rasla,Petrazzi,F,Executive Secretary,2705802151,shinystat.com,rasla.petrazzi@shinystat.com,BR,Brazil,Cláudio,-20.4438418,-44.7653198,false,non-customer,
+174,Libbi,Clare,F,Chief Design Engineer,3716981123,wikispaces.com,libbi.clare@wikispaces.com,BR,Brazil,Parnamirim,-8.1347511,-39.734338,false,non-customer,
+175,Kendal,Cabble,M,Chief Design Engineer,4524787994,answers.com,kendal.cabble@answers.com,BR,Brazil,Igarapé Açu,-1.3964218,-48.4609448,true,premium,2019-11-21 16:08:20
+176,Easter,McKechnie,M,Geologist I,8877186778,usgs.gov,easter.mckechnie@usgs.gov,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+177,Alfonse,Perocci,M,Computer Systems Analyst IV,2829632823,wufoo.com,alfonse.perocci@wufoo.com,BR,Brazil,Cruz das Almas,-12.6735557,-39.1016848,true,platinum,2018-10-10 17:37:29
+178,Cristobal,Serotsky,M,Research Assistant III,4587068431,ezinearticles.com,cristobal.serotsky@ezinearticles.com,BR,Brazil,Valença,-22.2496709,-43.8290988,true,platinum,2018-06-19 16:36:46
+179,Hedi,Rubinovici,F,Staff Scientist,9215243822,elpais.com,hedi.rubinovici@elpais.com,BR,Brazil,Novo Aripuanã,-6.3019793,-60.0259466,true,standard,2020-02-21 16:21:53
+180,Ker,Mettricke,M,Legal Assistant,4231955932,craigslist.org,ker.mettricke@craigslist.org,BR,Brazil,Cianorte,-23.701721,-52.6600232,false,non-customer,
+181,Jacki,Kingswood,M,VP Product Management,6214965360,blogs.com,jacki.kingswood@blogs.com,BR,Brazil,Itu,-23.2652376,-47.2997218,false,non-customer,
+182,Haskell,Smythe,M,Analyst Programmer,1556598773,state.gov,haskell.smythe@state.gov,BR,Brazil,Paraty,-23.2218772,-44.7235076,false,non-customer,
+183,Margot,Ewols,F,Office Assistant IV,8307958426,amazon.com,margot.ewols@amazon.com,BR,Brazil,Nepomuceno,-21.2335652,-45.2325476,true,standard,2019-11-25 21:25:43
+184,Eydie,Benny,M,Administrative Assistant I,8113106707,flavors.me,eydie.benny@flavors.me,BR,Brazil,Paraisópolis,-22.548794,-45.7750681,true,platinum,2019-08-18 09:10:44
+185,Glyn,Terzza,F,Nuclear Power Engineer,1547284717,google.ca,glyn.terzza@google.ca,BR,Brazil,Brotas,-22.279958,-48.1255698,false,non-customer,
+186,Virgie,Leindecker,F,Mechanical Systems Engineer,7847909301,surveymonkey.com,virgie.leindecker@surveymonkey.com,BR,Brazil,Camaquã,-30.8493976,-51.8048311,true,premium,2019-04-27 08:42:51
+187,Ingeborg,Trett,M,Biostatistician I,4438606987,tripadvisor.com,ingeborg.trett@tripadvisor.com,BR,Brazil,São Paulo de Olivença,-3.6499007,-69.097023,false,non-customer,
+188,Dallas,Dowtry,M,Media Manager IV,3574530517,topsy.com,dallas.dowtry@topsy.com,BR,Brazil,Trindade,-7.740099,-40.2884386,false,non-customer,
+189,Violette,Johanchon,F,Database Administrator III,8373113588,squarespace.com,violette.johanchon@squarespace.com,BR,Brazil,Varginha,-21.5560521,-45.4368421,false,non-customer,
+190,Westleigh,Joder,F,Programmer IV,5013555134,discovery.com,westleigh.joder@discovery.com,BR,Brazil,Governador Valadares,-18.8549317,-41.9559233,true,platinum,2018-08-01 17:14:16
+191,Anthea,Akast,F,Junior Executive,6117537605,engadget.com,anthea.akast@engadget.com,BR,Brazil,Pará de Minas,-19.8552965,-44.6113601,true,platinum,2019-04-18 02:42:45
+192,Frannie,Harridge,F,Environmental Tech,1154616361,liveinternet.ru,frannie.harridge@liveinternet.ru,BR,Brazil,Nova Olímpia,-23.4739979,-53.088539,false,non-customer,
+193,Sharl,Dollard,F,Web Developer III,8964421424,sourceforge.net,sharl.dollard@sourceforge.net,BR,Brazil,Chapecó,-27.1009343,-52.615699,false,non-customer,
+194,Denni,Curbishley,M,Sales Associate,2138455192,cnet.com,denni.curbishley@cnet.com,BR,Brazil,Valença,-22.2496709,-43.8290988,false,non-customer,
+195,Shell,Aymes,F,Senior Editor,1817080789,vinaora.com,shell.aymes@vinaora.com,BR,Brazil,Itapevi,-23.5325624,-46.9772966,false,non-customer,
+196,Winny,Kuhnt,F,Developer III,4375363903,unesco.org,winny.kuhnt@unesco.org,BR,Brazil,Cravinhos,-21.3407385,-47.7352517,false,non-customer,
+197,Tonye,Eassom,F,Assistant Media Planner,4998665504,state.gov,tonye.eassom@state.gov,BR,Brazil,Jucás,-6.4534018,-39.6105142,true,standard,2019-10-20 12:54:12
+198,Helli,Ivermee,M,Geological Engineer,9138694140,github.com,helli.ivermee@github.com,BR,Brazil,Manoel Urbano,-9.9165208,-70.1455805,true,platinum,2018-03-15 09:56:02
+199,Shelagh,Bliben,F,Junior Executive,2828661894,yandex.ru,shelagh.bliben@yandex.ru,BR,Brazil,Gandu,-13.7968333,-39.465738,false,non-customer,
+200,Lanie,DelaField,M,Desktop Support Technician,2115798533,wp.com,lanie.delafield@wp.com,BR,Brazil,Contagem,-19.9030544,-44.1170051,true,platinum,2019-03-31 15:08:47
+201,Regine,Madeley,M,Sales Representative,4664986929,utexas.edu,regine.madeley@utexas.edu,BR,Brazil,Paulínia,-22.7712817,-47.156739,false,non-customer,
+202,Marlo,Rainsbury,F,Desktop Support Technician,2442368548,huffingtonpost.com,marlo.rainsbury@huffingtonpost.com,BR,Brazil,Araci,-11.2568167,-39.0710754,true,premium,2019-12-09 17:31:58
+203,Dollie,Richarz,F,Staff Accountant II,9311125860,list-manage.com,dollie.richarz@list-manage.com,BR,Brazil,Cachoeiras de Macacu,-22.5580993,-42.7857583,false,non-customer,
+204,Reeva,Cereceres,F,Database Administrator II,9969691828,google.fr,reeva.cereceres@google.fr,BR,Brazil,Formosa,-15.5404411,-47.3374297,true,platinum,2018-06-11 02:25:10
+205,Viviyan,Isac,F,Marketing Manager,1406471826,stanford.edu,viviyan.isac@stanford.edu,BR,Brazil,Casa Branca,-21.7712926,-47.0856897,true,premium,2018-01-19 04:01:16
+206,Clayson,McMillan,F,Budget/Accounting Analyst I,7007550431,dion.ne.jp,clayson.mcmillan@dion.ne.jp,BR,Brazil,Casa Branca,-21.7712926,-47.0856897,true,platinum,2018-02-06 05:16:05
+207,Kennie,Berridge,M,Office Assistant I,9749672896,github.io,kennie.berridge@github.io,BR,Brazil,Caçador,-26.7761609,-51.0124989,false,non-customer,
+208,Alix,Waghorne,M,Quality Engineer,7184548590,bing.com,alix.waghorne@bing.com,BR,Brazil,Bragança,-1.0616193,-46.7830109,false,non-customer,
+209,Niel,Bodman,F,Tax Accountant,8326375792,si.edu,niel.bodman@si.edu,BR,Brazil,Costeira do Pirajubae,-27.6349915,-48.5219457,false,non-customer,
+210,Emery,Murtell,M,Actuary,9978340734,archive.org,emery.murtell@archive.org,BR,Brazil,Ilha Solteira,-20.4363727,-51.3050851,true,premium,2019-05-30 05:22:26
+211,Genny,Levey,F,Account Coordinator,9454646607,bandcamp.com,genny.levey@bandcamp.com,BR,Brazil,Vinhedo,-23.0582715,-47.0286422,true,premium,2018-09-16 17:58:11
+212,Clemence,Hackwell,M,Operator,8411097039,cloudflare.com,clemence.hackwell@cloudflare.com,BR,Brazil,Loanda,-22.9262769,-53.0888943,true,platinum,2019-09-23 22:17:55
+213,Brigham,MacAlpyne,M,Social Worker,1512327973,youku.com,brigham.macalpyne@youku.com,BR,Brazil,Itaúna,-20.0879862,-44.5789542,false,non-customer,
+214,Hildegarde,Blakden,F,Pharmacist,9687669841,mayoclinic.com,hildegarde.blakden@mayoclinic.com,BR,Brazil,Montenegro,-29.6829126,-51.4684153,false,non-customer,
+215,Nilson,Hasser,M,VP Product Management,8929609426,time.com,nilson.hasser@time.com,BR,Brazil,Igarapava,-20.0421785,-47.7563994,true,platinum,2018-10-24 22:50:45
+216,Anne-corinne,Newbatt,F,Senior Cost Accountant,5973215098,google.com.br,anne-corinne.newbatt@google.com.br,BR,Brazil,Santos Dumont,-21.4405898,-43.5222313,true,platinum,2018-06-03 18:41:26
+217,Avram,Rearden,M,Chief Design Engineer,7401150324,godaddy.com,avram.rearden@godaddy.com,BR,Brazil,Portelândia,-17.3474338,-52.7455935,true,standard,2019-04-08 03:24:47
+218,Adelaida,Agdahl,M,Software Engineer I,1865617138,weather.com,adelaida.agdahl@weather.com,BR,Brazil,Anicuns,-16.4613315,-49.9588111,true,premium,2018-09-23 00:04:52
+219,Maurine,Eadmead,M,Systems Administrator II,2739218320,diigo.com,maurine.eadmead@diigo.com,BR,Brazil,Ibiporã,-23.2664186,-51.0527244,true,standard,2018-06-22 18:20:04
+220,Francois,Hacquel,M,Registered Nurse,4522316836,home.pl,francois.hacquel@home.pl,BR,Brazil,Muzambinho,-21.35188,-46.4970116,false,non-customer,
+221,Eliot,Baskerville,M,Software Test Engineer I,1858278246,bing.com,eliot.baskerville@bing.com,BR,Brazil,Santa Rosa de Viterbo,-21.4909206,-47.37045,true,platinum,2018-03-12 04:16:56
+222,Othella,Kilday,M,Account Executive,2334996185,skype.com,othella.kilday@skype.com,BR,Brazil,Ubatuba,-23.4602881,-45.0479872,false,non-customer,
+223,Oswald,Tonks,F,Tax Accountant,7429438480,usgs.gov,oswald.tonks@usgs.gov,BR,Brazil,Oliveira,-20.6984299,-44.8256777,false,non-customer,
+224,Huntington,McCarrick,F,Marketing Assistant,4187338324,shutterfly.com,huntington.mccarrick@shutterfly.com,BR,Brazil,Benjamin Constant,-4.5204349,-69.9550338,true,platinum,2019-10-06 05:49:02
+225,Justin,Perigeaux,M,Software Consultant,4515004286,europa.eu,justin.perigeaux@europa.eu,BR,Brazil,Paiçandu,-23.4554707,-52.0423373,true,standard,2019-02-02 09:30:30
+226,Buckie,Soppitt,F,Research Nurse,1715934370,tuttocitta.it,buckie.soppitt@tuttocitta.it,BR,Brazil,Louveira,-23.0931156,-46.9513691,true,standard,2019-10-09 09:17:28
+227,Bonni,McAless,M,Software Test Engineer I,3582317188,dell.com,bonni.mcaless@dell.com,BR,Brazil,São Sebastião do Caí,-29.5904737,-51.3738524,false,non-customer,
+228,Maible,Weymouth,M,Software Test Engineer II,3087679263,state.tx.us,maible.weymouth@state.tx.us,BR,Brazil,Pacaembu,-21.563131,-51.2658432,false,non-customer,
+229,Alikee,Vergine,F,Design Engineer,2881422138,bloomberg.com,alikee.vergine@bloomberg.com,BR,Brazil,Sinop,-11.8480193,-55.5081012,false,non-customer,
+230,Wyndham,Hayer,M,Structural Analysis Engineer,2409805830,ted.com,wyndham.hayer@ted.com,BR,Brazil,Araçoiaba da Serra,-23.510329,-47.5632863,false,non-customer,
+231,Suzette,Lenney,M,Product Engineer,6539334006,pcworld.com,suzette.lenney@pcworld.com,BR,Brazil,Rancharia,-22.2592565,-50.9706116,false,non-customer,
+232,Joletta,Durgan,F,Business Systems Development Analyst,9775050882,sbwire.com,joletta.durgan@sbwire.com,BR,Brazil,Biguaçu,-27.4955748,-48.6553685,true,premium,2018-02-12 02:25:59
+233,Eamon,Dulinty,F,Nuclear Power Engineer,1075946302,jalbum.net,eamon.dulinty@jalbum.net,BR,Brazil,Bela Vista,-21.9111483,-56.4719928,true,platinum,2018-08-05 01:09:14
+234,Rodrick,Phillot,F,Actuary,3438369595,slate.com,rodrick.phillot@slate.com,BR,Brazil,Mariana,-20.3652719,-43.4150073,true,premium,2019-11-28 09:07:42
+235,Panchito,Geffe,M,Food Chemist,3583708338,fastcompany.com,panchito.geffe@fastcompany.com,BR,Brazil,Alagoinhas,-12.1339689,-38.4211223,false,non-customer,
+236,Jesse,Cornelisse,F,Tax Accountant,1914751784,statcounter.com,jesse.cornelisse@statcounter.com,BR,Brazil,Santa Rita,-7.135868,-34.9662353,true,standard,2020-01-11 01:26:28
+237,Reynard,Owens,F,Software Engineer II,9335730407,exblog.jp,reynard.owens@exblog.jp,BR,Brazil,Cambuí,-22.6118831,-46.0577071,true,premium,2020-02-05 00:02:19
+238,Evvy,Lampe,F,Help Desk Technician,5861728018,wp.com,evvy.lampe@wp.com,BR,Brazil,José Bonifácio,-21.0482479,-49.6879727,true,premium,2019-11-03 18:41:17
+239,Gretta,Gheorghescu,M,Business Systems Development Analyst,6917404603,qq.com,gretta.gheorghescu@qq.com,BR,Brazil,Adamantina,-21.6824831,-51.0741711,false,non-customer,
+240,Jo,Rosenbusch,F,Accounting Assistant IV,8292421130,illinois.edu,jo.rosenbusch@illinois.edu,BR,Brazil,Itabaianinha,-11.2750411,-37.7879303,false,non-customer,
+241,Deloris,Cokly,M,Research Assistant II,1603710794,oracle.com,deloris.cokly@oracle.com,BR,Brazil,Petrolina,-9.3988444,-40.4996855,true,platinum,2018-12-17 23:03:23
+242,Hephzibah,Pickersgill,F,Senior Cost Accountant,7782400361,seattletimes.com,hephzibah.pickersgill@seattletimes.com,BR,Brazil,Goiatuba,-17.9659326,-49.6503106,false,non-customer,
+243,Marya,Calvard,M,Budget/Accounting Analyst I,5111176057,disqus.com,marya.calvard@disqus.com,BR,Brazil,Capivari,-22.9972026,-47.512814,false,non-customer,
+244,Brandy,Whittles,F,Senior Financial Analyst,3482896154,weather.com,brandy.whittles@weather.com,BR,Brazil,Piritiba,-11.7088712,-40.5940565,false,non-customer,
+245,Dru,Wemyss,F,Administrative Officer,8782211877,boston.com,dru.wemyss@boston.com,BR,Brazil,Araguari,-18.6517964,-48.1904503,true,platinum,2018-04-19 14:51:17
+246,Torrie,Haskett,M,Director of Sales,7494110801,quantcast.com,torrie.haskett@quantcast.com,BR,Brazil,Bragança Paulista,-22.9531705,-46.5423239,true,standard,2019-05-27 13:48:06
+247,Delainey,Dawtrey,M,Help Desk Operator,4372157598,cdbaby.com,delainey.dawtrey@cdbaby.com,BR,Brazil,Campina Grande do Sul,-25.304882,-49.0555691,true,premium,2018-08-18 10:39:07
+248,Merlina,Margaret,M,Quality Engineer,8302477248,census.gov,merlina.margaret@census.gov,BR,Brazil,Schroeder,-26.3749827,-49.0615086,true,premium,2019-05-13 07:48:30
+249,Rhetta,Crosby,F,Staff Scientist,7602287001,shutterfly.com,rhetta.crosby@shutterfly.com,BR,Brazil,Lago dos Rodrigues,-4.6138241,-44.9833395,true,premium,2019-07-31 19:54:05
+250,Hilario,Harbert,M,Nurse Practicioner,3776532689,mysql.com,hilario.harbert@mysql.com,BR,Brazil,Piritiba,-11.7088712,-40.5940565,true,standard,2019-01-02 08:03:31
+251,Stacy,Inkles,M,Junior Executive,2528779862,twitpic.com,stacy.inkles@twitpic.com,BR,Brazil,Osvaldo Cruz,-21.7972251,-50.879763,false,non-customer,
+252,Holli,Levis,F,VP Product Management,2984467281,bbc.co.uk,holli.levis@bbc.co.uk,BR,Brazil,Padre Bernardo,-15.158624,-48.2802925,false,non-customer,
+253,Elsbeth,Hadcroft,M,Analyst Programmer,7991657691,loc.gov,elsbeth.hadcroft@loc.gov,BR,Brazil,Corumbá,-19.0081688,-57.6515503,false,non-customer,
+254,Culley,Sanham,M,Internal Auditor,4002756028,umn.edu,culley.sanham@umn.edu,BR,Brazil,Dois Córregos,-22.3734081,-48.3860575,false,non-customer,
+255,Clarey,Kiely,M,Analyst Programmer,4043337630,utexas.edu,clarey.kiely@utexas.edu,BR,Brazil,Osasco,-23.5328871,-46.7919978,false,non-customer,
+256,Johnathan,Tallis,M,Senior Editor,2245792750,istockphoto.com,johnathan.tallis@istockphoto.com,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+257,Harley,Moggach,F,Professor,4285907907,etsy.com,harley.moggach@etsy.com,BR,Brazil,Porto Alegre,-30.0758479,-51.1787781,true,premium,2018-04-12 00:18:49
+258,Stormi,Canadas,M,Speech Pathologist,2225087913,dell.com,stormi.canadas@dell.com,BR,Brazil,Ipu,-4.3220187,-40.7092475,false,non-customer,
+259,Nydia,McElory,M,Sales Representative,6508706815,economist.com,nydia.mcelory@economist.com,BR,Brazil,Itinga,-16.5625267,-41.8402054,true,platinum,2018-11-26 22:37:28
+260,Isiahi,Enticknap,M,Systems Administrator III,4348333936,indiatimes.com,isiahi.enticknap@indiatimes.com,BR,Brazil,Schroeder,-26.3749827,-49.0615086,true,platinum,2018-09-12 23:16:16
+261,Faina,Coatsworth,M,Internal Auditor,7748538075,about.com,faina.coatsworth@about.com,BR,Brazil,Presidente Dutra,-22.5845295,-44.0491741,false,non-customer,
+262,Norina,Willoughby,M,Internal Auditor,3839554926,washington.edu,norina.willoughby@washington.edu,BR,Brazil,Pantano do Sul,-27.5703548,-48.62059,false,non-customer,
+263,Lonnie,Packington,F,Pharmacist,3651133080,nature.com,lonnie.packington@nature.com,BR,Brazil,Abaeté,-19.157438,-45.4447859,true,premium,2019-04-04 19:54:26
+264,Devi,Attwood,F,Biostatistician I,2739396678,mysql.com,devi.attwood@mysql.com,BR,Brazil,Guanhães,-18.8424187,-42.8247877,true,standard,2019-07-15 15:35:04
+265,Sigvard,Loney,F,Quality Control Specialist,7147272797,washington.edu,sigvard.loney@washington.edu,BR,Brazil,Medeiros Neto,-17.3079902,-40.1862129,false,non-customer,
+266,Cob,Sparshutt,M,Help Desk Operator,2844468305,is.gd,cob.sparshutt@is.gd,BR,Brazil,Amparo,-22.7064041,-46.7694191,false,non-customer,
+267,Barry,Gyngyll,F,Data Coordiator,9576433127,yale.edu,barry.gyngyll@yale.edu,BR,Brazil,Inhumas,-16.3062209,-49.4872858,false,non-customer,
+268,Agosto,Mandrier,M,Engineer III,1442724202,dailymail.co.uk,agosto.mandrier@dailymail.co.uk,BR,Brazil,Saubara,-12.7732,-38.7891606,true,platinum,2019-02-21 11:50:50
+269,Yorgos,Eldridge,M,Budget/Accounting Analyst IV,2111318700,51.la,yorgos.eldridge@51.la,BR,Brazil,Juiz de Fora,-21.7699268,-43.3309142,false,non-customer,
+270,Kaitlynn,Speed,F,Structural Analysis Engineer,2141949744,hexun.com,kaitlynn.speed@hexun.com,BR,Brazil,Ribeirão da Ilha,-27.7145846,-48.5606259,false,non-customer,
+271,Perle,Dufour,M,Speech Pathologist,6759369532,tinypic.com,perle.dufour@tinypic.com,BR,Brazil,Palmas de Monte Alto,-14.1500098,-43.2521507,false,non-customer,
+272,Rosaline,O'Devey,M,Internal Auditor,2315486350,businesswire.com,rosaline.o'devey@businesswire.com,BR,Brazil,Barra Velha,-26.6329034,-48.6844637,true,platinum,2019-06-22 22:42:35
+273,Morgen,Vanyatin,F,Research Assistant I,4899081446,cisco.com,morgen.vanyatin@cisco.com,BR,Brazil,Avaré,-23.1072154,-48.925516,true,platinum,2019-06-17 13:05:42
+274,Gay,Rhodef,F,Nurse Practicioner,1121091367,webeden.co.uk,gay.rhodef@webeden.co.uk,BR,Brazil,Araras,-22.3595631,-47.3853435,false,non-customer,
+275,Munmro,Bumford,M,Help Desk Operator,9569408343,smh.com.au,munmro.bumford@smh.com.au,BR,Brazil,Belford Roxo,-22.7645391,-43.3996264,false,non-customer,
+276,Dominik,Chillingworth,F,Quality Control Specialist,5822846256,cpanel.net,dominik.chillingworth@cpanel.net,BR,Brazil,Cabo Frio,-22.8340652,-42.0205561,false,non-customer,
+277,Kassie,Gover,M,Assistant Professor,7364450049,google.pl,kassie.gover@google.pl,BR,Brazil,Cícero Dantas,-10.5732996,-38.4429274,false,non-customer,
+278,Arline,Mallabund,F,Staff Accountant IV,3077198452,arizona.edu,arline.mallabund@arizona.edu,BR,Brazil,Porto Seguro,-16.4443537,-39.0653656,true,platinum,2019-12-19 08:24:42
+279,Mildred,McKeurton,M,Junior Executive,3851262284,nymag.com,mildred.mckeurton@nymag.com,BR,Brazil,São José do Egito,-7.4686612,-37.2746574,false,non-customer,
+280,Fanchon,Frankham,M,Nurse,4824897297,miibeian.gov.cn,fanchon.frankham@miibeian.gov.cn,BR,Brazil,Dom Pedro,-4.9843552,-44.4370606,true,platinum,2019-07-04 08:23:13
+281,Lyn,Adenot,F,Registered Nurse,2019801275,youku.com,lyn.adenot@youku.com,BR,Brazil,Jacarezinho,-23.1734868,-49.9783088,false,non-customer,
+282,Gavan,Binny,M,Budget/Accounting Analyst II,7016053838,vkontakte.ru,gavan.binny@vkontakte.ru,BR,Brazil,Barra Velha,-26.6329034,-48.6844637,false,non-customer,
+283,Caroline,Markson,F,Chemical Engineer,4947158850,marketwatch.com,caroline.markson@marketwatch.com,BR,Brazil,Bertioga,-23.8182859,-46.0851681,true,platinum,2019-10-01 03:00:14
+284,Kelsy,Sheers,F,Human Resources Manager,2893237672,dell.com,kelsy.sheers@dell.com,BR,Brazil,Pantanal,-27.6146187,-48.5162223,false,non-customer,
+285,Alphard,Purkess,M,Human Resources Assistant II,6781838693,cisco.com,alphard.purkess@cisco.com,BR,Brazil,Arcos,-20.2877726,-45.5396954,true,premium,2019-12-23 08:09:09
+286,Sianna,Bohlmann,M,Account Executive,2989088674,123-reg.co.uk,sianna.bohlmann@123-reg.co.uk,BR,Brazil,Piraquara,-25.4426635,-49.0628847,true,platinum,2018-06-29 00:00:20
+287,Sigismond,Bucham,M,Staff Scientist,8095549559,techcrunch.com,sigismond.bucham@techcrunch.com,BR,Brazil,Paranaíba,-19.67511,-51.1913338,false,non-customer,
+288,Tiff,Gligori,M,Physical Therapy Assistant,2199315705,cnbc.com,tiff.gligori@cnbc.com,BR,Brazil,Monte Aprazível,-20.7736517,-49.7107263,true,standard,2020-02-20 20:30:19
+289,Horatia,Sillett,M,Nuclear Power Engineer,2035259035,addtoany.com,horatia.sillett@addtoany.com,BR,Brazil,Jundiaí,-23.2074329,-46.8337604,true,premium,2019-03-17 11:34:12
+290,Adelind,Kite,F,Sales Representative,2187574137,vimeo.com,adelind.kite@vimeo.com,BR,Brazil,Barra Velha,-26.6329034,-48.6844637,true,standard,2019-02-15 13:55:02
+291,Hortense,De Brett,F,Occupational Therapist,8907364998,51.la,hortense.de brett@51.la,BR,Brazil,Teresina,-5.0395725,-42.8036388,true,standard,2018-09-13 06:16:08
+292,Issy,Kenningley,F,Developer II,8561270794,deviantart.com,issy.kenningley@deviantart.com,BR,Brazil,Cruzeiro do Sul,-29.5137043,-51.99249,true,premium,2019-05-27 23:24:15
+293,Bing,Hiland,F,Statistician I,4288898417,meetup.com,bing.hiland@meetup.com,BR,Brazil,Rio Pardo,-29.984393,-52.3760103,true,platinum,2018-05-24 22:36:41
+294,Ricki,Danell,F,Social Worker,1097870458,miibeian.gov.cn,ricki.danell@miibeian.gov.cn,BR,Brazil,São Luís,-2.5421083,-44.3290923,true,platinum,2019-04-04 17:23:10
+295,Rosabella,Haggata,M,Account Executive,1163139299,slideshare.net,rosabella.haggata@slideshare.net,BR,Brazil,Itajaí,-26.9107052,-48.6709133,false,non-customer,
+296,Neille,Lugton,M,Senior Financial Analyst,8755386288,newyorker.com,neille.lugton@newyorker.com,BR,Brazil,Lagoa Santa,-19.5803242,-43.9503713,true,platinum,2019-03-27 21:59:31
+297,Arnaldo,Braunle,M,Automation Specialist II,6275748062,mashable.com,arnaldo.braunle@mashable.com,BR,Brazil,Morrinhos,-17.7178133,-49.1221414,true,standard,2019-11-15 05:56:52
+298,Galvin,Turbill,M,Sales Associate,7621123735,usnews.com,galvin.turbill@usnews.com,BR,Brazil,Laguna,-28.4748354,-48.7837539,false,non-customer,
+299,Fran,Gethin,M,Mechanical Systems Engineer,4588274681,mediafire.com,fran.gethin@mediafire.com,BR,Brazil,Guará,-20.4894632,-47.7834888,true,standard,2019-10-19 11:32:18
+300,Raine,Pulley,M,Assistant Manager,8104330026,unc.edu,raine.pulley@unc.edu,BR,Brazil,Santa Rita do Sapucaí,-22.2528986,-45.7049987,false,non-customer,
+301,Cosimo,Rollinson,M,VP Product Management,3649993303,wordpress.com,cosimo.rollinson@wordpress.com,BR,Brazil,Brejo Santo,-7.4892361,-38.9842531,true,standard,2020-02-06 07:39:14
+302,Ferne,Habeshaw,M,Engineer III,9302552320,illinois.edu,ferne.habeshaw@illinois.edu,BR,Brazil,Rubiataba,-15.1662376,-49.8052085,false,non-customer,
+303,Laurianne,Fatscher,F,Budget/Accounting Analyst III,8516149457,tamu.edu,laurianne.fatscher@tamu.edu,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+304,Ryan,Honack,F,Occupational Therapist,8505062093,usatoday.com,ryan.honack@usatoday.com,BR,Brazil,Parelhas,-6.6858425,-36.6602483,true,standard,2018-09-10 00:07:08
+305,Ana,Tiery,F,Programmer IV,7641429946,npr.org,ana.tiery@npr.org,BR,Brazil,Guará,-20.4894632,-47.7834888,true,platinum,2018-01-02 19:24:35
+306,Lishe,Iacivelli,F,Financial Analyst,1092397708,w3.org,lishe.iacivelli@w3.org,BR,Brazil,Anápolis,-16.328546,-48.953403,true,premium,2019-03-11 09:45:52
+307,Haydon,Serjent,F,Marketing Manager,4705297017,sourceforge.net,haydon.serjent@sourceforge.net,BR,Brazil,Carmo do Cajuru,-20.1851206,-44.7711099,false,non-customer,
+308,Malina,Iacopini,F,Environmental Specialist,4384516397,nifty.com,malina.iacopini@nifty.com,BR,Brazil,Sananduva,-27.950568,-51.8148609,true,standard,2018-10-22 20:02:36
+309,Phip,Proom,M,Clinical Specialist,4702267010,census.gov,phip.proom@census.gov,BR,Brazil,Oliveira,-20.6984299,-44.8256777,false,non-customer,
+310,Persis,Altamirano,F,Safety Technician II,4969519126,cdbaby.com,persis.altamirano@cdbaby.com,BR,Brazil,Itajaí,-26.9107052,-48.6709133,true,platinum,2019-07-30 12:17:20
+311,Konstantine,Stiff,F,Teacher,5781457141,google.ru,konstantine.stiff@google.ru,BR,Brazil,Cruzeiro do Oeste,-23.7834562,-53.0762805,false,non-customer,
+312,Noel,Peerman,F,Structural Analysis Engineer,1174086064,nydailynews.com,noel.peerman@nydailynews.com,BR,Brazil,Ipauçu,-23.0552782,-49.623678,true,standard,2020-01-09 18:09:59
+313,Clotilda,Gabey,M,Business Systems Development Analyst,4784627635,blinklist.com,clotilda.gabey@blinklist.com,BR,Brazil,Bayeux,-7.1562056,-34.9313665,false,non-customer,
+314,Crissy,Hodgets,F,Media Manager II,9784206349,wikispaces.com,crissy.hodgets@wikispaces.com,BR,Brazil,Pomerode,-26.7376205,-49.1743626,true,platinum,2019-10-01 04:24:45
+315,Ebony,Gwinnett,F,Associate Professor,6595294518,sina.com.cn,ebony.gwinnett@sina.com.cn,BR,Brazil,Barroso,-21.1880429,-43.9759925,true,platinum,2018-01-26 04:48:11
+316,Christye,Lahiff,M,Junior Executive,1262477137,elegantthemes.com,christye.lahiff@elegantthemes.com,BR,Brazil,Itaituba,-4.2670701,-55.9931173,true,platinum,2018-12-20 08:14:10
+317,Sydel,Durtnall,M,Human Resources Assistant III,2823997335,ucoz.com,sydel.durtnall@ucoz.com,BR,Brazil,Coaraci,-14.6486494,-39.5898526,true,premium,2018-04-15 12:16:43
+318,Amata,Tenny,F,Accounting Assistant I,5837938338,hc360.com,amata.tenny@hc360.com,BR,Brazil,Vilhena,-12.7398884,-60.1422676,false,non-customer,
+319,Vassily,Forward,M,Office Assistant III,3069889207,ameblo.jp,vassily.forward@ameblo.jp,BR,Brazil,Campo Mourão,-24.0416026,-52.3693218,false,non-customer,
+320,Ramona,Pyper,F,Business Systems Development Analyst,2788663711,foxnews.com,ramona.pyper@foxnews.com,BR,Brazil,Cláudio,-20.4438418,-44.7653198,true,standard,2019-07-24 11:25:35
+321,Sharia,Golde,F,Senior Editor,4803243715,archive.org,sharia.golde@archive.org,BR,Brazil,Piúma,-20.8420055,-40.7357215,true,premium,2019-09-13 22:19:17
+322,Eberhard,Maruszewski,M,Safety Technician II,9252548760,skyrock.com,eberhard.maruszewski@skyrock.com,BR,Brazil,Araguaína,-7.1927733,-48.204827,true,premium,2019-06-09 01:23:35
+323,Barrett,Burgiss,F,Human Resources Manager,6563212587,dedecms.com,barrett.burgiss@dedecms.com,BR,Brazil,Itaí,-23.4217742,-49.0924714,true,platinum,2019-10-06 10:23:40
+324,Olympie,Giraux,F,Assistant Manager,4354982080,chronoengine.com,olympie.giraux@chronoengine.com,BR,Brazil,Unaí,-16.361238,-46.900245,true,premium,2018-10-07 16:13:44
+325,Christophe,Exton,F,Web Developer I,3614961761,examiner.com,christophe.exton@examiner.com,BR,Brazil,Osasco,-23.5328871,-46.7919978,true,platinum,2018-04-08 16:56:24
+326,Shirley,Caudrelier,F,Financial Analyst,2786034754,ox.ac.uk,shirley.caudrelier@ox.ac.uk,BR,Brazil,Sidrolândia,-20.9306687,-54.9697212,false,non-customer,
+327,Maye,Ysson,F,Environmental Tech,6646788134,webeden.co.uk,maye.ysson@webeden.co.uk,BR,Brazil,Itaberaí,-16.0222492,-49.8004866,true,standard,2018-05-19 08:46:11
+328,Kenton,Kleinber,F,Registered Nurse,1017043703,newyorker.com,kenton.kleinber@newyorker.com,BR,Brazil,Guarulhos,-23.4543148,-46.5336521,true,premium,2019-07-23 01:18:00
+329,Turner,Mortel,M,Marketing Manager,6544307707,scribd.com,turner.mortel@scribd.com,BR,Brazil,Caxias,-4.8654138,-43.3619983,true,platinum,2019-05-17 06:41:53
+330,Elene,Aliberti,F,Account Representative I,7862468272,yellowbook.com,elene.aliberti@yellowbook.com,BR,Brazil,Itambacuri,-18.1880676,-41.8799408,false,non-customer,
+331,Gale,Elkington,M,Internal Auditor,9856908811,artisteer.com,gale.elkington@artisteer.com,BR,Brazil,Rio Formoso,-8.6836833,-35.2807624,false,non-customer,
+332,Oliy,Springthorpe,F,Marketing Assistant,2385520012,people.com.cn,oliy.springthorpe@people.com.cn,BR,Brazil,Ribas do Rio Pardo,-20.6444521,-53.5635637,false,non-customer,
+333,Carma,Lanphier,F,Web Developer III,5281763296,newyorker.com,carma.lanphier@newyorker.com,BR,Brazil,Pouso Alegre,-22.250939,-45.928795,false,non-customer,
+334,Lilian,Rideout,M,Budget/Accounting Analyst IV,9857703511,microsoft.com,lilian.rideout@microsoft.com,BR,Brazil,Porto Alegre,-30.0758479,-51.1787781,false,non-customer,
+335,Guenevere,Chidler,F,Human Resources Assistant IV,8839147210,reuters.com,guenevere.chidler@reuters.com,BR,Brazil,Igarapé Miri,-0.1624837,-50.0000408,false,non-customer,
+336,Graig,Lindblom,F,Administrative Assistant I,9958051885,dell.com,graig.lindblom@dell.com,BR,Brazil,Monte Santo de Minas,-21.2080662,-46.941659,false,non-customer,
+337,Brittni,Kubat,F,VP Accounting,1029533756,adobe.com,brittni.kubat@adobe.com,BR,Brazil,Cambebba,-3.8017999,-38.4809114,false,non-customer,
+338,Gil,Sheffield,F,Database Administrator I,1735700646,nasa.gov,gil.sheffield@nasa.gov,BR,Brazil,Bastos,-21.9221397,-50.7317774,false,non-customer,
+339,Currie,Kildea,F,Engineer I,2909804516,cornell.edu,currie.kildea@cornell.edu,BR,Brazil,Nazaré,-6.3207152,-47.7834888,false,non-customer,
+340,Osborn,Brecher,M,Mechanical Systems Engineer,9899190955,google.co.uk,osborn.brecher@google.co.uk,BR,Brazil,Nossa Senhora da Glória,-10.2156554,-37.4212807,false,non-customer,
+341,Elicia,Haizelden,F,Research Assistant I,7727715375,posterous.com,elicia.haizelden@posterous.com,BR,Brazil,Guarabira,-6.8739016,-35.4562795,true,premium,2018-01-19 17:58:13
+342,Rodge,Garraway,F,Chief Design Engineer,6484592765,miitbeian.gov.cn,rodge.garraway@miitbeian.gov.cn,BR,Brazil,Ilhéus,-14.7929927,-39.0459316,true,standard,2020-01-26 16:30:26
+343,Hakeem,Kleinmann,M,Accountant II,7338543791,studiopress.com,hakeem.kleinmann@studiopress.com,BR,Brazil,Jaguarão,-32.3385963,-53.4770359,false,non-customer,
+344,Claire,Nussey,F,Compensation Analyst,3531650366,oaic.gov.au,claire.nussey@oaic.gov.au,BR,Brazil,Barra do Bugres,-15.0705872,-57.1882847,true,premium,2019-09-21 21:50:55
+345,Elfreda,Laise,F,Technical Writer,6109669183,yolasite.com,elfreda.laise@yolasite.com,BR,Brazil,Nanuque,-17.8546259,-40.3322956,false,non-customer,
+346,Dal,Burril,F,Teacher,9791373582,wufoo.com,dal.burril@wufoo.com,BR,Brazil,Padre Paraíso,-17.0490108,-41.5612423,false,non-customer,
+347,Adham,Salisbury,F,Account Representative IV,7365843251,google.com.au,adham.salisbury@google.com.au,BR,Brazil,Garça,-22.2131635,-49.6555394,true,standard,2018-08-08 19:19:31
+348,Livvie,Cappineer,M,Operator,1447589486,flavors.me,livvie.cappineer@flavors.me,BR,Brazil,Itaberaba,-12.5477492,-40.2271243,false,non-customer,
+349,Vivie,Pennycord,M,Food Chemist,2328258149,wikispaces.com,vivie.pennycord@wikispaces.com,BR,Brazil,Pirapora do Bom Jesus,-23.3969772,-46.9995522,true,platinum,2018-01-31 21:44:16
+350,Adan,Catenot,F,Systems Administrator I,6863220325,nydailynews.com,adan.catenot@nydailynews.com,BR,Brazil,Riachão do Jacuípe,-11.8073632,-39.3809152,false,non-customer,
+351,Felizio,Pranger,F,Editor,8943998901,oakley.com,felizio.pranger@oakley.com,BR,Brazil,Piuí,-23.611227,-46.668872,true,premium,2018-02-09 05:28:58
+352,Kitti,Schulke,M,Associate Professor,4104862125,blogtalkradio.com,kitti.schulke@blogtalkradio.com,BR,Brazil,Buíque,-8.5309777,-37.1239897,false,non-customer,
+353,Jennette,Fuentes,F,VP Accounting,7431986218,ihg.com,jennette.fuentes@ihg.com,BR,Brazil,São José do Rio Preto,-20.811761,-49.3762272,true,standard,2018-07-20 22:20:38
+354,Rowland,Rabson,F,Research Associate,6336195067,facebook.com,rowland.rabson@facebook.com,BR,Brazil,Charqueadas,-29.9629768,-51.629387,true,platinum,2019-12-14 00:38:58
+355,Kris,Presho,F,VP Accounting,6808716722,vkontakte.ru,kris.presho@vkontakte.ru,BR,Brazil,Brejo Santo,-7.4892361,-38.9842531,true,standard,2018-06-19 08:49:39
+356,Augustina,Mannakee,M,Nurse,3242045870,nymag.com,augustina.mannakee@nymag.com,BR,Brazil,Santa Vitória do Palmar,-33.5215632,-53.3664818,true,premium,2020-01-29 21:01:23
+357,Ly,Neale,F,Quality Control Specialist,3225111960,phoca.cz,ly.neale@phoca.cz,BR,Brazil,Pinheiro,-2.5101996,-45.1120424,false,non-customer,
+358,Thain,Ellsbury,M,Account Representative III,1013851575,home.pl,thain.ellsbury@home.pl,BR,Brazil,Pimenta Bueno,-11.6723638,-61.1984811,false,non-customer,
+359,Jude,Vergine,M,Software Engineer II,1057660544,sbwire.com,jude.vergine@sbwire.com,BR,Brazil,Rio Grande da Serra,-23.7461236,-46.3958816,false,non-customer,
+360,Orion,Arington,F,VP Marketing,8669658553,free.fr,orion.arington@free.fr,BR,Brazil,Lages,-27.8157141,-50.3263964,false,non-customer,
+361,Ethan,Pilgram,M,Account Coordinator,5077247048,mapy.cz,ethan.pilgram@mapy.cz,BR,Brazil,Ibaiti,-23.8401119,-50.1924435,true,platinum,2019-04-14 07:08:17
+362,Ellwood,Coulson,F,Sales Associate,1924264507,com.com,ellwood.coulson@com.com,BR,Brazil,Caraguatatuba,-23.6233032,-45.4141993,false,non-customer,
+363,Clarke,Rourke,F,Clinical Specialist,7113621387,theguardian.com,clarke.rourke@theguardian.com,BR,Brazil,Fernando de Noronha (Distrito Estadual),-8.0664795,-34.8843973,false,non-customer,
+364,Philbert,Djurkovic,F,Nurse,2141225298,newyorker.com,philbert.djurkovic@newyorker.com,BR,Brazil,Presidente Dutra,-22.5845295,-44.0491741,true,standard,2019-07-09 16:01:17
+365,Manuel,Van der Brug,M,Programmer Analyst I,2797560936,ehow.com,manuel.van der brug@ehow.com,BR,Brazil,Campo Verde,-15.3238812,-54.8731219,true,premium,2018-02-11 15:54:44
+366,Maximilien,Praton,M,Quality Control Specialist,8934103346,wsj.com,maximilien.praton@wsj.com,BR,Brazil,Engenheiro Beltrão,-23.8380515,-52.3063947,true,platinum,2019-06-25 10:39:41
+367,Lynnett,Mylechreest,F,Technical Writer,7851407265,soup.io,lynnett.mylechreest@soup.io,BR,Brazil,Álvares Machado,-22.0791603,-51.477858,false,non-customer,
+368,Garner,Lortzing,M,Financial Analyst,9723348398,howstuffworks.com,garner.lortzing@howstuffworks.com,BR,Brazil,Vargem Grande Paulista,-23.6208526,-47.029458,false,non-customer,
+369,Sheryl,Jellman,M,VP Accounting,3615740614,nydailynews.com,sheryl.jellman@nydailynews.com,BR,Brazil,Santo Antônio da Platina,-23.2980974,-50.0726882,true,premium,2019-07-28 15:50:36
+370,Hardy,Chatteris,M,Statistician III,7838319587,youtu.be,hardy.chatteris@youtu.be,BR,Brazil,Buritizeiro,-17.1885187,-45.1494505,false,non-customer,
+371,Dena,Ellinor,M,Media Manager III,2381732328,altervista.org,dena.ellinor@altervista.org,BR,Brazil,Peruíbe,-24.314422,-46.9936142,true,platinum,2018-04-19 21:25:45
+372,Elwin,Pierucci,M,Internal Auditor,3444313167,soundcloud.com,elwin.pierucci@soundcloud.com,BR,Brazil,Pirapora do Bom Jesus,-23.3969772,-46.9995522,false,non-customer,
+373,Estrella,Sallnow,F,Office Assistant IV,6625726088,mapy.cz,estrella.sallnow@mapy.cz,BR,Brazil,Rio Claro,-22.4101426,-47.5717516,false,non-customer,
+374,Tess,Duferie,M,Administrative Assistant I,9919690320,nbcnews.com,tess.duferie@nbcnews.com,BR,Brazil,Cacoal,-11.434693,-61.4566885,false,non-customer,
+375,Alphard,Clohisey,F,Community Outreach Specialist,7273419807,tuttocitta.it,alphard.clohisey@tuttocitta.it,BR,Brazil,Amaraji,-8.3748772,-35.4551341,false,non-customer,
+376,Giordano,Andreacci,M,Engineer III,7798732304,seattletimes.com,giordano.andreacci@seattletimes.com,BR,Brazil,Encantado,-29.2360837,-51.869606,true,standard,2019-01-31 05:38:06
+377,Gilberta,MacClay,M,Media Manager IV,5153355835,nhs.uk,gilberta.macclay@nhs.uk,BR,Brazil,Osasco,-23.5328871,-46.7919978,true,premium,2018-09-22 04:54:32
+378,Ulysses,Langmaid,F,Chief Design Engineer,9822843183,bravesites.com,ulysses.langmaid@bravesites.com,BR,Brazil,Novo Cruzeiro,-17.4328946,-41.9989718,false,non-customer,
+379,Patty,Noore,F,Project Manager,8615679720,accuweather.com,patty.noore@accuweather.com,BR,Brazil,Piraquara,-25.4426635,-49.0628847,false,non-customer,
+380,Rodney,Thornebarrow,M,VP Sales,2783776710,goodreads.com,rodney.thornebarrow@goodreads.com,BR,Brazil,Bastos,-21.9221397,-50.7317774,true,platinum,2019-03-19 11:47:32
+381,Inge,Careless,M,Sales Associate,3602320894,nifty.com,inge.careless@nifty.com,BR,Brazil,Murici,-9.309531,-35.9420041,true,platinum,2018-09-21 22:09:50
+382,Murielle,Airey,M,Payment Adjustment Coordinator,2517584966,wunderground.com,murielle.airey@wunderground.com,BR,Brazil,São Luís do Quitunde,-9.3002357,-35.6095474,false,non-customer,
+383,Donia,Bradborne,M,Programmer Analyst IV,8382421917,nytimes.com,donia.bradborne@nytimes.com,BR,Brazil,Pederneiras,-22.3463487,-48.7862736,false,non-customer,
+384,Eada,Heimes,M,Office Assistant III,2857861571,g.co,eada.heimes@g.co,BR,Brazil,Maués,-3.3851176,-57.7146588,false,non-customer,
+385,Curry,Jinkin,F,Recruiter,4373945994,merriam-webster.com,curry.jinkin@merriam-webster.com,BR,Brazil,Cruzeiro,-22.573256,-44.9693894,true,premium,2019-07-09 22:43:56
+386,Care,Rawlinson,M,Quality Engineer,4775373864,booking.com,care.rawlinson@booking.com,BR,Brazil,Brumadinho,-20.1514708,-44.2010909,true,premium,2019-04-07 16:15:57
+387,Ricardo,Georg,F,Senior Cost Accountant,3148997868,wordpress.org,ricardo.georg@wordpress.org,BR,Brazil,Agudos,-22.5698961,-49.0817124,true,premium,2019-11-14 18:09:12
+388,Vi,Allain,F,Senior Developer,3092708477,blog.com,vi.allain@blog.com,BR,Brazil,Boracéia,-22.1943942,-48.7780959,true,standard,2019-06-05 13:20:54
+389,Ulrica,Squelch,F,Recruiter,6611584937,posterous.com,ulrica.squelch@posterous.com,BR,Brazil,Araguaína,-7.1927733,-48.204827,true,premium,2019-09-25 07:53:03
+390,Shirl,Hobbert,M,Pharmacist,4887268376,qq.com,shirl.hobbert@qq.com,BR,Brazil,Santa Quitéria do Maranhão,-3.2826576,-42.941698,false,non-customer,
+391,Stace,Larratt,M,Nurse Practicioner,3758887858,blog.com,stace.larratt@blog.com,BR,Brazil,Engenheiro Beltrão,-23.8380515,-52.3063947,true,standard,2018-12-03 01:52:23
+392,Moe,Fiveash,M,Programmer I,5496284413,wix.com,moe.fiveash@wix.com,BR,Brazil,Altos,-5.0175431,-42.5117238,true,platinum,2018-08-21 11:39:44
+393,Ricky,Robbey,F,Tax Accountant,9374546823,dmoz.org,ricky.robbey@dmoz.org,BR,Brazil,São João dos Patos,-6.4937893,-43.7039903,false,non-customer,
+394,Alexandrina,Tift,M,VP Accounting,7249985794,discovery.com,alexandrina.tift@discovery.com,BR,Brazil,Várzea da Palma,-17.5969817,-44.7267221,true,platinum,2019-01-07 16:05:47
+395,Ruddie,Izkovitz,F,VP Quality Control,7186424374,php.net,ruddie.izkovitz@php.net,BR,Brazil,Cacoal,-11.434693,-61.4566885,true,standard,2019-03-28 05:15:41
+396,Elvin,Booley,F,Junior Executive,9201361634,parallels.com,elvin.booley@parallels.com,BR,Brazil,Planaltina,-15.4524821,-47.6093177,false,non-customer,
+397,Jan,Pering,M,Mechanical Systems Engineer,7747981433,accuweather.com,jan.pering@accuweather.com,BR,Brazil,Resende,-22.4709659,-44.4513347,false,non-customer,
+398,Ellerey,Gapper,F,Software Test Engineer II,4021471763,creativecommons.org,ellerey.gapper@creativecommons.org,BR,Brazil,Correia Pinto,-27.604634,-50.3069088,false,non-customer,
+399,Stirling,Pidgeley,M,Dental Hygienist,4194270459,mapquest.com,stirling.pidgeley@mapquest.com,BR,Brazil,Manaus,-3.1190275,-60.0217314,true,platinum,2020-02-05 05:22:06
+400,Rani,Calfe,F,Paralegal,1441655791,virginia.edu,rani.calfe@virginia.edu,BR,Brazil,Cândido Mota,-22.7475609,-50.3834929,false,non-customer,
+401,Elfreda,Sarle,M,Office Assistant II,9353989019,barnesandnoble.com,elfreda.sarle@barnesandnoble.com,BR,Brazil,Santos Dumont,-21.4405898,-43.5222313,false,non-customer,
+402,Amalita,Meckiff,F,Dental Hygienist,2159777163,vk.com,amalita.meckiff@vk.com,BR,Brazil,Canoas,-29.9132584,-51.1861921,true,standard,2018-08-05 19:28:46
+403,Korrie,Barnsley,M,Compensation Analyst,2745083606,berkeley.edu,korrie.barnsley@berkeley.edu,BR,Brazil,Teodoro Sampaio,-22.5306158,-52.1708052,false,non-customer,
+404,Dalia,Tomasoni,F,Mechanical Systems Engineer,9611347299,free.fr,dalia.tomasoni@free.fr,BR,Brazil,Bastos,-21.9221397,-50.7317774,false,non-customer,
+405,Darlleen,Chatenier,M,Occupational Therapist,8045777948,joomla.org,darlleen.chatenier@joomla.org,BR,Brazil,Morro Agudo,-20.6974477,-48.1597946,true,premium,2018-07-12 12:04:30
+406,Burl,Moreno,F,Clinical Specialist,8434795633,hhs.gov,burl.moreno@hhs.gov,BR,Brazil,Barão de Cocais,-19.9454604,-43.4876311,false,non-customer,
+407,Bobina,Tomkiss,F,Junior Executive,6376560904,mapquest.com,bobina.tomkiss@mapquest.com,BR,Brazil,Guararapes,-21.2581695,-50.6378257,true,premium,2019-07-20 21:57:39
+408,Gaspard,Abbitt,M,Budget/Accounting Analyst III,2501153003,berkeley.edu,gaspard.abbitt@berkeley.edu,BR,Brazil,Aracruz,-19.8205316,-40.2768213,true,premium,2019-12-06 21:06:59
+409,Emilie,Loftus,F,Junior Executive,6582641383,canalblog.com,emilie.loftus@canalblog.com,BR,Brazil,Guaratuba,-25.8804742,-48.5737662,false,non-customer,
+410,Saleem,Winfrey,M,Senior Quality Engineer,2886480353,fastcompany.com,saleem.winfrey@fastcompany.com,BR,Brazil,Palmas,-10.249091,-48.3242858,true,standard,2018-03-04 03:29:00
+411,Katya,Vigneron,M,Research Associate,6559439630,state.gov,katya.vigneron@state.gov,BR,Brazil,Ipu,-4.3220187,-40.7092475,false,non-customer,
+412,Theda,Middlehurst,F,Geologist I,5274785190,google.co.uk,theda.middlehurst@google.co.uk,BR,Brazil,Natal,-5.7966464,-35.2370177,true,premium,2019-11-22 04:55:53
+413,Margit,Dutton,F,Administrative Officer,4823139274,house.gov,margit.dutton@house.gov,BR,Brazil,Cascavel,-24.9288708,-53.4392535,false,non-customer,
+414,Osbourne,Rubinfeld,M,Senior Editor,1178600873,constantcontact.com,osbourne.rubinfeld@constantcontact.com,BR,Brazil,Jaguarão,-32.3385963,-53.4770359,true,standard,2018-07-10 10:00:05
+415,Anett,Mathe,M,Junior Executive,3068258443,miitbeian.gov.cn,anett.mathe@miitbeian.gov.cn,BR,Brazil,Coelho Neto,-4.2596751,-43.0182166,false,non-customer,
+416,Patience,Kilfether,F,Software Engineer III,7722570863,marriott.com,patience.kilfether@marriott.com,BR,Brazil,Bom Despacho,-19.6499319,-45.2243578,false,non-customer,
+417,Edlin,Alyonov,M,Associate Professor,7586374218,ning.com,edlin.alyonov@ning.com,BR,Brazil,Maraã,-2.3019472,-65.0008536,true,platinum,2019-11-05 22:36:59
+418,Deck,Simonini,F,Clinical Specialist,7431067428,cdbaby.com,deck.simonini@cdbaby.com,BR,Brazil,Miguel Calmon,-11.3781106,-40.6039185,false,non-customer,
+419,Earl,Rappport,F,Marketing Assistant,2712179676,youtu.be,earl.rappport@youtu.be,BR,Brazil,São João dos Inhamuns,-6,-40.28333,true,premium,2019-05-14 19:07:29
+420,Jacintha,Spadoni,M,Recruiting Manager,9791970619,mozilla.org,jacintha.spadoni@mozilla.org,BR,Brazil,Jeremoabo,-10.0036656,-38.5690418,false,non-customer,
+421,Tammara,Timbridge,M,Help Desk Operator,7019210709,about.me,tammara.timbridge@about.me,BR,Brazil,Penedo,-10.2735517,-36.5536172,false,non-customer,
+422,Karon,Elgee,M,Nuclear Power Engineer,4814667609,unc.edu,karon.elgee@unc.edu,BR,Brazil,Montes Claros,-16.7159055,-43.8616129,false,non-customer,
+423,Roobbie,Alderwick,M,Developer I,7344796006,sphinn.com,roobbie.alderwick@sphinn.com,BR,Brazil,Cacoal,-11.434693,-61.4566885,true,premium,2019-03-15 07:53:29
+424,Genia,Bigrigg,M,Structural Engineer,4017236671,wunderground.com,genia.bigrigg@wunderground.com,BR,Brazil,São Borja,-28.6583059,-56.0041451,false,non-customer,
+425,Ive,Yakov,F,Director of Sales,8762386166,yahoo.com,ive.yakov@yahoo.com,BR,Brazil,Rio Novo do Sul,-20.8250212,-40.9384914,false,non-customer,
+426,Shermie,Busch,F,Biostatistician III,1575116532,cornell.edu,shermie.busch@cornell.edu,BR,Brazil,Congonhas,-20.4993469,-43.8613566,false,non-customer,
+427,Etheline,Gilder,F,Software Consultant,8555638731,aol.com,etheline.gilder@aol.com,BR,Brazil,Suzano,-23.527748,-46.3266408,true,premium,2018-03-20 23:42:49
+428,Bentley,MacIlwrick,M,Legal Assistant,6427521444,photobucket.com,bentley.macilwrick@photobucket.com,BR,Brazil,Codajás,-3.8398302,-62.0610928,true,platinum,2018-06-17 20:33:10
+429,Bren,Bernardinelli,F,Compensation Analyst,6119347320,csmonitor.com,bren.bernardinelli@csmonitor.com,BR,Brazil,Monte Carmelo,-18.7307117,-47.4916674,false,non-customer,
+430,Cosette,Aliberti,F,Help Desk Operator,8313091226,livejournal.com,cosette.aliberti@livejournal.com,BR,Brazil,Alagoinhas,-12.1339194,-38.4211655,true,premium,2019-12-29 10:14:37
+431,Mead,Lewerenz,F,Junior Executive,8334627468,youtu.be,mead.lewerenz@youtu.be,BR,Brazil,Cachoeira,-12.6010371,-38.965934,false,non-customer,
+432,Trenton,Heddy,M,Data Coordiator,8169973432,wikia.com,trenton.heddy@wikia.com,BR,Brazil,Pinhais,-25.4021046,-49.1347813,true,premium,2019-09-12 19:08:11
+433,Karrah,Joontjes,F,Desktop Support Technician,5508935675,mozilla.org,karrah.joontjes@mozilla.org,BR,Brazil,Xique Xique,-15.8146532,-47.9029793,false,non-customer,
+434,Robinetta,Targe,F,General Manager,7839001450,marriott.com,robinetta.targe@marriott.com,BR,Brazil,Piraju,-23.1770971,-49.3838782,true,platinum,2018-04-29 09:27:41
+435,Sophi,Tolerton,M,Actuary,5018216920,paypal.com,sophi.tolerton@paypal.com,BR,Brazil,Firminópolis,-16.6481974,-50.3069088,false,non-customer,
+436,Ophelie,Vevers,M,Registered Nurse,3999235016,usda.gov,ophelie.vevers@usda.gov,BR,Brazil,Amparo,-22.7064041,-46.7694191,false,non-customer,
+437,Donnajean,Bentham,F,Technical Writer,7199259035,cbslocal.com,donnajean.bentham@cbslocal.com,BR,Brazil,Mari,-7.0655466,-35.3246769,true,standard,2018-05-10 12:49:42
+438,Duke,Jewell,F,Media Manager II,2124297745,engadget.com,duke.jewell@engadget.com,BR,Brazil,Horizonte,-4.1132769,-38.4639632,true,standard,2019-04-15 11:06:33
+439,Lorens,Churcher,F,Nurse Practicioner,9329141209,icq.com,lorens.churcher@icq.com,BR,Brazil,São Domingos do Maranhão,-5.5813904,-44.3826116,true,premium,2020-01-08 14:28:47
+440,Humphrey,Lillo,M,Sales Representative,2945214965,squarespace.com,humphrey.lillo@squarespace.com,BR,Brazil,Mandaguari,-23.4500163,-51.70451,false,non-customer,
+441,Brynna,Winder,F,Help Desk Operator,6069379569,auda.org.au,brynna.winder@auda.org.au,BR,Brazil,Catende,-8.6741659,-35.7188463,true,premium,2019-01-17 15:14:35
+442,Alia,Dykins,M,General Manager,6632891317,sitemeter.com,alia.dykins@sitemeter.com,BR,Brazil,Angra dos Reis,-23.0115939,-44.5260106,false,non-customer,
+443,Christine,Riedel,F,Account Representative III,9529961249,bigcartel.com,christine.riedel@bigcartel.com,BR,Brazil,Colorado,-28.4629851,-52.9814383,true,standard,2018-05-28 08:46:59
+444,Simeon,Hampton,M,Engineer I,2549751339,springer.com,simeon.hampton@springer.com,BR,Brazil,Rio Branco do Sul,-25.1860913,-49.3164138,false,non-customer,
+445,Anton,Sollime,F,VP Accounting,6023618346,joomla.org,anton.sollime@joomla.org,BR,Brazil,Itaberaí,-16.0222492,-49.8004866,false,non-customer,
+446,Jamal,Rhoddie,M,Senior Sales Associate,8856082756,npr.org,jamal.rhoddie@npr.org,BR,Brazil,Taquaritinga,-21.4099469,-48.5076885,false,non-customer,
+447,Hendrick,Snelgar,F,Sales Associate,1952736315,squarespace.com,hendrick.snelgar@squarespace.com,BR,Brazil,Águas de Lindóia,-22.4776906,-46.6347377,true,standard,2019-10-06 23:07:42
+448,Gabriela,Cowely,F,Help Desk Operator,1317439110,youku.com,gabriela.cowely@youku.com,BR,Brazil,Panambi,-28.2588438,-53.5009992,false,non-customer,
+449,Gael,Torregiani,M,Civil Engineer,2257977781,nature.com,gael.torregiani@nature.com,BR,Brazil,Matriz de Camaragibe,-9.0972502,-35.5876697,true,premium,2018-02-18 22:06:16
+450,Malynda,Wealleans,M,Statistician III,6589805135,uiuc.edu,malynda.wealleans@uiuc.edu,BR,Brazil,Macaíba,-5.8949347,-35.4343604,true,platinum,2018-12-31 23:06:39
+451,Barris,Pantridge,F,Physical Therapy Assistant,8874108779,fastcompany.com,barris.pantridge@fastcompany.com,BR,Brazil,Senador Pompeu,-5.5850343,-39.3708321,true,platinum,2018-04-09 17:55:55
+452,Harli,Corkitt,M,Developer I,3859616444,bbb.org,harli.corkitt@bbb.org,BR,Brazil,São Gonçalo do Sapucaí,-21.8930428,-45.5939292,true,standard,2019-03-25 12:40:50
+453,Winifred,Matejka,F,Civil Engineer,1723984211,blogtalkradio.com,winifred.matejka@blogtalkradio.com,BR,Brazil,Lajinha,-20.1217728,-41.5612423,false,non-customer,
+454,Cinderella,Georgescu,M,Research Associate,7531443155,tripadvisor.com,cinderella.georgescu@tripadvisor.com,BR,Brazil,Armação de Búzios,-22.7563906,-41.889042,true,platinum,2019-09-22 23:49:37
+455,Othella,Ivashintsov,M,Technical Writer,7216250363,statcounter.com,othella.ivashintsov@statcounter.com,BR,Brazil,Aquiraz,-3.9997372,-38.4429274,false,non-customer,
+456,Sunny,Caple,F,Director of Sales,8297869470,people.com.cn,sunny.caple@people.com.cn,BR,Brazil,Canguçu,-31.3964785,-52.6787852,true,standard,2018-04-24 10:06:42
+457,Giordano,Chatfield,M,Associate Professor,4413917633,skyrock.com,giordano.chatfield@skyrock.com,BR,Brazil,Nova Era,-19.7667781,-43.0343237,false,non-customer,
+458,Katleen,Hassewell,F,VP Accounting,7888080393,tinyurl.com,katleen.hassewell@tinyurl.com,BR,Brazil,Trindade,-7.740099,-40.2884386,false,non-customer,
+459,Latashia,Milbourne,M,Software Consultant,9748664845,bloomberg.com,latashia.milbourne@bloomberg.com,BR,Brazil,Pitangui,-19.6824436,-44.890204,false,non-customer,
+460,Niall,Spira,M,Pharmacist,3666374785,cpanel.net,niall.spira@cpanel.net,BR,Brazil,Cravinhos,-21.3407385,-47.7352517,true,premium,2019-12-12 07:48:36
+461,Nowell,Aikett,M,Geological Engineer,7249124322,nyu.edu,nowell.aikett@nyu.edu,BR,Brazil,Jaguaribe,-6.0189936,-38.7368187,false,non-customer,
+462,Kit,Davys,F,Electrical Engineer,8507171345,nyu.edu,kit.davys@nyu.edu,BR,Brazil,Resende,-22.4709659,-44.4513347,false,non-customer,
+463,Poul,Benesevich,M,Assistant Professor,8153209059,columbia.edu,poul.benesevich@columbia.edu,BR,Brazil,Maracaju,-21.6110027,-55.168269,true,platinum,2020-02-02 17:55:45
+464,Flory,Labba,F,Executive Secretary,9835667342,telegraph.co.uk,flory.labba@telegraph.co.uk,BR,Brazil,Bebedouro,-20.9400441,-48.4812248,true,premium,2018-08-01 16:48:44
+465,Lissy,Waberer,F,VP Sales,4748625858,taobao.com,lissy.waberer@taobao.com,BR,Brazil,Goiatuba,-17.9659326,-49.6503106,true,standard,2018-07-20 22:04:51
+466,Heddie,Howle,M,Software Consultant,6964113406,nyu.edu,heddie.howle@nyu.edu,BR,Brazil,Araçatuba,-21.2028539,-50.4536793,false,non-customer,
+467,Dagny,Beagin,F,Assistant Professor,9501021907,hc360.com,dagny.beagin@hc360.com,BR,Brazil,Arcoverde,-8.4176445,-37.0585205,false,non-customer,
+468,Della,De la Barre,M,Environmental Tech,8352750670,xinhuanet.com,della.de la barre@xinhuanet.com,BR,Brazil,Uruçuca,-14.5154982,-39.299866,true,standard,2019-09-03 17:10:57
+469,Ari,Gainsford,M,Assistant Manager,5787505139,drupal.org,ari.gainsford@drupal.org,BR,Brazil,Osório,-29.899528,-50.247365,false,non-customer,
+470,Ellis,Bentall,F,Research Associate,7857739976,springer.com,ellis.bentall@springer.com,BR,Brazil,Herval,-32.0288506,-53.3936083,true,standard,2019-03-29 12:58:20
+471,Sallyanne,Rizzelli,F,Administrative Officer,6538353345,wix.com,sallyanne.rizzelli@wix.com,BR,Brazil,Tremembé,-22.9916783,-45.5651683,false,non-customer,
+472,Jesse,Dodell,M,Financial Analyst,3882181329,e-recht24.de,jesse.dodell@e-recht24.de,BR,Brazil,Nova Venécia,-18.4943258,-40.4657826,true,premium,2018-11-20 21:10:07
+473,Goddard,Prozescky,M,Sales Associate,4969430958,dailymotion.com,goddard.prozescky@dailymotion.com,BR,Brazil,Marau,-28.4267829,-52.2182111,true,platinum,2018-09-28 11:30:31
+474,Gypsy,Mariet,M,VP Marketing,1321247807,narod.ru,gypsy.mariet@narod.ru,BR,Brazil,Ouro Preto do Oeste,-10.7194641,-62.2542716,false,non-customer,
+475,Nadiya,Bednall,M,Assistant Media Planner,6707731793,ed.gov,nadiya.bednall@ed.gov,BR,Brazil,Aparecida,-22.8456877,-45.2302005,false,non-customer,
+476,Toinette,Aujouanet,M,Health Coach III,8973167208,dyndns.org,toinette.aujouanet@dyndns.org,BR,Brazil,Rio Branco do Sul,-25.1860913,-49.3164138,true,standard,2018-02-16 01:58:16
+477,Terrill,Ambrosoli,F,Desktop Support Technician,4324854354,nsw.gov.au,terrill.ambrosoli@nsw.gov.au,BR,Brazil,Campo Largo,-25.4596855,-49.5273149,false,non-customer,
+478,Micah,Plaide,M,Structural Engineer,1451022208,nsw.gov.au,micah.plaide@nsw.gov.au,BR,Brazil,Barra Mansa,-22.5408519,-44.1772604,false,non-customer,
+479,Jolyn,Sollowaye,M,Electrical Engineer,8383977990,ucoz.com,jolyn.sollowaye@ucoz.com,BR,Brazil,Padre Paraíso,-17.0490108,-41.5612423,true,standard,2018-06-18 17:50:49
+480,Teri,Adderson,F,Software Engineer I,8425930811,fc2.com,teri.adderson@fc2.com,BR,Brazil,Ipubi,-7.5613556,-40.1862129,false,non-customer,
+481,Vidovic,Kenningham,F,Research Assistant I,1606720155,t.co,vidovic.kenningham@t.co,BR,Brazil,Indaial,-27.0032601,-49.2435998,true,standard,2019-01-03 10:57:51
+482,Steffie,Barnsdall,F,Assistant Professor,7983999272,stanford.edu,steffie.barnsdall@stanford.edu,BR,Brazil,Nova Petrópolis,-29.362503,-51.08671,false,non-customer,
+483,Anatol,Barrott,F,Occupational Therapist,1581688681,rediff.com,anatol.barrott@rediff.com,BR,Brazil,Piracicaba,-22.7342864,-47.6480644,true,standard,2018-10-30 06:50:04
+484,Shaine,Siebart,F,Research Associate,6871691585,hostgator.com,shaine.siebart@hostgator.com,BR,Brazil,Ribeirão,-8.5135139,-35.3747515,true,platinum,2019-03-09 12:30:13
+485,Tanney,Brissenden,M,Financial Analyst,8946388281,wordpress.com,tanney.brissenden@wordpress.com,BR,Brazil,Boa Esperança,-24.2670414,-52.7241914,true,premium,2018-07-16 06:21:34
+486,Randell,Gimblett,M,Nurse,5853533826,feedburner.com,randell.gimblett@feedburner.com,BR,Brazil,Natal,-5.7966464,-35.2370177,false,non-customer,
+487,Shirlee,Orrum,M,Human Resources Manager,7744682803,myspace.com,shirlee.orrum@myspace.com,BR,Brazil,Nova Russas,-4.7695926,-40.5112755,true,platinum,2019-05-13 04:08:11
+488,Giselbert,Broxap,F,Product Engineer,3034867918,yandex.ru,giselbert.broxap@yandex.ru,BR,Brazil,Taubaté,-23.0246201,-45.5558631,false,non-customer,
+489,Carine,Siemens,F,VP Sales,8023050800,howstuffworks.com,carine.siemens@howstuffworks.com,BR,Brazil,Matozinhos,-19.5547969,-44.0871994,true,platinum,2019-09-21 21:38:04
+490,Augustin,Asbury,M,Nuclear Power Engineer,2912879198,cnn.com,augustin.asbury@cnn.com,BR,Brazil,Manaquiri,-3.9148823,-60.8609358,true,platinum,2019-08-23 15:44:22
+491,Waverly,Fawks,F,Assistant Manager,9862402744,wp.com,waverly.fawks@wp.com,BR,Brazil,Tupanciretã,-29.0282919,-53.9541563,false,non-customer,
+492,Renae,Blum,M,Technical Writer,6172061235,devhub.com,renae.blum@devhub.com,BR,Brazil,Beberibe,-4.4505838,-38.0631455,false,non-customer,
+493,Alvan,Pinsent,M,Budget/Accounting Analyst IV,5854558246,google.co.jp,alvan.pinsent@google.co.jp,BR,Brazil,Arari,-3.5098478,-44.7381432,true,standard,2018-05-15 21:04:44
+494,Fernanda,Chaize,F,Environmental Specialist,7178159128,home.pl,fernanda.chaize@home.pl,BR,Brazil,Jucás,-6.4534018,-39.6105142,true,premium,2019-04-23 18:20:39
+495,Mervin,Pache,M,Statistician II,4835868736,google.nl,mervin.pache@google.nl,BR,Brazil,Limoeiro,-7.8794782,-35.4551534,true,standard,2018-08-26 14:07:20
+496,Udale,Southorn,M,Recruiting Manager,7506491016,delicious.com,udale.southorn@delicious.com,BR,Brazil,Itapaci,-14.9210683,-49.609512,true,standard,2019-06-14 11:50:58
+497,Meridith,Dimond,M,Assistant Professor,7382855115,mapquest.com,meridith.dimond@mapquest.com,BR,Brazil,Almirante Tamandaré,-25.3193102,-49.3042082,true,premium,2018-12-19 16:39:44
+498,Damian,Cockshut,F,Editor,5244287265,deliciousdays.com,damian.cockshut@deliciousdays.com,BR,Brazil,Belo Oriente,-19.2580383,-42.4331624,true,platinum,2020-02-14 02:26:53
+499,Lucinda,Brent,M,Staff Accountant IV,3291904372,dailymotion.com,lucinda.brent@dailymotion.com,BR,Brazil,Tapes,-30.6732959,-51.4052742,true,premium,2018-05-26 21:52:17
+500,Elenore,Burman,F,Assistant Manager,2453038438,rakuten.co.jp,elenore.burman@rakuten.co.jp,BR,Brazil,Portelândia,-17.3474338,-52.7455935,false,non-customer,
+501,Kennedy,Bhar,F,Tax Accountant,2314920071,un.org,kennedy.bhar@un.org,BR,Brazil,Marataizes,-19.4704956,-42.4548328,true,platinum,2018-10-31 10:47:18
+502,Toddie,Jauncey,M,Food Chemist,3421735777,noaa.gov,toddie.jauncey@noaa.gov,BR,Brazil,Caçapava do Sul,-30.5148445,-53.4832383,true,platinum,2019-09-24 17:12:06
+503,Raquel,Scrimshaw,F,Dental Hygienist,9726771928,wsj.com,raquel.scrimshaw@wsj.com,BR,Brazil,Santa Rita do Sapucaí,-22.2528986,-45.7049987,false,non-customer,
+504,Dorree,Loyd,M,Occupational Therapist,2977730750,blogspot.com,dorree.loyd@blogspot.com,BR,Brazil,Tanabi,-20.6286479,-49.6546435,true,platinum,2018-03-05 09:16:00
+505,Elbert,Chatwood,F,Help Desk Operator,6626070268,nyu.edu,elbert.chatwood@nyu.edu,BR,Brazil,São Francisco do Conde,-12.6654745,-38.5900375,true,premium,2019-09-26 21:54:29
+506,Rem,Buscher,F,Sales Associate,3141690506,booking.com,rem.buscher@booking.com,BR,Brazil,Itapissuma,-7.7493145,-34.917581,true,platinum,2018-03-14 10:53:27
+507,Christyna,Foxhall,M,Biostatistician I,1234671210,cpanel.net,christyna.foxhall@cpanel.net,BR,Brazil,Brumado,-14.1968614,-41.6809724,true,platinum,2018-10-28 10:39:55
+508,Alysia,Darington,F,Environmental Specialist,4832940088,google.nl,alysia.darington@google.nl,BR,Brazil,Itaparica,-12.8955513,-38.6779363,false,non-customer,
+509,Fedora,Pund,F,Desktop Support Technician,2069535886,apache.org,fedora.pund@apache.org,BR,Brazil,Lagarto,-10.9057388,-37.681228,true,standard,2019-05-13 04:30:29
+510,Kevina,Fazzioli,M,Engineer II,2766400294,imdb.com,kevina.fazzioli@imdb.com,BR,Brazil,José Bonifácio,-21.0482479,-49.6879727,true,standard,2018-04-04 20:42:47
+511,Rey,Mapham,M,Compensation Analyst,6245212787,studiopress.com,rey.mapham@studiopress.com,BR,Brazil,Bataiporã,-23.0635314,-54.2134583,true,platinum,2018-04-16 16:46:11
+512,Alvinia,Laherty,F,Graphic Designer,4761029621,examiner.com,alvinia.laherty@examiner.com,BR,Brazil,Arujá,-23.3969682,-46.3204265,true,standard,2018-11-16 06:14:56
+513,Kevon,Flynn,M,Clinical Specialist,3912084501,bravesites.com,kevon.flynn@bravesites.com,BR,Brazil,Tucano,-10.9588216,-38.7897587,true,platinum,2018-03-26 23:12:26
+514,Reagen,Penreth,F,Office Assistant IV,3824528045,purevolume.com,reagen.penreth@purevolume.com,BR,Brazil,Aguaí,-22.0573092,-46.9774205,true,platinum,2019-03-25 12:27:44
+515,Shae,Kincla,F,Design Engineer,6785907367,chronoengine.com,shae.kincla@chronoengine.com,BR,Brazil,Piracicaba,-22.7342864,-47.6480644,false,non-customer,
+516,Carleen,MacKaile,M,Environmental Tech,6333973628,wix.com,carleen.mackaile@wix.com,BR,Brazil,São Bento,-6.4525359,-37.4894776,false,non-customer,
+517,Dalton,McQuillen,M,Web Designer III,7321164073,paypal.com,dalton.mcquillen@paypal.com,BR,Brazil,Anguera,-12.182745,-39.2167652,true,premium,2020-02-25 00:08:59
+518,Joann,Bogey,F,Civil Engineer,6324183200,yelp.com,joann.bogey@yelp.com,BR,Brazil,Foz do Iguaçu,-25.5452817,-54.5890256,false,non-customer,
+519,Temple,Saffon,F,Analog Circuit Design manager,2109327194,naver.com,temple.saffon@naver.com,BR,Brazil,Coelho Neto,-4.2596751,-43.0182166,false,non-customer,
+520,Brandi,Illiston,M,Marketing Manager,4946566694,hhs.gov,brandi.illiston@hhs.gov,BR,Brazil,Paty do Alferes,-22.4313914,-43.4289497,false,non-customer,
+521,Constantine,McPhaden,F,Teacher,6731533783,elpais.com,constantine.mcphaden@elpais.com,BR,Brazil,Barueri,-23.5113691,-46.872942,false,non-customer,
+522,Pall,Broune,F,Engineer II,9705614739,usnews.com,pall.broune@usnews.com,BR,Brazil,Sananduva,-27.950568,-51.8148609,true,premium,2019-08-11 12:38:42
+523,Allsun,Leggan,M,Office Assistant II,5404209447,cargocollective.com,allsun.leggan@cargocollective.com,BR,Brazil,Forquilhinha,-28.7477963,-49.4745059,true,premium,2018-02-02 07:18:28
+524,Dalenna,Pester,F,Junior Executive,3374900230,blogspot.com,dalenna.pester@blogspot.com,BR,Brazil,Cunha,-23.0743544,-44.9561012,true,premium,2019-12-22 13:33:40
+525,Geri,Kinnar,M,Senior Quality Engineer,2179693202,jugem.jp,geri.kinnar@jugem.jp,BR,Brazil,Itapevi,-23.5535152,-46.9354774,false,non-customer,
+526,Flynn,Tinniswood,M,Structural Analysis Engineer,4123165162,bandcamp.com,flynn.tinniswood@bandcamp.com,BR,Brazil,Curvelo,-18.8494836,-44.4748018,false,non-customer,
+527,Eldin,Pendock,M,Financial Advisor,7904777264,intel.com,eldin.pendock@intel.com,BR,Brazil,Ibotirama,-11.9590294,-43.2134484,true,platinum,2019-03-02 12:29:03
+528,Bennett,Collihole,M,Web Designer I,6465085936,angelfire.com,bennett.collihole@angelfire.com,BR,Brazil,Altos,-5.0175431,-42.5117238,false,non-customer,
+529,Kristoforo,Roos,M,GIS Technical Architect,5454349442,seattletimes.com,kristoforo.roos@seattletimes.com,BR,Brazil,Goiânia,-16.6488964,-49.1565948,true,platinum,2018-01-19 08:02:25
+530,Eveleen,Salsbury,F,Data Coordiator,8337170643,washingtonpost.com,eveleen.salsbury@washingtonpost.com,BR,Brazil,Guaíba,-30.1090924,-51.3238273,true,platinum,2018-12-04 14:06:34
+531,Etta,Kender,F,Clinical Specialist,4642712423,ask.com,etta.kender@ask.com,BR,Brazil,Matozinhos,-19.5547969,-44.0871994,true,platinum,2019-09-04 16:40:34
+532,Fran,Wodham,M,Software Consultant,7899981973,delicious.com,fran.wodham@delicious.com,BR,Brazil,Extremoz,-5.6861147,-35.2697802,true,platinum,2019-02-22 04:21:34
+533,Craggie,Chadney,M,Programmer Analyst III,9968745405,wp.com,craggie.chadney@wp.com,BR,Brazil,Russas,-4.8149897,-38.1054495,true,standard,2019-12-25 14:12:59
+534,Tuck,Clubley,F,Safety Technician I,3445361731,ucoz.com,tuck.clubley@ucoz.com,BR,Brazil,Ilha Solteira,-20.4363727,-51.3050851,false,non-customer,
+535,Naoma,Capnor,F,Senior Quality Engineer,4898479708,bbb.org,naoma.capnor@bbb.org,BR,Brazil,Una,-15.2090734,-39.1959729,true,platinum,2019-07-09 10:20:55
+536,Gianina,Orans,M,Staff Scientist,1643522855,goo.gl,gianina.orans@goo.gl,BR,Brazil,Extrema,-22.8521905,-46.3160679,true,platinum,2018-07-31 15:02:56
+537,Torey,Aylen,F,Project Manager,7285974390,state.tx.us,torey.aylen@state.tx.us,BR,Brazil,Alenquer,-0.8667864,-54.9611836,true,premium,2019-10-12 06:12:06
+538,Giorgio,Kiljan,M,VP Marketing,4011238648,dyndns.org,giorgio.kiljan@dyndns.org,BR,Brazil,Santa Cruz do Capibaribe,-7.9484331,-36.2064182,true,standard,2019-02-16 21:07:29
+539,Debor,Lamplough,M,VP Sales,3213045074,washingtonpost.com,debor.lamplough@washingtonpost.com,BR,Brazil,Bastos,-21.9221397,-50.7317774,false,non-customer,
+540,Manon,Bilbrook,F,Professor,9341275497,buzzfeed.com,manon.bilbrook@buzzfeed.com,BR,Brazil,Osvaldo Cruz,-21.7972251,-50.879763,false,non-customer,
+541,Felicio,Jenik,F,Legal Assistant,8246589536,gravatar.com,felicio.jenik@gravatar.com,BR,Brazil,Guarulhos,-23.4543148,-46.5336521,true,platinum,2018-08-26 18:40:22
+542,Hew,Letessier,F,Human Resources Manager,8358856860,delicious.com,hew.letessier@delicious.com,BR,Brazil,Euclides da Cunha,-10.5219124,-38.9066439,true,platinum,2019-02-04 15:14:20
+543,Rosemaria,Darleston,F,Occupational Therapist,9692614857,bbb.org,rosemaria.darleston@bbb.org,BR,Brazil,Itapuí,-22.2275469,-48.7379527,false,non-customer,
+544,Lonna,Sommerville,M,Graphic Designer,5872311916,psu.edu,lonna.sommerville@psu.edu,BR,Brazil,Quirinópolis,-18.4476442,-50.4551598,true,standard,2018-08-15 14:00:02
+545,Allys,Pringell,F,Physical Therapy Assistant,4036262860,army.mil,allys.pringell@army.mil,BR,Brazil,Monte Alto,-21.2846176,-48.5316897,false,non-customer,
+546,Bancroft,Dives,F,Technical Writer,2238413289,t.co,bancroft.dives@t.co,BR,Brazil,Caraguatatuba,-23.6233032,-45.4141993,true,standard,2019-04-17 21:34:22
+547,Tressa,Axworthy,M,Account Executive,3731508816,amazon.de,tressa.axworthy@amazon.de,BR,Brazil,Irecê,-11.303555,-41.8561503,false,non-customer,
+548,Lacey,Reck,M,Speech Pathologist,4614402135,shareasale.com,lacey.reck@shareasale.com,BR,Brazil,Paripiranga,-10.6670645,-37.9148742,true,platinum,2019-10-08 04:53:43
+549,Sydney,Greeveson,F,Data Coordiator,8128570896,addtoany.com,sydney.greeveson@addtoany.com,BR,Brazil,Cândido Mota,-22.7475609,-50.3834929,false,non-customer,
+550,Nelia,Geggie,F,Web Designer II,1529246258,comcast.net,nelia.geggie@comcast.net,BR,Brazil,Rio Negro,-26.095133,-49.7743404,true,premium,2018-08-25 23:54:20
+551,Andros,Oxnam,F,Research Assistant III,1579780639,vimeo.com,andros.oxnam@vimeo.com,BR,Brazil,Mariana,-20.3652719,-43.4150073,true,platinum,2019-01-21 23:13:43
+552,Essy,Hamshere,M,Associate Professor,6924316178,360.cn,essy.hamshere@360.cn,BR,Brazil,Mairiporã,-23.3213892,-46.5881754,true,platinum,2019-05-29 04:53:03
+553,Tremayne,Gaveltone,F,Human Resources Assistant II,1809348599,t-online.de,tremayne.gaveltone@t-online.de,BR,Brazil,Riachão do Jacuípe,-11.8073632,-39.3809152,false,non-customer,
+554,Ramonda,Merritt,M,Senior Cost Accountant,6703162454,ycombinator.com,ramonda.merritt@ycombinator.com,BR,Brazil,Taboão da Serra,-23.6228759,-46.7816647,true,premium,2019-06-10 17:24:52
+555,Lynnea,Ellerker,M,Nurse,6429527041,indiatimes.com,lynnea.ellerker@indiatimes.com,BR,Brazil,Alegrete,-29.7844393,-55.7980283,true,standard,2019-02-13 04:05:02
+556,Ettie,Megany,F,Administrative Officer,1554986292,nba.com,ettie.megany@nba.com,BR,Brazil,Cuiabá,-15.5997099,-56.0976073,false,non-customer,
+557,Brear,Trimmill,F,Librarian,8655704680,opensource.org,brear.trimmill@opensource.org,BR,Brazil,Astorga,-23.2400211,-51.6639768,false,non-customer,
+558,Lanny,Mowat,F,Librarian,2477762351,arstechnica.com,lanny.mowat@arstechnica.com,BR,Brazil,Joinville,-26.3044084,-48.8463832,false,non-customer,
+559,Merill,Sewell,M,Recruiter,8844258947,google.com,merill.sewell@google.com,BR,Brazil,Porecatu,-22.7238417,-51.4099625,true,premium,2018-10-24 19:10:31
+560,Giavani,Phillippo,M,Safety Technician IV,6882018415,engadget.com,giavani.phillippo@engadget.com,BR,Brazil,Esperança,-6.980092,-35.8934136,false,non-customer,
+561,Candida,Weekly,F,Librarian,2984142043,webeden.co.uk,candida.weekly@webeden.co.uk,BR,Brazil,Igarassu,-7.8176291,-34.9268225,false,non-customer,
+562,Silvio,Bulch,F,Data Coordiator,6966436383,vkontakte.ru,silvio.bulch@vkontakte.ru,BR,Brazil,Ribeirão Preto,-21.1704008,-47.8103238,false,non-customer,
+563,Valeda,Blackbourn,M,Information Systems Manager,6409332083,youku.com,valeda.blackbourn@youku.com,BR,Brazil,Fartura,-23.3879703,-49.5076392,false,non-customer,
+564,Adair,Merrall,M,Research Assistant IV,3595385912,wiley.com,adair.merrall@wiley.com,BR,Brazil,São José dos Pinhais,-25.5318354,-49.2035722,true,platinum,2018-02-26 11:31:53
+565,Vernon,Scotchbrook,F,Legal Assistant,8019965034,discovery.com,vernon.scotchbrook@discovery.com,BR,Brazil,Ibaté,-21.953253,-48.0006076,true,platinum,2019-11-18 12:08:37
+566,Marc,Furby,F,Automation Specialist IV,2435632445,blogtalkradio.com,marc.furby@blogtalkradio.com,BR,Brazil,Charqueadas,-29.9629768,-51.629387,true,premium,2019-07-25 23:08:00
+567,Domeniga,Humpatch,M,Director of Sales,4122156197,hibu.com,domeniga.humpatch@hibu.com,BR,Brazil,Amparo,-22.7064041,-46.7694191,true,standard,2018-08-16 15:14:53
+568,Rodrique,Crawshaw,F,Data Coordiator,4882504649,cpanel.net,rodrique.crawshaw@cpanel.net,BR,Brazil,Pantano do Sul,-27.5703548,-48.62059,true,premium,2020-02-21 09:17:48
+569,Buddie,McGiveen,M,Account Coordinator,5966403768,mayoclinic.com,buddie.mcgiveen@mayoclinic.com,BR,Brazil,Goiatuba,-17.9659326,-49.6503106,false,non-customer,
+570,Valera,Insall,F,Human Resources Assistant I,6942257091,nationalgeographic.com,valera.insall@nationalgeographic.com,BR,Brazil,Três Corações,-21.692578,-45.2515461,false,non-customer,
+571,Augustine,Fumagall,M,Design Engineer,9219528748,sogou.com,augustine.fumagall@sogou.com,BR,Brazil,Matinha,-3.0854936,-44.9626829,false,non-customer,
+572,Tuckie,Scriviner,F,Web Developer III,5219006381,indiegogo.com,tuckie.scriviner@indiegogo.com,BR,Brazil,Indaial,-27.0032601,-49.2435998,true,platinum,2018-12-03 23:36:51
+573,Gerick,Eakins,F,Research Nurse,3313422481,home.pl,gerick.eakins@home.pl,BR,Brazil,Cachoeiro de Itapemirim,-20.8478935,-41.1162273,true,standard,2019-11-27 23:08:02
+574,Clementius,Davydochkin,F,Administrative Assistant III,6548344571,aboutads.info,clementius.davydochkin@aboutads.info,BR,Brazil,Pará de Minas,-19.8428824,-44.6064582,true,platinum,2019-01-25 16:40:31
+575,Newton,Reye,M,Food Chemist,6942737905,yellowbook.com,newton.reye@yellowbook.com,BR,Brazil,Piúma,-20.8420055,-40.7357215,true,standard,2019-01-29 11:37:30
+576,Broddie,Vanichkov,F,Systems Administrator I,5824484600,engadget.com,broddie.vanichkov@engadget.com,BR,Brazil,Miguel Pereira,-22.4412481,-43.4580314,true,standard,2019-11-10 21:44:30
+577,Kaja,Sheach,F,Social Worker,3417822191,forbes.com,kaja.sheach@forbes.com,BR,Brazil,Linhares,-19.39656,-40.0658731,false,non-customer,
+578,Karisa,Dowber,M,Quality Control Specialist,4605097770,usgs.gov,karisa.dowber@usgs.gov,BR,Brazil,Itabirito,-20.2530617,-43.8030567,false,non-customer,
+579,Giffy,Goodfellowe,F,Analog Circuit Design manager,1087732082,rediff.com,giffy.goodfellowe@rediff.com,BR,Brazil,Nortelândia,-14.3322488,-56.6513853,true,premium,2018-01-16 04:41:11
+580,Jules,Pawlowicz,M,Quality Control Specialist,3457122021,ihg.com,jules.pawlowicz@ihg.com,BR,Brazil,Vassouras,-22.4028163,-43.599128,false,non-customer,
+581,Skip,Chadney,F,Help Desk Technician,6265881057,prnewswire.com,skip.chadney@prnewswire.com,BR,Brazil,Cascavel,-24.9288708,-53.4392535,true,premium,2018-06-27 09:05:58
+582,Andeee,MacSkeagan,M,Programmer Analyst I,8119188224,deliciousdays.com,andeee.macskeagan@deliciousdays.com,BR,Brazil,Uruguaiana,-29.7619121,-57.0858428,false,non-customer,
+583,Jillane,Matthai,F,Registered Nurse,5533522899,1und1.de,jillane.matthai@1und1.de,BR,Brazil,Barras,-4.2450638,-42.2925342,false,non-customer,
+584,Brice,Wenzel,M,Physical Therapy Assistant,5393535827,tuttocitta.it,brice.wenzel@tuttocitta.it,BR,Brazil,Jundiaí,-23.2074329,-46.8337604,false,non-customer,
+585,Binnie,Corwin,F,Product Engineer,5835549926,tuttocitta.it,binnie.corwin@tuttocitta.it,BR,Brazil,Manacapuru,-3.3419323,-60.8609358,false,non-customer,
+586,Chlo,Money,F,Nurse Practicioner,7081477521,netlog.com,chlo.money@netlog.com,BR,Brazil,Itaberaí,-16.0222492,-49.8004866,true,standard,2019-03-28 18:56:47
+587,Perri,MacRitchie,M,Human Resources Manager,9751841228,princeton.edu,perri.macritchie@princeton.edu,BR,Brazil,Estrela,-29.501873,-51.9640632,true,platinum,2018-02-26 22:03:39
+588,Joleen,Bilney,M,Administrative Officer,7597248061,businessinsider.com,joleen.bilney@businessinsider.com,BR,Brazil,Seropédica,-22.7691646,-43.6950804,false,non-customer,
+589,Stacy,Naptin,F,Recruiter,3996293642,redcross.org,stacy.naptin@redcross.org,BR,Brazil,Granja,-3.2575968,-41.0394028,false,non-customer,
+590,Haroun,Road,M,Occupational Therapist,5847022565,globo.com,haroun.road@globo.com,BR,Brazil,Ivoti,-29.5795648,-51.1689963,false,non-customer,
+591,Guilbert,Pretor,M,Civil Engineer,6868933170,newyorker.com,guilbert.pretor@newyorker.com,BR,Brazil,Ubatuba,-23.4602881,-45.0479872,false,non-customer,
+592,Bibi,Yuranovev,F,Community Outreach Specialist,1017265569,reverbnation.com,bibi.yuranovev@reverbnation.com,BR,Brazil,Lavras,-21.2484875,-45.0013747,false,non-customer,
+593,Eloise,Dearnly,F,Analog Circuit Design manager,8022886935,spotify.com,eloise.dearnly@spotify.com,BR,Brazil,Chã Grande,-8.2295368,-35.4672368,false,non-customer,
+594,Ferdy,Claricoats,M,Office Assistant III,4579663898,bluehost.com,ferdy.claricoats@bluehost.com,BR,Brazil,Armação de Búzios,-22.7563906,-41.889042,true,platinum,2019-04-30 17:37:53
+595,King,Butler-Bowdon,M,VP Product Management,5719475169,hostgator.com,king.butler-bowdon@hostgator.com,BR,Brazil,Caçapava do Sul,-30.5148445,-53.4832383,false,non-customer,
+596,Susan,Shurey,M,Nurse Practicioner,4337750415,go.com,susan.shurey@go.com,BR,Brazil,Ipojuca,-8.4627496,-35.0828588,true,premium,2018-10-08 03:17:41
+597,Zena,Oxenham,M,Geologist II,9299233090,joomla.org,zena.oxenham@joomla.org,BR,Brazil,Chapadinha,-3.7415256,-43.360096,false,non-customer,
+598,Martguerita,Slyde,M,Electrical Engineer,7158656649,tuttocitta.it,martguerita.slyde@tuttocitta.it,BR,Brazil,Barcarena,-1.5798321,-48.598804,false,non-customer,
+599,Orton,Ellingford,M,Editor,7151588345,prweb.com,orton.ellingford@prweb.com,BR,Brazil,Flores da Cunha,-29.0303854,-51.2003761,true,premium,2018-03-30 07:57:49
+600,Danya,Millyard,M,Recruiter,5607347420,nytimes.com,danya.millyard@nytimes.com,BR,Brazil,Barbalha,-7.3811967,-39.2791011,false,non-customer,
+601,Bradan,Sangwin,F,Staff Accountant III,9969036632,arizona.edu,bradan.sangwin@arizona.edu,BR,Brazil,Garibaldi,-29.2581646,-51.5289168,true,premium,2018-03-21 05:41:42
+602,Corabelle,Treske,F,Help Desk Operator,6027244531,jugem.jp,corabelle.treske@jugem.jp,BR,Brazil,Cascavel,-24.9288708,-53.4392535,true,platinum,2018-04-09 19:07:34
+603,Elizabet,Cleaveland,F,Financial Analyst,9966332390,fda.gov,elizabet.cleaveland@fda.gov,BR,Brazil,Bocaiúva,-17.1113356,-43.8203315,false,non-customer,
+604,Joe,Straker,F,Quality Engineer,7196748707,cdbaby.com,joe.straker@cdbaby.com,BR,Brazil,Olímpia,-20.7371116,-48.9110606,true,standard,2018-02-18 04:43:02
+605,Whitby,Le Fleming,M,Data Coordiator,4788315114,mapy.cz,whitby.le fleming@mapy.cz,BR,Brazil,São José de Mipibu,-6.0777029,-35.2420083,true,premium,2018-06-15 05:43:32
+606,Dalia,Gorhardt,M,Software Engineer I,4748980993,4shared.com,dalia.gorhardt@4shared.com,BR,Brazil,Belo Horizonte,-19.9245018,-43.9352376,false,non-customer,
+607,Theadora,Runnicles,F,VP Sales,3913926889,unblog.fr,theadora.runnicles@unblog.fr,BR,Brazil,Novo Horizonte,-21.4649748,-49.2246518,false,non-customer,
+608,Wilmette,O'Hoolahan,M,Software Consultant,2092225448,loc.gov,wilmette.o'hoolahan@loc.gov,BR,Brazil,Bom Jesus do Itabapoana,-21.1330059,-41.7407394,false,non-customer,
+609,Boothe,Roloff,M,Assistant Media Planner,9876122454,last.fm,boothe.roloff@last.fm,BR,Brazil,Porto Ferreira,-21.8421051,-47.4710798,false,non-customer,
+610,Tiena,Thorington,F,Administrative Officer,2059505193,lycos.com,tiena.thorington@lycos.com,BR,Brazil,São Francisco do Sul,-26.2586271,-48.6349331,true,premium,2018-09-29 19:45:17
+611,Cariotta,Broxup,F,VP Product Management,8919775523,wsj.com,cariotta.broxup@wsj.com,BR,Brazil,Cambebba,-3.8017999,-38.4809114,true,standard,2018-08-26 21:26:20
+612,Cyrillus,Carles,M,Chemical Engineer,6161680033,nationalgeographic.com,cyrillus.carles@nationalgeographic.com,BR,Brazil,Pantanal,-27.6146187,-48.5162223,false,non-customer,
+613,Aeriel,Carmen,M,Internal Auditor,1005654067,ihg.com,aeriel.carmen@ihg.com,BR,Brazil,Pesqueira,-8.3627277,-36.7388486,false,non-customer,
+614,Elaina,Saunders,F,Financial Advisor,6136688389,imdb.com,elaina.saunders@imdb.com,BR,Brazil,Piraju,-23.1770971,-49.3838782,false,non-customer,
+615,Lucinda,Stephenson,M,Librarian,1992164313,cmu.edu,lucinda.stephenson@cmu.edu,BR,Brazil,Nova Venécia,-18.4943258,-40.4657826,false,non-customer,
+616,Gaspar,Lagden,M,Accountant I,1958739142,php.net,gaspar.lagden@php.net,BR,Brazil,São Roque,-23.5257248,-47.1322342,true,premium,2019-03-10 18:42:33
+617,Delcina,Vinton,M,Staff Scientist,4909301083,loc.gov,delcina.vinton@loc.gov,BR,Brazil,Antonina,-25.4328356,-48.7162067,false,non-customer,
+618,Dana,Newcomb,F,Physical Therapy Assistant,9227729289,jalbum.net,dana.newcomb@jalbum.net,BR,Brazil,Nova Venécia,-18.4943258,-40.4657826,false,non-customer,
+619,Reginald,Bleddon,M,Geological Engineer,8121195551,xing.com,reginald.bleddon@xing.com,BR,Brazil,Palmital,-22.787936,-50.2199938,false,non-customer,
+620,Karlis,Oldroyd,F,Internal Auditor,4122741025,wix.com,karlis.oldroyd@wix.com,BR,Brazil,Caçador,-26.7761609,-51.0124989,false,non-customer,
+621,Pippy,Miskelly,F,Electrical Engineer,4275382343,walmart.com,pippy.miskelly@walmart.com,BR,Brazil,Caicó,-6.4696439,-37.0829593,true,standard,2019-05-21 20:20:13
+622,Natasha,Edwick,F,Geologist III,8533994112,huffingtonpost.com,natasha.edwick@huffingtonpost.com,BR,Brazil,Costeira do Pirajubae,-27.6349915,-48.5219457,true,premium,2020-02-02 13:17:28
+623,Daffy,Stepney,M,Associate Professor,8343770089,arizona.edu,daffy.stepney@arizona.edu,BR,Brazil,Espírito Santo do Pinhal,-22.1755019,-46.805914,false,non-customer,
+624,Harmonie,Bennike,M,Environmental Specialist,2334130447,zimbio.com,harmonie.bennike@zimbio.com,BR,Brazil,Juru,-7.4652278,-37.7662816,true,standard,2019-08-30 22:48:10
+625,Hadlee,Feben,F,Quality Engineer,6132212665,yellowbook.com,hadlee.feben@yellowbook.com,BR,Brazil,Várzea da Palma,-17.5969817,-44.7267221,true,standard,2019-09-20 18:04:05
+626,Titus,Rodolico,M,Operator,9061008249,webeden.co.uk,titus.rodolico@webeden.co.uk,BR,Brazil,Jaguariúna,-22.7042272,-46.9855088,false,non-customer,
+627,Benjamin,Immer,M,Legal Assistant,3106250339,intel.com,benjamin.immer@intel.com,BR,Brazil,Abaeté,-19.157438,-45.4447859,false,non-customer,
+628,Papageno,Frankiss,F,Teacher,6271168539,dot.gov,papageno.frankiss@dot.gov,BR,Brazil,Currais Novos,-6.238218,-36.4797126,false,non-customer,
+629,Stefanie,Stoney,M,Executive Secretary,2092801732,blogger.com,stefanie.stoney@blogger.com,BR,Brazil,Orós,-6.2401676,-38.9459326,true,premium,2018-01-04 19:20:30
+630,Mechelle,Vouls,M,Professor,7856003157,mozilla.com,mechelle.vouls@mozilla.com,BR,Brazil,Nepomuceno,-21.2335652,-45.2325476,false,non-customer,
+631,Cookie,Lawes,M,Clinical Specialist,4264452477,slideshare.net,cookie.lawes@slideshare.net,BR,Brazil,Alegre,-20.6869406,-41.4812771,false,non-customer,
+632,Joline,Prettyman,F,Senior Developer,9867925819,smh.com.au,joline.prettyman@smh.com.au,BR,Brazil,Morro Agudo,-20.6974477,-48.1597946,true,standard,2019-02-23 15:01:31
+633,Earlie,Kilmurry,F,Senior Editor,9791426330,tiny.cc,earlie.kilmurry@tiny.cc,BR,Brazil,Resende,-22.4709659,-44.4513347,true,premium,2018-05-19 04:00:41
+634,Blondell,Feige,F,Marketing Assistant,3982822713,prnewswire.com,blondell.feige@prnewswire.com,BR,Brazil,Fartura,-23.3879703,-49.5076392,true,standard,2020-01-20 03:43:40
+635,Rustie,Hamlett,M,Speech Pathologist,6407461309,netlog.com,rustie.hamlett@netlog.com,BR,Brazil,Santa Adélia,-21.2401568,-48.8058237,false,non-customer,
+636,Laure,Kedslie,M,Administrative Assistant I,2682142931,nih.gov,laure.kedslie@nih.gov,BR,Brazil,Colorado,-28.4629851,-52.9814383,true,standard,2019-03-15 17:45:21
+637,Forrester,Duhig,F,Safety Technician IV,8999392506,google.nl,forrester.duhig@google.nl,BR,Brazil,Matias Olímpio,-3.6988282,-42.5901672,false,non-customer,
+638,Lin,Hayball,F,Computer Systems Analyst IV,3037125841,vk.com,lin.hayball@vk.com,BR,Brazil,Tapera,-28.6229959,-52.8711249,false,non-customer,
+639,Rudyard,Janeczek,F,Graphic Designer,4985883357,europa.eu,rudyard.janeczek@europa.eu,BR,Brazil,São Fidélis,-21.6493783,-41.745717,true,standard,2019-06-11 05:58:19
+640,Ashla,Maciak,M,Environmental Tech,1545755007,pen.io,ashla.maciak@pen.io,BR,Brazil,Guaranésia,-21.2352558,-46.7865516,false,non-customer,
+641,Jillane,Maudlen,M,Assistant Manager,9177356892,psu.edu,jillane.maudlen@psu.edu,BR,Brazil,Ouricuri,-7.8808775,-40.0810267,false,non-customer,
+642,Branden,Dell Casa,F,Professor,2998999989,ovh.net,branden.dell casa@ovh.net,BR,Brazil,Medianeira,-25.2952784,-54.0932225,true,platinum,2018-12-27 06:11:28
+643,Ernest,Tomas,M,Sales Representative,1571873641,wp.com,ernest.tomas@wp.com,BR,Brazil,Ortigueira,-24.2099688,-50.9263297,false,non-customer,
+644,Malina,McCerery,F,GIS Technical Architect,6896731391,macromedia.com,malina.mccerery@macromedia.com,BR,Brazil,Itaguaçu,-19.8022734,-40.8605209,true,platinum,2019-10-18 19:54:37
+645,Lynnett,Dalbey,M,Administrative Assistant II,8359506178,hp.com,lynnett.dalbey@hp.com,BR,Brazil,Jacupiranga,-24.7023134,-48.0076188,false,non-customer,
+646,Minor,Rubinchik,F,Statistician I,1606318294,skype.com,minor.rubinchik@skype.com,BR,Brazil,Floriano,-6.7769318,-43.0226015,true,standard,2019-03-20 16:56:51
+647,Nadean,Barritt,M,Accounting Assistant IV,6209074142,cornell.edu,nadean.barritt@cornell.edu,BR,Brazil,Petrolina de Goiás,-16.115743,-49.3247147,false,non-customer,
+648,Miran,Metzing,F,Staff Scientist,9685297333,guardian.co.uk,miran.metzing@guardian.co.uk,BR,Brazil,Flores da Cunha,-29.0303854,-51.2003761,true,standard,2019-11-07 21:17:05
+649,Mandel,Dossantos,F,Health Coach II,6812866316,scientificamerican.com,mandel.dossantos@scientificamerican.com,BR,Brazil,Araguari,-18.6517964,-48.1904503,true,standard,2019-05-14 20:16:59
+650,Gusella,Brickdale,M,Office Assistant III,5524142666,pen.io,gusella.brickdale@pen.io,BR,Brazil,Arcos,-20.2877726,-45.5396954,false,non-customer,
+651,Bertine,Leser,M,Cost Accountant,4354539007,digg.com,bertine.leser@digg.com,BR,Brazil,Vargem Grande Paulista,-23.6208526,-47.029458,true,premium,2018-06-29 00:05:00
+652,Dorene,Wildash,F,Director of Sales,5007105659,is.gd,dorene.wildash@is.gd,BR,Brazil,Candelária,-29.7132471,-52.8312661,true,premium,2019-07-04 20:38:48
+653,Frank,Willmett,M,Business Systems Development Analyst,2826940295,stumbleupon.com,frank.willmett@stumbleupon.com,BR,Brazil,Pontalina,-17.5582645,-49.5687416,true,premium,2020-01-04 00:28:01
+654,Mallissa,Caillou,F,VP Marketing,3278328312,cornell.edu,mallissa.caillou@cornell.edu,BR,Brazil,Beberibe,-4.4505838,-38.0631455,false,non-customer,
+655,Jorge,Boays,M,Environmental Specialist,8957652441,ycombinator.com,jorge.boays@ycombinator.com,BR,Brazil,Camocim,-2.9014475,-40.8388865,false,non-customer,
+656,Marve,Maddocks,M,Accountant IV,9325091894,csmonitor.com,marve.maddocks@csmonitor.com,BR,Brazil,Barra do Piraí,-22.4720256,-43.8273373,false,non-customer,
+657,Deerdre,Bowick,F,Financial Analyst,9453350156,weebly.com,deerdre.bowick@weebly.com,BR,Brazil,Congonhas,-20.4993469,-43.8613566,true,standard,2018-06-23 00:58:18
+658,Effie,Acheson,M,Research Assistant II,6648736782,java.com,effie.acheson@java.com,BR,Brazil,Paraguaçu,-21.5679739,-45.7142063,false,non-customer,
+659,Noah,O'Connolly,M,Senior Cost Accountant,4852486070,theatlantic.com,noah.o'connolly@theatlantic.com,BR,Brazil,Joaçaba,-27.1743773,-51.5054475,false,non-customer,
+660,Marjie,Prendeville,M,Data Coordiator,3048046918,cbslocal.com,marjie.prendeville@cbslocal.com,BR,Brazil,Volta Redonda,-22.5077597,-44.0947303,false,non-customer,
+661,Scotty,Aubray,F,Product Engineer,6251637588,cbsnews.com,scotty.aubray@cbsnews.com,BR,Brazil,Bom Despacho,-19.6499319,-45.2243578,true,premium,2019-05-20 13:21:36
+662,Leigh,Lovelace,M,Sales Representative,6055433484,com.com,leigh.lovelace@com.com,BR,Brazil,Visconde do Rio Branco,-21.013792,-42.8376099,false,non-customer,
+663,Willow,Isacke,F,Environmental Tech,7275888383,cafepress.com,willow.isacke@cafepress.com,BR,Brazil,Pimenta Bueno,-11.6723638,-61.1984811,false,non-customer,
+664,Lia,Lewins,F,Junior Executive,3316563687,tamu.edu,lia.lewins@tamu.edu,BR,Brazil,Santa Adélia,-21.2401568,-48.8058237,false,non-customer,
+665,Saxon,Dorot,M,Tax Accountant,1801748032,gov.uk,saxon.dorot@gov.uk,BR,Brazil,Conde,-7.2893545,-34.8403408,false,non-customer,
+666,Aila,Donnel,F,Systems Administrator IV,8088115090,clickbank.net,aila.donnel@clickbank.net,BR,Brazil,Três Pontas,-21.3699248,-45.5113164,false,non-customer,
+667,Fayre,Aveline,M,Executive Secretary,5253729490,businessweek.com,fayre.aveline@businessweek.com,BR,Brazil,Suzano,-23.527748,-46.3266408,false,non-customer,
+668,Hubie,Axworthy,F,Data Coordiator,1381644453,nifty.com,hubie.axworthy@nifty.com,BR,Brazil,Presidente Bernardes,-22.0077937,-51.5531899,false,non-customer,
+669,Felix,Lutzmann,M,Human Resources Manager,9444364930,themeforest.net,felix.lutzmann@themeforest.net,BR,Brazil,Cambé,-23.277052,-51.2803152,true,standard,2018-11-28 09:14:39
+670,Gabbey,Roland,M,Analog Circuit Design manager,5686712826,ezinearticles.com,gabbey.roland@ezinearticles.com,BR,Brazil,Abaetetuba,-1.677582,-48.9605972,true,premium,2018-05-02 22:47:02
+671,Hedy,Bellas,M,Assistant Media Planner,6721867978,sun.com,hedy.bellas@sun.com,BR,Brazil,Passo Fundo,-28.2587812,-52.4160039,true,standard,2018-02-07 08:19:51
+672,Micki,Clorley,M,Chemical Engineer,7641360617,techcrunch.com,micki.clorley@techcrunch.com,BR,Brazil,Aparecida do Taboado,-20.0877391,-51.0966063,true,premium,2020-01-31 19:12:23
+673,Annissa,Jakubovicz,M,Recruiter,6526736984,google.pl,annissa.jakubovicz@google.pl,BR,Brazil,Panambi,-28.2588438,-53.5009992,true,platinum,2019-04-26 05:56:55
+674,Mirella,Tassaker,M,Director of Sales,6539359638,apple.com,mirella.tassaker@apple.com,BR,Brazil,Aragarças,-15.8958471,-52.2516426,false,non-customer,
+675,Gavin,Farney,M,Safety Technician IV,3211284537,archive.org,gavin.farney@archive.org,BR,Brazil,Moreno,-8.1091223,-35.0838562,true,premium,2018-07-18 20:01:54
+676,Blinnie,Grigsby,M,Accounting Assistant III,7989247138,aol.com,blinnie.grigsby@aol.com,BR,Brazil,Campo Mourão,-24.0416026,-52.3693218,false,non-customer,
+677,Friederike,Arminger,F,Research Assistant I,3472076398,ovh.net,friederike.arminger@ovh.net,BR,Brazil,Barão de Cocais,-19.9454604,-43.4876311,false,non-customer,
+678,Granny,Ivell,M,Senior Financial Analyst,7604759679,dot.gov,granny.ivell@dot.gov,BR,Brazil,Nova Olímpia,-23.4739979,-53.088539,false,non-customer,
+679,Lianne,Andersch,F,Graphic Designer,6281917643,mtv.com,lianne.andersch@mtv.com,BR,Brazil,Ji Paraná,-10.8810514,-61.9704582,false,non-customer,
+680,Sadella,Foggo,F,Human Resources Manager,3388674735,hugedomains.com,sadella.foggo@hugedomains.com,BR,Brazil,Lajinha,-20.1217728,-41.5612423,false,non-customer,
+681,Filippa,Preene,F,Marketing Assistant,7264356645,surveymonkey.com,filippa.preene@surveymonkey.com,BR,Brazil,Bom Despacho,-19.6499319,-45.2243578,false,non-customer,
+682,Tobe,Dungey,M,Clinical Specialist,3833054494,msn.com,tobe.dungey@msn.com,BR,Brazil,São Cristóvão,-10.9666739,-37.2544065,true,premium,2020-01-15 15:04:20
+683,May,Mowbury,M,Geologist II,7625049690,mapy.cz,may.mowbury@mapy.cz,BR,Brazil,Ibaté,-21.953253,-48.0006076,false,non-customer,
+684,Audre,Hitscher,F,Speech Pathologist,8624615760,weebly.com,audre.hitscher@weebly.com,BR,Brazil,Anguera,-12.182745,-39.2167652,true,standard,2019-01-30 16:37:16
+685,Langston,Swash,F,General Manager,9736764721,yolasite.com,langston.swash@yolasite.com,BR,Brazil,Ribeirão Pires,-23.7130018,-46.4140801,true,standard,2019-07-14 23:21:33
+686,Wilbur,Bennetto,M,Research Assistant III,2158787067,trellian.com,wilbur.bennetto@trellian.com,BR,Brazil,Pantano do Sul,-27.5703548,-48.62059,false,non-customer,
+687,Antons,Desport,M,Senior Editor,8481038167,forbes.com,antons.desport@forbes.com,BR,Brazil,Macaíba,-5.8949347,-35.4343604,false,non-customer,
+688,Shalna,Greene,F,Structural Engineer,2005727008,ihg.com,shalna.greene@ihg.com,BR,Brazil,Araruama,-22.8636192,-42.3336313,true,standard,2020-02-07 17:19:09
+689,Ronnica,Kliche,M,Programmer IV,8723541680,disqus.com,ronnica.kliche@disqus.com,BR,Brazil,Rio de Janeiro,-22.9841765,-43.2209394,true,standard,2019-09-08 23:30:35
+690,Augustine,Aizic,F,Developer II,3774326481,about.com,augustine.aizic@about.com,BR,Brazil,Pimenta Bueno,-11.6723638,-61.1984811,true,standard,2018-12-17 10:53:39
+691,Ainslee,Cutill,F,Computer Systems Analyst III,7711441712,walmart.com,ainslee.cutill@walmart.com,BR,Brazil,Campina Grande do Sul,-25.304882,-49.0555691,true,premium,2020-02-03 08:59:08
+692,Gerrard,Speir,F,Analog Circuit Design manager,1652639034,google.co.uk,gerrard.speir@google.co.uk,BR,Brazil,Realeza,-25.6801783,-53.5419225,true,platinum,2020-03-05 23:26:01
+693,Shena,Frowing,F,Paralegal,4041809225,discuz.net,shena.frowing@discuz.net,BR,Brazil,Conceição das Alagoas,-19.9241693,-48.3811173,false,non-customer,
+694,Guillemette,Kleinpeltz,F,VP Sales,5951305210,mlb.com,guillemette.kleinpeltz@mlb.com,BR,Brazil,Poços de Caldas,-21.7853787,-46.5619303,true,premium,2019-01-21 04:22:57
+695,Baxie,Edland,M,Staff Accountant I,8268502996,cnet.com,baxie.edland@cnet.com,BR,Brazil,Carangola,-20.7314751,-42.0299263,true,platinum,2019-02-25 06:30:02
+696,Scarlet,Bollini,F,Database Administrator II,1715394861,rambler.ru,scarlet.bollini@rambler.ru,BR,Brazil,Mossoró,-5.1841285,-37.3477805,false,non-customer,
+697,Zelda,Schoroder,M,Senior Developer,3374203923,nytimes.com,zelda.schoroder@nytimes.com,BR,Brazil,Boa Esperança,-24.2670414,-52.7241914,false,non-customer,
+698,Ingunna,Mazdon,M,Graphic Designer,1069213234,jimdo.com,ingunna.mazdon@jimdo.com,BR,Brazil,Mogi das Cruzes,-23.5213379,-46.185867,false,non-customer,
+699,Darren,MacColgan,F,Environmental Tech,7003487477,csmonitor.com,darren.maccolgan@csmonitor.com,BR,Brazil,Maracanã,-0.8086425,-47.4882762,false,non-customer,
+700,Adelice,Yantsurev,F,Clinical Specialist,7582111040,rediff.com,adelice.yantsurev@rediff.com,BR,Brazil,São Luís de Montes Belos,-16.521513,-50.3730843,true,platinum,2019-04-02 18:43:01
+701,Reynold,Lacroix,M,Environmental Specialist,4916009867,lycos.com,reynold.lacroix@lycos.com,BR,Brazil,Corumbá,-19.0152673,-57.6594997,true,premium,2019-09-05 12:57:42
+702,Juliann,Ravenscroft,M,Assistant Professor,2815509842,boston.com,juliann.ravenscroft@boston.com,BR,Brazil,Recreio,-21.5320586,-42.4528138,true,standard,2018-04-20 13:42:38
+703,Cristine,Riddich,M,GIS Technical Architect,2143534991,washington.edu,cristine.riddich@washington.edu,BR,Brazil,Iguape,-24.5082407,-47.5275422,false,non-customer,
+704,Lorrayne,Brook,F,Health Coach II,5814455615,cmu.edu,lorrayne.brook@cmu.edu,BR,Brazil,Amaraji,-8.3748772,-35.4551341,true,standard,2019-04-26 11:34:52
+705,Maxie,Feetham,M,Marketing Manager,4315212462,accuweather.com,maxie.feetham@accuweather.com,BR,Brazil,Mairiporã,-23.3213892,-46.5881754,false,non-customer,
+706,Audie,Leber,F,Research Assistant I,5906492027,themeforest.net,audie.leber@themeforest.net,BR,Brazil,Reserva,-24.6790871,-50.9289246,true,standard,2019-04-25 23:58:01
+707,Augustina,Roston,M,Food Chemist,8873923743,java.com,augustina.roston@java.com,BR,Brazil,Indaiatuba,-23.0886496,-47.2089525,false,non-customer,
+708,Ali,Folk,F,Recruiting Manager,5489933618,google.ca,ali.folk@google.ca,BR,Brazil,Wenceslau Braz,-23.8714093,-49.8024588,false,non-customer,
+709,Albie,Millsap,M,Research Assistant II,2132013625,reddit.com,albie.millsap@reddit.com,BR,Brazil,São Jerônimo,-29.962127,-51.7250108,true,platinum,2018-09-26 10:17:15
+710,Consolata,MacCarroll,F,Recruiter,3695664110,kickstarter.com,consolata.maccarroll@kickstarter.com,BR,Brazil,Leopoldina,-21.560374,-42.6684924,false,non-customer,
+711,Jason,Giamo,M,Chief Design Engineer,6114816203,feedburner.com,jason.giamo@feedburner.com,BR,Brazil,São Jerônimo,-29.962127,-51.7250108,true,premium,2018-09-15 19:36:25
+712,Erich,Delia,F,Health Coach II,5248424320,weebly.com,erich.delia@weebly.com,BR,Brazil,Itaberaba,-12.5477492,-40.2271243,false,non-customer,
+713,Philippa,Cranna,M,Geological Engineer,5316942297,bandcamp.com,philippa.cranna@bandcamp.com,BR,Brazil,Estância Velha,-29.6540396,-51.1848488,false,non-customer,
+714,Layton,Spritt,F,Mechanical Systems Engineer,4018761931,yahoo.com,layton.spritt@yahoo.com,BR,Brazil,Lago da Pedra,-4.5699815,-45.133574,false,non-customer,
+715,Joseito,Floodgate,M,Help Desk Technician,9775543171,samsung.com,joseito.floodgate@samsung.com,BR,Brazil,Petrolina,-9.3988444,-40.4996855,false,non-customer,
+716,Merilee,Player,F,Associate Professor,7996943613,webeden.co.uk,merilee.player@webeden.co.uk,BR,Brazil,Pelotas,-31.7653989,-52.3375886,false,non-customer,
+717,Benyamin,Vautrey,M,Web Designer I,4543542377,unblog.fr,benyamin.vautrey@unblog.fr,BR,Brazil,Maués,-3.3851176,-57.7146588,true,premium,2018-06-03 13:04:24
+718,Aylmar,Enderwick,M,Quality Control Specialist,1823751512,wikia.com,aylmar.enderwick@wikia.com,BR,Brazil,Paraíso,-21.0156896,-48.7794089,false,non-customer,
+719,Anstice,Ancell,M,Speech Pathologist,2168721481,friendfeed.com,anstice.ancell@friendfeed.com,BR,Brazil,Capim Grosso,-11.3801768,-40.0068953,false,non-customer,
+720,Fulton,Gainor,M,Account Coordinator,3614488619,amazonaws.com,fulton.gainor@amazonaws.com,BR,Brazil,Torres,-29.3344108,-49.723909,false,non-customer,
+721,Johann,Hansod,F,Structural Engineer,9856117479,cmu.edu,johann.hansod@cmu.edu,BR,Brazil,Cristalina,-16.7073638,-47.5275422,false,non-customer,
+722,Tamas,Keningley,M,Senior Cost Accountant,3185860533,ucsd.edu,tamas.keningley@ucsd.edu,BR,Brazil,Jundiaí,-23.2074329,-46.8337604,false,non-customer,
+723,Ernesta,Burdikin,M,Editor,2962022686,indiegogo.com,ernesta.burdikin@indiegogo.com,BR,Brazil,Cambebba,-3.8017999,-38.4809114,true,premium,2019-05-16 17:36:46
+724,Dareen,Nelthrop,M,Senior Quality Engineer,9855746183,sakura.ne.jp,dareen.nelthrop@sakura.ne.jp,BR,Brazil,Ipameri,-17.722004,-48.1585601,true,premium,2020-01-21 06:56:56
+725,Oona,Wackett,M,Analyst Programmer,5628454782,hugedomains.com,oona.wackett@hugedomains.com,BR,Brazil,Gavea,-26.9176334,-49.3553837,true,premium,2018-10-31 21:50:32
+726,Alfy,Dach,M,Community Outreach Specialist,6047888971,economist.com,alfy.dach@economist.com,BR,Brazil,Natal,-5.7966464,-35.2370177,false,non-customer,
+727,Weber,Clausen-Thue,F,Analyst Programmer,2959194784,boston.com,weber.clausen-thue@boston.com,BR,Brazil,Ponta Grossa,-25.0993621,-50.1584514,true,standard,2018-05-10 09:41:42
+728,Garnet,Capelin,F,Programmer IV,6742145183,slashdot.org,garnet.capelin@slashdot.org,BR,Brazil,Vilhena,-12.7398884,-60.1422676,true,premium,2018-02-25 04:37:37
+729,Emmi,Abelevitz,F,Programmer II,8698127023,icq.com,emmi.abelevitz@icq.com,BR,Brazil,Timbó,-26.8251371,-49.26952,true,standard,2020-01-02 20:50:30
+730,Alf,Grinyov,F,Senior Developer,1303656811,msu.edu,alf.grinyov@msu.edu,BR,Brazil,Aracruz,-19.8205316,-40.2768213,true,premium,2018-04-05 17:19:36
+731,Darcy,MattiCCI,M,Nurse Practicioner,8144337047,miibeian.gov.cn,darcy.matticci@miibeian.gov.cn,BR,Brazil,Frederico Westphalen,-27.3607338,-53.3963199,false,non-customer,
+732,Devondra,Dungey,F,Recruiting Manager,3141508967,amazonaws.com,devondra.dungey@amazonaws.com,BR,Brazil,Cambará,-23.047822,-50.068456,false,non-customer,
+733,Hannah,Samter,F,Sales Associate,1601306639,google.nl,hannah.samter@google.nl,BR,Brazil,Rio Largo,-9.4909905,-35.8482191,false,non-customer,
+734,Nessa,Jikylls,F,Nurse Practicioner,7199480756,moonfruit.com,nessa.jikylls@moonfruit.com,BR,Brazil,União dos Palmares,-9.1113278,-35.958777,true,standard,2019-12-03 13:17:52
+735,Mina,Boutcher,F,VP Accounting,6263300292,skyrock.com,mina.boutcher@skyrock.com,BR,Brazil,Coromandel,-18.4785912,-47.1978694,false,non-customer,
+736,Bernadette,McAvinchey,M,Executive Secretary,6752432735,ameblo.jp,bernadette.mcavinchey@ameblo.jp,BR,Brazil,Macau,-5.1942574,-36.4797126,true,platinum,2019-12-25 00:39:10
+737,Washington,McCandless,M,Quality Engineer,9463133359,disqus.com,washington.mccandless@disqus.com,BR,Brazil,Itatinga,-23.1067087,-48.6123867,false,non-customer,
+738,Mychal,Rosthorn,M,Legal Assistant,7486665323,home.pl,mychal.rosthorn@home.pl,BR,Brazil,Mata de São João,-12.5327517,-38.3001614,false,non-customer,
+739,Alie,Castledine,F,Web Developer I,4233057178,t-online.de,alie.castledine@t-online.de,BR,Brazil,Campos Belos,-13.0331624,-46.7705781,true,platinum,2019-09-28 06:43:10
+740,Thebault,MacKnockiter,F,Executive Secretary,1905739918,google.fr,thebault.macknockiter@google.fr,BR,Brazil,São Lourenço da Mata,-8.0075658,-35.0221895,true,standard,2019-10-02 22:51:39
+741,Nadya,Fenech,F,Staff Accountant I,8319164975,pagesperso-orange.fr,nadya.fenech@pagesperso-orange.fr,BR,Brazil,Jataí,-17.8907823,-51.7176899,true,premium,2019-06-17 20:51:41
+742,Pasquale,Merck,M,Senior Sales Associate,9908384202,mit.edu,pasquale.merck@mit.edu,BR,Brazil,Nerópolis,-16.4078661,-49.1828385,false,non-customer,
+743,Bria,Della,M,Senior Financial Analyst,9322793190,printfriendly.com,bria.della@printfriendly.com,BR,Brazil,Caxambu,-21.9703146,-44.9199695,false,non-customer,
+744,Ogdan,Brownsell,M,Junior Executive,4087654985,hubpages.com,ogdan.brownsell@hubpages.com,BR,Brazil,Araucária,-25.586431,-49.4052251,true,standard,2018-05-17 03:39:16
+745,Tarra,Blazhevich,M,Nuclear Power Engineer,3917805566,samsung.com,tarra.blazhevich@samsung.com,BR,Brazil,Teófilo Otoni,-17.8599943,-41.5091004,true,platinum,2020-02-07 16:03:26
+746,Dorrie,Spaldin,M,Nuclear Power Engineer,5986476389,macromedia.com,dorrie.spaldin@macromedia.com,BR,Brazil,Engenheiro Beltrão,-23.8380515,-52.3063947,false,non-customer,
+747,Theo,Sicily,F,Teacher,7689780078,about.me,theo.sicily@about.me,BR,Brazil,Cajati,-24.7300224,-48.108265,false,non-customer,
+748,Moria,Tilburn,M,Database Administrator III,8779402159,livejournal.com,moria.tilburn@livejournal.com,BR,Brazil,Biguaçu,-27.4955748,-48.6553685,true,premium,2018-08-31 11:42:48
+749,Aveline,Laurent,F,Financial Analyst,8701898924,fema.gov,aveline.laurent@fema.gov,BR,Brazil,Astorga,-23.2400211,-51.6639768,true,standard,2019-11-26 15:22:27
+750,Marice,Madgin,F,Actuary,6951867428,themeforest.net,marice.madgin@themeforest.net,BR,Brazil,Arcoverde,-8.4176445,-37.0585205,false,non-customer,
+751,Clyve,Kenworth,F,Professor,9912948298,geocities.com,clyve.kenworth@geocities.com,BR,Brazil,Mafra,-26.1164276,-49.8091065,false,non-customer,
+752,Lena,Kenwin,M,Account Representative II,5044306486,stanford.edu,lena.kenwin@stanford.edu,BR,Brazil,Irará,-12.034087,-38.7577605,true,standard,2018-09-29 05:23:14
+753,Tabina,Krystek,F,Director of Sales,3063354951,example.com,tabina.krystek@example.com,BR,Brazil,Abaeté,-19.157438,-45.4447859,false,non-customer,
+754,Alfie,Measey,F,Research Nurse,1869022514,sogou.com,alfie.measey@sogou.com,BR,Brazil,Ipubi,-7.5613556,-40.1862129,false,non-customer,
+755,Arnaldo,Conkey,F,Senior Quality Engineer,9916826665,baidu.com,arnaldo.conkey@baidu.com,BR,Brazil,Aracruz,-19.8205316,-40.2768213,false,non-customer,
+756,Kathe,Hazelgrove,M,Nuclear Power Engineer,9094985325,people.com.cn,kathe.hazelgrove@people.com.cn,BR,Brazil,Paty do Alferes,-22.4313914,-43.4289497,false,non-customer,
+757,Matthieu,Beenham,M,Dental Hygienist,9121574675,aol.com,matthieu.beenham@aol.com,BR,Brazil,São Raimundo Nonato,-9.0104992,-42.6920906,false,non-customer,
+758,Cullie,Alleyne,F,Product Engineer,9839651617,tripod.com,cullie.alleyne@tripod.com,BR,Brazil,Patos,-7.026967,-37.2776539,false,non-customer,
+759,Seana,Sarl,F,Administrative Officer,8395044567,umich.edu,seana.sarl@umich.edu,BR,Brazil,Nazaré da Mata,-7.7427496,-35.2280343,false,non-customer,
+760,Caritta,Soden,F,Nurse,5205864783,dell.com,caritta.soden@dell.com,BR,Brazil,Macau,-5.1942574,-36.4797126,false,non-customer,
+761,Corinne,Fitzsymon,F,Speech Pathologist,1269242018,biglobe.ne.jp,corinne.fitzsymon@biglobe.ne.jp,BR,Brazil,Maracaçumé,-2.0133843,-45.9991326,true,standard,2019-06-28 14:50:13
+762,Ana,Vardon,M,Analog Circuit Design manager,2578637393,dropbox.com,ana.vardon@dropbox.com,BR,Brazil,Morada Nova,-5.0662102,-38.3587174,true,platinum,2019-05-04 19:09:42
+763,Gamaliel,Orr,F,Desktop Support Technician,1189168277,state.gov,gamaliel.orr@state.gov,BR,Brazil,Santo Antônio do Monte,-20.0859007,-45.2957103,true,platinum,2019-02-04 15:08:56
+764,Leon,McLeish,M,Technical Writer,5597959610,goo.gl,leon.mcleish@goo.gl,BR,Brazil,Ipameri,-17.722004,-48.1585601,true,standard,2019-10-22 23:34:45
+765,Myles,Byk,F,Human Resources Assistant III,5558026281,bandcamp.com,myles.byk@bandcamp.com,BR,Brazil,Pindaré Mirim,-23.5000092,-46.434476,true,platinum,2019-12-25 09:49:52
+766,Alexis,Willan,M,Accounting Assistant I,6345101731,bravesites.com,alexis.willan@bravesites.com,BR,Brazil,Surubim,-7.8478439,-35.7570657,true,platinum,2020-02-19 14:27:36
+767,Davidson,Glanders,M,Professor,8574362911,intel.com,davidson.glanders@intel.com,BR,Brazil,Itaberaí,-16.0222492,-49.8004866,true,platinum,2019-08-25 13:44:14
+768,Gwenny,Sayes,F,Cost Accountant,1043408324,posterous.com,gwenny.sayes@posterous.com,BR,Brazil,Santa Cruz do Capibaribe,-7.9484331,-36.2064182,true,platinum,2019-05-26 02:33:58
+769,Levi,Bycraft,F,Programmer Analyst III,9905494914,cdc.gov,levi.bycraft@cdc.gov,BR,Brazil,Parnamirim,-8.1347511,-39.734338,false,non-customer,
+770,Jerrine,Jeannenet,F,Tax Accountant,2486824249,bloomberg.com,jerrine.jeannenet@bloomberg.com,BR,Brazil,Patrocínio,-18.998706,-47.058302,false,non-customer,
+771,Elisabetta,Cremer,F,Sales Representative,2225037974,state.gov,elisabetta.cremer@state.gov,BR,Brazil,Jaguariaíva,-24.2530306,-49.7106625,true,premium,2018-06-26 01:28:13
+772,Maisey,Dressel,M,Recruiter,7223905280,rediff.com,maisey.dressel@rediff.com,BR,Brazil,Barreiro do Jaíba,-15.61532,-43.59187,true,premium,2018-10-28 00:23:31
+773,Cornela,Crew,M,Staff Accountant IV,2887827735,cnbc.com,cornela.crew@cnbc.com,BR,Brazil,São Sepé,-30.1647807,-53.5608275,false,non-customer,
+774,Carolynn,Beckworth,F,Marketing Assistant,8915306337,oracle.com,carolynn.beckworth@oracle.com,BR,Brazil,Entre Rios,-26.7416528,-52.5852334,true,platinum,2019-05-06 07:20:01
+775,Sharai,Picheford,M,Legal Assistant,1956622716,scientificamerican.com,sharai.picheford@scientificamerican.com,BR,Brazil,Fernando de Noronha (Distrito Estadual),-8.0664795,-34.8843973,true,premium,2018-11-18 21:30:48
+776,Port,Postans,M,Developer I,9496718577,miitbeian.gov.cn,port.postans@miitbeian.gov.cn,BR,Brazil,Palmeira,-27.574998,-50.1626664,false,non-customer,
+777,Leopold,MacGahy,F,Administrative Assistant I,4981576484,soundcloud.com,leopold.macgahy@soundcloud.com,BR,Brazil,Altamira,-3.1986664,-52.2104006,false,non-customer,
+778,Lorelei,Linge,F,Librarian,6862315887,tuttocitta.it,lorelei.linge@tuttocitta.it,BR,Brazil,Manhumirim,-20.3596647,-41.95889,false,non-customer,
+779,Vannie,Tutt,M,Project Manager,1147845873,psu.edu,vannie.tutt@psu.edu,BR,Brazil,Lages,-27.8157141,-50.3263964,false,non-customer,
+780,Leonie,Lowder,M,Accounting Assistant I,6018617793,bloglines.com,leonie.lowder@bloglines.com,BR,Brazil,Avaré,-23.1072154,-48.925516,true,premium,2019-12-16 10:42:59
+781,Claudie,Dawley,M,Graphic Designer,8108538134,weather.com,claudie.dawley@weather.com,BR,Brazil,Cuiabá,-15.5997099,-56.0976073,false,non-customer,
+782,Joyce,Cruise,F,Structural Analysis Engineer,8989717333,ftc.gov,joyce.cruise@ftc.gov,BR,Brazil,Reserva,-24.6790871,-50.9289246,true,platinum,2018-02-17 05:20:01
+783,Fredia,Fader,F,Design Engineer,8717270925,lycos.com,fredia.fader@lycos.com,BR,Brazil,Balneário Camboriú,-26.9845585,-48.6357235,false,non-customer,
+784,Walsh,Swiffin,M,Recruiter,8353327651,list-manage.com,walsh.swiffin@list-manage.com,BR,Brazil,Paraguaçu Paulista,-22.4186285,-50.5745694,true,platinum,2019-07-10 11:29:55
+785,Katinka,Lovejoy,F,Project Manager,4079701109,ycombinator.com,katinka.lovejoy@ycombinator.com,BR,Brazil,Grajaú,-5.8248093,-46.1594921,false,non-customer,
+786,Glenden,Evershed,M,Marketing Assistant,3952544135,pen.io,glenden.evershed@pen.io,BR,Brazil,Carangola,-20.7314751,-42.0299263,false,non-customer,
+787,Karia,McCaskill,F,Civil Engineer,6583949522,sakura.ne.jp,karia.mccaskill@sakura.ne.jp,BR,Brazil,Sobradinho,-29.4130611,-53.024918,true,standard,2018-10-10 10:39:12
+788,Kettie,Howerd,F,Analog Circuit Design manager,7184083170,seattletimes.com,kettie.howerd@seattletimes.com,BR,Brazil,Jaguaribe,-6.0189936,-38.7368187,false,non-customer,
+789,Cori,Pestridge,F,Account Executive,3711274846,example.com,cori.pestridge@example.com,BR,Brazil,Espumoso,-28.7245183,-52.8444231,true,platinum,2019-07-11 15:48:32
+790,Billi,Skoof,F,Civil Engineer,7531979221,wufoo.com,billi.skoof@wufoo.com,BR,Brazil,Linhares,-19.39656,-40.0658731,true,standard,2020-02-02 22:04:30
+791,Yoko,Dyshart,M,Analyst Programmer,9025864774,time.com,yoko.dyshart@time.com,BR,Brazil,Iperó,-23.351784,-47.6931718,true,platinum,2018-03-23 19:26:24
+792,Shantee,Keizman,F,Associate Professor,1034986425,exblog.jp,shantee.keizman@exblog.jp,BR,Brazil,Novo Horizonte,-21.4649748,-49.2246518,false,non-customer,
+793,Verne,Flatt,F,Budget/Accounting Analyst II,5852241846,wikipedia.org,verne.flatt@wikipedia.org,BR,Brazil,Nortelândia,-14.3322488,-56.6513853,true,premium,2018-10-17 16:16:16
+794,Sandie,Dyble,M,Help Desk Technician,7494658997,upenn.edu,sandie.dyble@upenn.edu,BR,Brazil,Arcos,-20.2877726,-45.5396954,false,non-customer,
+795,Alie,Stocking,M,Food Chemist,3479790196,huffingtonpost.com,alie.stocking@huffingtonpost.com,BR,Brazil,Biritiba Mirim,-23.5893189,-46.0107997,false,non-customer,
+796,Genovera,Brechin,M,Tax Accountant,2757549955,foxnews.com,genovera.brechin@foxnews.com,BR,Brazil,Américo Brasiliense,-21.7300823,-48.0605108,false,non-customer,
+797,Shelley,Heart,M,Executive Secretary,3778852140,census.gov,shelley.heart@census.gov,BR,Brazil,Aimorés,-19.4959312,-41.0713439,false,non-customer,
+798,Urson,Stear,F,Developer II,9193085065,friendfeed.com,urson.stear@friendfeed.com,BR,Brazil,Sarzedo,-20.0325016,-44.1411883,true,premium,2018-12-17 19:49:12
+799,Seamus,Hooke,F,Media Manager II,6543798236,reddit.com,seamus.hooke@reddit.com,BR,Brazil,Teutônia,-29.4799379,-51.7994632,false,non-customer,
+800,Marcelia,Anstice,M,Analog Circuit Design manager,3808490492,dailymail.co.uk,marcelia.anstice@dailymail.co.uk,BR,Brazil,Pesqueira,-8.3627277,-36.7388486,true,platinum,2019-11-04 19:54:55
+801,Julietta,McAirt,M,Food Chemist,6158432882,lulu.com,julietta.mcairt@lulu.com,BR,Brazil,Manhuaçu,-20.2555875,-42.030947,true,platinum,2019-10-04 21:49:13
+802,Ranique,Galea,F,Operator,3342766484,bigcartel.com,ranique.galea@bigcartel.com,BR,Brazil,Vitória da Conquista,-14.8503277,-40.844989,false,non-customer,
+803,Audrey,Nise,M,Recruiter,5903357981,macromedia.com,audrey.nise@macromedia.com,BR,Brazil,Canindé,-4.3681626,-39.4035876,true,premium,2019-11-18 08:42:23
+804,Coop,Turnor,F,Environmental Tech,2786208812,archive.org,coop.turnor@archive.org,BR,Brazil,Paranapanema,-23.3866812,-48.7218983,false,non-customer,
+805,Marcos,Jaan,M,Research Nurse,7575517981,desdev.cn,marcos.jaan@desdev.cn,BR,Brazil,Fonte Boa,-2.4681009,-66.1415263,true,premium,2019-03-12 11:12:09
+806,Culley,Verbeke,F,Computer Systems Analyst I,4058335649,usda.gov,culley.verbeke@usda.gov,BR,Brazil,Santo Amaro da Imperatriz,-27.6856839,-48.7817857,false,non-customer,
+807,Harrietta,Niblett,F,Financial Advisor,3754897296,cargocollective.com,harrietta.niblett@cargocollective.com,BR,Brazil,Cravinhos,-21.3407385,-47.7352517,false,non-customer,
+808,Peggie,Papachristophorou,F,Research Assistant II,5916508999,slideshare.net,peggie.papachristophorou@slideshare.net,BR,Brazil,Sobradinho,-29.4130611,-53.024918,true,platinum,2018-09-28 17:48:39
+809,Ronni,Moran,M,Structural Engineer,9236047561,webs.com,ronni.moran@webs.com,BR,Brazil,Angra dos Reis,-23.0115939,-44.5260106,true,premium,2018-03-11 02:33:11
+810,Ban,Beinke,F,Chemical Engineer,4149913336,miibeian.gov.cn,ban.beinke@miibeian.gov.cn,BR,Brazil,Maricá,-22.9192526,-42.8163587,false,non-customer,
+811,Kelcey,Olner,M,Analyst Programmer,3575542703,flickr.com,kelcey.olner@flickr.com,BR,Brazil,Tucano,-10.9588216,-38.7897587,false,non-customer,
+812,Adara,De La Coste,M,Computer Systems Analyst I,5043388948,phpbb.com,adara.de la coste@phpbb.com,BR,Brazil,Santa Vitória do Palmar,-33.5215632,-53.3664818,false,non-customer,
+813,Caryn,Greenacre,F,Geologist II,1498590697,addthis.com,caryn.greenacre@addthis.com,BR,Brazil,São Miguel do Guamá,-1.5564515,-47.6455169,true,premium,2018-05-24 23:48:26
+814,Staci,Vittet,M,Office Assistant IV,6072885841,list-manage.com,staci.vittet@list-manage.com,BR,Brazil,Maragogipe,-12.7772947,-38.9211273,false,non-customer,
+815,Haskel,Robic,F,Help Desk Operator,4762788132,macromedia.com,haskel.robic@macromedia.com,BR,Brazil,Senador Pompeu,-5.5850343,-39.3708321,false,non-customer,
+816,Lu,Cantillion,M,Account Coordinator,3154422343,tripadvisor.com,lu.cantillion@tripadvisor.com,BR,Brazil,Buíque,-8.5309777,-37.1239897,true,premium,2018-01-14 10:15:01
+817,Adora,Molder,M,Clinical Specialist,7713526746,usa.gov,adora.molder@usa.gov,BR,Brazil,Satuba,-9.5715752,-35.825399,true,platinum,2019-01-14 22:26:42
+818,Lenora,Turton,M,Tax Accountant,8242854732,census.gov,lenora.turton@census.gov,BR,Brazil,Caeté,-19.8852788,-43.6644238,false,non-customer,
+819,Lazare,Mulles,F,Marketing Manager,2757139538,mapy.cz,lazare.mulles@mapy.cz,BR,Brazil,Sertãozinho,-21.1379949,-47.990137,false,non-customer,
+820,Renie,Pods,F,VP Marketing,1739261186,edublogs.org,renie.pods@edublogs.org,BR,Brazil,Brasília,-15.7994139,-47.9222179,true,premium,2019-08-09 17:09:53
+821,Jaclyn,Arnau,F,Executive Secretary,2051449125,china.com.cn,jaclyn.arnau@china.com.cn,BR,Brazil,Sena Madureira,-9.6096717,-69.2877535,false,non-customer,
+822,Zacherie,O' Markey,M,Chief Design Engineer,8922002076,wordpress.com,zacherie.o' markey@wordpress.com,BR,Brazil,Águia Branca,-18.9732399,-40.7361322,false,non-customer,
+823,Anson,Wride,M,Compensation Analyst,5886535112,go.com,anson.wride@go.com,BR,Brazil,Jaraguá,-15.6469053,-49.4466005,false,non-customer,
+824,Haley,Lindgren,M,Dental Hygienist,1669686093,multiply.com,haley.lindgren@multiply.com,BR,Brazil,Armação de Búzios,-22.7563906,-41.889042,true,standard,2020-01-19 04:57:28
+825,Shepard,O'Dowling,M,Account Representative III,8656628053,sitemeter.com,shepard.o'dowling@sitemeter.com,BR,Brazil,Buritis,-10.1269585,-63.8640569,true,platinum,2019-04-28 17:12:17
+826,Alley,Manuel,M,Web Designer I,5823864653,blogs.com,alley.manuel@blogs.com,BR,Brazil,Varjota,-4.1948081,-40.4760325,false,non-customer,
+827,Gwen,Lathleiffure,F,Help Desk Operator,6991951940,youtu.be,gwen.lathleiffure@youtu.be,BR,Brazil,Paiçandu,-23.4554707,-52.0423373,true,premium,2018-05-19 04:23:53
+828,Worth,Giggs,F,Assistant Manager,8828048017,alexa.com,worth.giggs@alexa.com,BR,Brazil,Novo Aripuanã,-6.3019793,-60.0259466,false,non-customer,
+829,Kendell,Matzke,M,Structural Analysis Engineer,4537194683,fc2.com,kendell.matzke@fc2.com,BR,Brazil,Arapongas,-23.4157731,-51.4264048,true,standard,2018-12-14 18:06:55
+830,Clo,Parkey,M,Financial Analyst,9361949377,buzzfeed.com,clo.parkey@buzzfeed.com,BR,Brazil,Guanhães,-18.8424187,-42.8247877,true,standard,2018-01-08 10:55:42
+831,Sharlene,Splain,M,Project Manager,7015277837,cbc.ca,sharlene.splain@cbc.ca,BR,Brazil,Montenegro,-29.6829126,-51.4684153,true,premium,2018-08-31 16:41:58
+832,Fitzgerald,Hatton,F,Food Chemist,6987494439,nifty.com,fitzgerald.hatton@nifty.com,BR,Brazil,Jucás,-6.4534018,-39.6105142,false,non-customer,
+833,Konrad,Stovold,M,Physical Therapy Assistant,6073247535,about.com,konrad.stovold@about.com,BR,Brazil,Franca,-20.5503886,-47.3951378,false,non-customer,
+834,Gunter,Founds,M,Technical Writer,5822573237,stumbleupon.com,gunter.founds@stumbleupon.com,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+835,Aksel,Headly,F,VP Marketing,7417965648,nih.gov,aksel.headly@nih.gov,BR,Brazil,Patrocínio,-18.998706,-47.058302,true,premium,2020-01-24 22:50:10
+836,Gizela,Huby,M,Assistant Manager,4498301778,ocn.ne.jp,gizela.huby@ocn.ne.jp,BR,Brazil,Cambebba,-3.8017999,-38.4809114,false,non-customer,
+837,Fanechka,Lysaght,M,Senior Cost Accountant,5097704663,mozilla.org,fanechka.lysaght@mozilla.org,BR,Brazil,Garanhuns,-8.8828551,-36.4968966,true,standard,2019-12-25 23:48:05
+838,Kandy,Kinlock,M,Associate Professor,3326573197,privacy.gov.au,kandy.kinlock@privacy.gov.au,BR,Brazil,Itabuna,-14.7918149,-39.284293,false,non-customer,
+839,Ray,Gerbl,M,Social Worker,1083628140,mail.ru,ray.gerbl@mail.ru,BR,Brazil,Casimiro de Abreu,-22.4836725,-42.2015431,true,platinum,2019-10-27 04:05:26
+840,Stanislas,Haseley,M,Business Systems Development Analyst,4683729516,51.la,stanislas.haseley@51.la,BR,Brazil,Cururupu,-1.8867371,-44.813111,false,non-customer,
+841,Suzann,Babe,M,Senior Financial Analyst,8712681128,ebay.co.uk,suzann.babe@ebay.co.uk,BR,Brazil,Águas de Lindóia,-22.4803601,-46.633882,true,platinum,2018-12-14 22:59:19
+842,Wake,Ponte,M,Social Worker,3688606512,guardian.co.uk,wake.ponte@guardian.co.uk,BR,Brazil,Caçapava do Sul,-30.5148445,-53.4832383,false,non-customer,
+843,Wilma,Garfoot,F,Office Assistant III,7205517330,reverbnation.com,wilma.garfoot@reverbnation.com,BR,Brazil,Igarapé Açu,-1.3964218,-48.4609448,false,non-customer,
+844,Russ,Kirtlan,M,Editor,9098840288,gnu.org,russ.kirtlan@gnu.org,BR,Brazil,Porto Calvo,-9.0047392,-35.4124355,true,platinum,2018-02-24 09:39:39
+845,Britni,Oggers,F,Programmer I,7092235647,elegantthemes.com,britni.oggers@elegantthemes.com,BR,Brazil,Araçoiaba da Serra,-23.510329,-47.5632863,true,standard,2018-01-05 00:25:03
+846,Elyssa,Sanbrooke,M,Web Developer I,9092633544,cdc.gov,elyssa.sanbrooke@cdc.gov,BR,Brazil,Rio de Janeiro,-22.9841765,-43.2209394,false,non-customer,
+847,Maia,Kyttor,M,Research Assistant IV,5427470746,reddit.com,maia.kyttor@reddit.com,BR,Brazil,Palmares,-8.6764828,-35.5821519,false,non-customer,
+848,Tedra,Loines,M,VP Product Management,9517967984,gmpg.org,tedra.loines@gmpg.org,BR,Brazil,Esplanada,-11.7956851,-37.9447996,false,non-customer,
+849,Loralyn,Engley,F,Chief Design Engineer,6259089675,yale.edu,loralyn.engley@yale.edu,BR,Brazil,Breves,-1.2936976,-50.5135589,false,non-customer,
+850,Farah,Lightoller,F,Director of Sales,3591285915,tmall.com,farah.lightoller@tmall.com,BR,Brazil,Pitanga,-24.7592533,-51.7601166,false,non-customer,
+851,Caye,Le - Count,F,Office Assistant I,4362598075,blogger.com,caye.le - count@blogger.com,BR,Brazil,Taquara,-29.6509722,-50.7757844,true,platinum,2018-02-24 23:45:13
+852,Waldemar,Guest,M,Accountant I,5699637213,wp.com,waldemar.guest@wp.com,BR,Brazil,Itapetininga,-23.5795137,-47.9985512,false,non-customer,
+853,Dirk,Simakov,F,Cost Accountant,7093881374,networksolutions.com,dirk.simakov@networksolutions.com,BR,Brazil,Guarabira,-6.8739016,-35.4562795,true,standard,2018-10-04 06:39:12
+854,Eberhard,Keoghan,F,Computer Systems Analyst III,4027117675,mashable.com,eberhard.keoghan@mashable.com,BR,Brazil,Itupeva,-23.1330259,-47.048576,false,non-customer,
+855,Darcie,Habble,F,Assistant Professor,8101863940,google.cn,darcie.habble@google.cn,BR,Brazil,Bariri,-22.075317,-48.7417603,false,non-customer,
+856,Meggi,Pietrzak,F,Project Manager,2406694607,bing.com,meggi.pietrzak@bing.com,BR,Brazil,Biguaçu,-27.4955748,-48.6553685,false,non-customer,
+857,Lyndsie,Mulles,F,Paralegal,9678389133,nifty.com,lyndsie.mulles@nifty.com,BR,Brazil,Toledo,-24.7289094,-53.7365827,false,non-customer,
+858,Elli,Durrad,F,Civil Engineer,9298354150,last.fm,elli.durrad@last.fm,BR,Brazil,Ponte Nova,-20.4115862,-42.8982244,true,premium,2018-05-25 04:26:57
+859,Winnah,Hirtzmann,F,Product Engineer,9517763786,mozilla.com,winnah.hirtzmann@mozilla.com,BR,Brazil,Rio das Pedras,-22.8481591,-47.6063666,true,standard,2018-01-16 12:43:01
+860,Ginger,Lyddy,M,Geological Engineer,9462495038,craigslist.org,ginger.lyddy@craigslist.org,BR,Brazil,Piraí,-22.602558,-43.9055155,false,non-customer,
+861,Mathew,Dalgarno,M,Social Worker,2945128571,google.de,mathew.dalgarno@google.de,BR,Brazil,Piúma,-20.8420055,-40.7357215,true,platinum,2018-09-12 06:31:55
+862,Phillip,Keely,M,Information Systems Manager,4432193164,amazon.co.jp,phillip.keely@amazon.co.jp,BR,Brazil,Itumbiara,-18.4097245,-49.2162908,true,platinum,2019-05-18 06:21:00
+863,Kimmi,Ingolotti,M,Analog Circuit Design manager,2363750811,timesonline.co.uk,kimmi.ingolotti@timesonline.co.uk,BR,Brazil,Raposos,-19.9640617,-43.8083531,false,non-customer,
+864,Caesar,Koles,F,VP Sales,4671454036,nba.com,caesar.koles@nba.com,BR,Brazil,Mongaguá,-24.068741,-46.6512239,true,premium,2018-08-29 03:05:10
+865,Marni,Fairbeard,F,Senior Sales Associate,6306631278,blogs.com,marni.fairbeard@blogs.com,BR,Brazil,Lajeado,-9.9246703,-48.2592606,true,premium,2018-12-28 19:53:32
+866,Gerti,Ciobotaro,M,Associate Professor,8315457632,fc2.com,gerti.ciobotaro@fc2.com,BR,Brazil,Barra dos Coqueiros,-10.8512419,-36.970226,false,non-customer,
+867,Costa,Siney,F,Health Coach IV,8977362572,webeden.co.uk,costa.siney@webeden.co.uk,BR,Brazil,Olímpia,-20.7371116,-48.9110606,true,platinum,2019-06-11 16:52:28
+868,Andrej,Birdis,M,Analyst Programmer,2555922895,ucoz.ru,andrej.birdis@ucoz.ru,BR,Brazil,Conceição das Alagoas,-19.9241693,-48.3811173,true,premium,2019-03-21 14:56:15
+869,Sawyere,Twydell,F,Actuary,9317405049,free.fr,sawyere.twydell@free.fr,BR,Brazil,Timbiras,-4.087067,-43.7142484,false,non-customer,
+870,Susanna,Vlasyuk,M,Senior Editor,4599599782,github.com,susanna.vlasyuk@github.com,BR,Brazil,Arapongas,-23.4157731,-51.4264048,false,non-customer,
+871,Wilek,Boate,M,Electrical Engineer,8894979313,eventbrite.com,wilek.boate@eventbrite.com,BR,Brazil,Baixo Guandu,-19.5097867,-41.0165586,true,standard,2018-04-27 22:24:51
+872,Parker,Buttner,M,Sales Associate,2371314670,whitehouse.gov,parker.buttner@whitehouse.gov,BR,Brazil,Santa Cecília,-26.9655922,-50.4178973,true,platinum,2018-04-08 02:21:20
+873,Brook,Bilsborrow,F,Programmer IV,8212046335,cloudflare.com,brook.bilsborrow@cloudflare.com,BR,Brazil,Itapicuru,-11.2362892,-38.2322028,false,non-customer,
+874,Christos,Stallibrass,M,Clinical Specialist,9003146632,hostgator.com,christos.stallibrass@hostgator.com,BR,Brazil,Três Pontas,-21.3699248,-45.5113164,false,non-customer,
+875,Annmarie,Archer,M,Desktop Support Technician,1217491758,shop-pro.jp,annmarie.archer@shop-pro.jp,BR,Brazil,Gameleira,-8.5853481,-35.3871125,false,non-customer,
+876,Joey,Maris,M,Electrical Engineer,3036162587,infoseek.co.jp,joey.maris@infoseek.co.jp,BR,Brazil,Ibaiti,-23.8401119,-50.1924435,false,non-customer,
+877,Son,Isacoff,M,Web Developer I,6074116065,posterous.com,son.isacoff@posterous.com,BR,Brazil,Marialva,-23.5266796,-51.8311441,true,platinum,2019-05-27 22:09:03
+878,Case,Belton,M,VP Sales,9934037794,sakura.ne.jp,case.belton@sakura.ne.jp,BR,Brazil,Armação,-21.0209448,-41.1547688,true,premium,2018-10-04 08:22:17
+879,Eli,Brodway,M,Senior Editor,6483454604,fema.gov,eli.brodway@fema.gov,BR,Brazil,Montes Claros,-16.7159055,-43.8616129,true,premium,2020-01-21 12:48:33
+880,Brod,Strettle,F,Developer II,1104341368,bravesites.com,brod.strettle@bravesites.com,BR,Brazil,Benjamin Constant,-4.5204349,-69.9550338,false,non-customer,
+881,Hilliary,Wylam,F,VP Quality Control,7523674481,yellowpages.com,hilliary.wylam@yellowpages.com,BR,Brazil,Boca do Acre,-8.6931631,-67.952363,false,non-customer,
+882,Saba,Dosedale,F,Media Manager IV,6771370214,opensource.org,saba.dosedale@opensource.org,BR,Brazil,Gravatá,-8.2116007,-35.5677787,false,non-customer,
+883,Leeland,Linnard,F,Senior Editor,3463140993,patch.com,leeland.linnard@patch.com,BR,Brazil,Macau,-5.1942574,-36.4797126,true,standard,2018-06-23 12:04:02
+884,Darci,Hazelton,M,Dental Hygienist,9426206149,uol.com.br,darci.hazelton@uol.com.br,BR,Brazil,Batatais,-20.8933441,-47.5925952,true,platinum,2018-06-17 09:59:32
+885,Mary,Keenor,M,Staff Scientist,6665412827,netlog.com,mary.keenor@netlog.com,BR,Brazil,Pimenta Bueno,-11.6723638,-61.1984811,false,non-customer,
+886,Michel,Goldes,M,Quality Engineer,5227486407,sfgate.com,michel.goldes@sfgate.com,BR,Brazil,Diadema,-23.6818396,-46.620967,false,non-customer,
+887,Belvia,Grocott,F,Health Coach II,3918500082,toplist.cz,belvia.grocott@toplist.cz,BR,Brazil,Uruçuca,-14.5154982,-39.299866,false,non-customer,
+888,Pete,Syrett,M,Paralegal,4052925244,nymag.com,pete.syrett@nymag.com,BR,Brazil,Castanhal,-1.3050431,-47.9340343,true,premium,2018-09-01 02:17:31
+889,Barron,Boullen,F,Research Assistant III,4477451360,state.gov,barron.boullen@state.gov,BR,Brazil,São João da Barra,-21.6368446,-41.0484428,false,non-customer,
+890,Jack,Varley,F,Compensation Analyst,3621024951,google.pl,jack.varley@google.pl,BR,Brazil,Itapecuru Mirim,-3.3937106,-44.3606211,true,standard,2019-05-09 04:55:44
+891,Roxi,Hacquel,M,Community Outreach Specialist,7602693381,amazon.co.uk,roxi.hacquel@amazon.co.uk,BR,Brazil,Bagé,-31.3317595,-54.1038619,true,platinum,2018-10-30 00:09:44
+892,Eleanor,Grzesiak,M,Editor,2905126469,de.vu,eleanor.grzesiak@de.vu,BR,Brazil,Boa Esperança,-24.2670414,-52.7241914,false,non-customer,
+893,Pail,Klimochkin,M,Senior Quality Engineer,9835332256,tmall.com,pail.klimochkin@tmall.com,BR,Brazil,Paranapanema,-23.3866812,-48.7218983,true,standard,2018-02-07 12:58:04
+894,Deirdre,Dreakin,F,Registered Nurse,5427879269,home.pl,deirdre.dreakin@home.pl,BR,Brazil,Presidente Epitácio,-21.7668575,-52.1096427,false,non-customer,
+895,Arie,Tarren,M,Quality Control Specialist,5453212766,gov.uk,arie.tarren@gov.uk,BR,Brazil,Matinha,-3.0854936,-44.9626829,true,platinum,2018-06-05 07:49:53
+896,Wallie,Dunthorn,M,Office Assistant III,9663542490,1und1.de,wallie.dunthorn@1und1.de,BR,Brazil,Frei Paulo,-10.5440373,-37.5960704,false,non-customer,
+897,Tamra,Martynka,F,Business Systems Development Analyst,3938740676,constantcontact.com,tamra.martynka@constantcontact.com,BR,Brazil,Floresta,-8.5969261,-38.5743503,true,premium,2019-11-04 09:53:48
+898,Paten,Dibben,F,Help Desk Technician,8102707572,tripod.com,paten.dibben@tripod.com,BR,Brazil,João Câmara,-5.4430889,-35.8716137,true,platinum,2018-09-22 13:28:02
+899,Catarina,McKeaveney,F,Structural Engineer,1446597819,simplemachines.org,catarina.mckeaveney@simplemachines.org,BR,Brazil,Porteirinha,-15.741151,-43.0280584,true,premium,2018-08-19 09:52:49
+900,Clementius,Mathie,F,Clinical Specialist,7067609728,umn.edu,clementius.mathie@umn.edu,BR,Brazil,Ábidos,-20.6670494,-42.8618635,false,non-customer,
+901,Steffen,Daltrey,M,Statistician III,3344570855,forbes.com,steffen.daltrey@forbes.com,BR,Brazil,Lagoa Vermelha,-28.1999491,-51.5303101,true,premium,2018-04-08 20:05:38
+902,Rasia,Hallock,M,VP Accounting,2833410119,sohu.com,rasia.hallock@sohu.com,BR,Brazil,Amargosa,-13.0719408,-39.5099186,true,platinum,2019-02-27 11:13:57
+903,Yanaton,Normanvill,M,Senior Cost Accountant,9856601048,usatoday.com,yanaton.normanvill@usatoday.com,BR,Brazil,Várzea da Palma,-17.5969817,-44.7267221,true,standard,2018-01-08 01:36:52
+904,Bald,Maffioni,F,Help Desk Technician,2505690326,icio.us,bald.maffioni@icio.us,BR,Brazil,Almeirim,0.2415538,-53.7369154,true,standard,2019-05-15 18:54:54
+905,Jammal,Le Count,F,Financial Analyst,4298504026,who.int,jammal.le count@who.int,BR,Brazil,Ceres,-15.3084964,-49.6234548,true,standard,2019-06-03 01:10:06
+906,Issiah,Quarrell,F,Professor,8924462590,google.fr,issiah.quarrell@google.fr,BR,Brazil,Jardim,-21.4803962,-56.1494143,true,standard,2019-07-23 02:28:32
+907,Vinny,Weatherall,F,Accounting Assistant II,3471916392,livejournal.com,vinny.weatherall@livejournal.com,BR,Brazil,Maracás,-13.5307334,-40.5533995,false,non-customer,
+908,Barbette,O'Cannovane,F,Health Coach IV,9885576927,foxnews.com,barbette.o'cannovane@foxnews.com,BR,Brazil,Guanhães,-18.8424187,-42.8247877,true,platinum,2019-08-03 11:11:47
+909,Cristal,Stansbie,F,Quality Control Specialist,7179910849,google.co.uk,cristal.stansbie@google.co.uk,BR,Brazil,Santo Antônio de Posse,-22.6053393,-46.914966,true,premium,2018-11-19 22:23:06
+910,Kirbie,Blumer,F,Information Systems Manager,3036439487,telegraph.co.uk,kirbie.blumer@telegraph.co.uk,BR,Brazil,Botucatu,-22.8841363,-48.4412549,false,non-customer,
+911,Erminie,Kernar,M,VP Quality Control,2536858061,oakley.com,erminie.kernar@oakley.com,BR,Brazil,Cabrobó,-8.455768,-39.4035876,true,standard,2018-09-18 16:48:38
+912,Jade,Elion,F,Assistant Media Planner,6864730575,tiny.cc,jade.elion@tiny.cc,BR,Brazil,Ubatuba,-23.4602881,-45.0479872,true,standard,2018-05-01 17:21:08
+913,Sue,Spraging,F,Associate Professor,4624113993,wikispaces.com,sue.spraging@wikispaces.com,BR,Brazil,Salgado,-11.0646689,-37.4894776,false,non-customer,
+914,Brandais,Middle,M,Speech Pathologist,5409329498,pinterest.com,brandais.middle@pinterest.com,BR,Brazil,Jacutinga,-27.7929655,-52.5425318,true,platinum,2018-06-19 00:09:07
+915,Antonius,Swyne,F,Environmental Tech,6339210764,macromedia.com,antonius.swyne@macromedia.com,BR,Brazil,Itaitinga,-3.9715688,-38.5276456,true,premium,2018-04-27 04:11:44
+916,Amalie,McCumskay,M,Analog Circuit Design manager,2625831409,ca.gov,amalie.mccumskay@ca.gov,BR,Brazil,Chã Grande,-8.2295368,-35.4672368,true,standard,2019-08-20 19:57:27
+917,Kylynn,Peasgood,F,Structural Analysis Engineer,1526161036,bloglines.com,kylynn.peasgood@bloglines.com,BR,Brazil,Sumaré,-22.8209029,-47.2732726,true,premium,2019-11-04 19:42:32
+918,Lind,Ary,F,VP Quality Control,7379677106,ycombinator.com,lind.ary@ycombinator.com,BR,Brazil,Panambi,-28.2588438,-53.5009992,true,premium,2019-11-27 17:27:59
+919,Danyette,Yushkov,F,Senior Sales Associate,4651556275,phoca.cz,danyette.yushkov@phoca.cz,BR,Brazil,Muzambinho,-21.35188,-46.4970116,false,non-customer,
+920,Kelbee,Phalp,M,Help Desk Operator,1365521652,pinterest.com,kelbee.phalp@pinterest.com,BR,Brazil,Porangatu,-13.3498444,-49.284143,true,standard,2018-03-03 14:40:36
+921,Wait,Genery,M,Environmental Tech,2546452477,goodreads.com,wait.genery@goodreads.com,BR,Brazil,Cubatão,-23.8778461,-46.4175787,true,premium,2020-01-19 10:07:18
+922,Marjorie,Woosnam,M,Assistant Media Planner,8054621214,bandcamp.com,marjorie.woosnam@bandcamp.com,BR,Brazil,Astorga,-23.2400211,-51.6639768,false,non-customer,
+923,Stanwood,Rosborough,F,Assistant Professor,3639239379,joomla.org,stanwood.rosborough@joomla.org,BR,Brazil,Patrocínio,-18.998706,-47.058302,true,platinum,2019-08-14 18:07:18
+924,Alyssa,Berthelet,M,Assistant Manager,3985525137,sciencedaily.com,alyssa.berthelet@sciencedaily.com,BR,Brazil,Três Rios,-22.1037284,-43.2110663,false,non-customer,
+925,Rani,Gascar,F,Civil Engineer,5279370494,google.de,rani.gascar@google.de,BR,Brazil,Júlio de Castilhos,-29.2293516,-53.6827015,true,platinum,2019-11-23 07:41:15
+926,Anita,Vasilmanov,F,Automation Specialist I,2485586832,jugem.jp,anita.vasilmanov@jugem.jp,BR,Brazil,Cascavel,-24.9288708,-53.4392535,true,standard,2019-04-07 04:23:51
+927,Benoit,Caldes,F,Compensation Analyst,3892723971,seesaa.net,benoit.caldes@seesaa.net,BR,Brazil,Cláudio,-20.4438418,-44.7653198,false,non-customer,
+928,Carry,Adey,F,Computer Systems Analyst II,9802520746,microsoft.com,carry.adey@microsoft.com,BR,Brazil,Barra do Piraí,-22.4720256,-43.8273373,true,premium,2019-09-18 18:18:48
+929,Gaston,Kubas,M,Human Resources Manager,2814334513,goo.gl,gaston.kubas@goo.gl,BR,Brazil,Benjamin Constant,-4.5204349,-69.9550338,true,standard,2019-01-09 10:17:53
+930,Padraic,Vasyunin,M,Database Administrator III,8399781513,mashable.com,padraic.vasyunin@mashable.com,BR,Brazil,Itacorubi,-27.5918875,-48.4939886,true,standard,2018-07-13 10:10:14
+931,Mischa,Coldrick,F,Paralegal,9497507619,pagesperso-orange.fr,mischa.coldrick@pagesperso-orange.fr,BR,Brazil,Rio do Sul,-27.2313338,-49.652299,false,non-customer,
+932,Hobard,Dourin,M,Software Consultant,8095060148,opensource.org,hobard.dourin@opensource.org,BR,Brazil,Caratinga,-19.7864376,-42.1365821,false,non-customer,
+933,Jenelle,Headrick,F,Staff Accountant II,3188075336,illinois.edu,jenelle.headrick@illinois.edu,BR,Brazil,Posse,-14.226324,-46.4393054,false,non-customer,
+934,Alla,La Wille,F,Web Developer II,8765365769,bbc.co.uk,alla.la wille@bbc.co.uk,BR,Brazil,Jacareí,-23.2987827,-45.9662542,true,standard,2018-03-15 17:43:48
+935,Olivia,Echalie,F,Health Coach I,7477923567,apache.org,olivia.echalie@apache.org,BR,Brazil,Mariana,-20.3652719,-43.4150073,true,premium,2019-02-16 14:30:56
+936,Howey,Dent,M,Structural Analysis Engineer,1882534463,examiner.com,howey.dent@examiner.com,BR,Brazil,São Sebastião do Caí,-29.5904737,-51.3738524,true,premium,2018-09-16 00:46:19
+937,Haroun,Buttrick,F,Staff Accountant IV,2544588808,engadget.com,haroun.buttrick@engadget.com,BR,Brazil,Franca,-20.5393288,-47.4013437,true,premium,2018-12-11 15:40:21
+938,Stinky,Liccardo,F,Sales Representative,7092938665,army.mil,stinky.liccardo@army.mil,BR,Brazil,Piraquara,-25.4426635,-49.0628847,true,platinum,2018-10-16 12:15:45
+939,Gianni,Huie,M,Accountant IV,3563168295,boston.com,gianni.huie@boston.com,BR,Brazil,Alagoinhas,-12.1339194,-38.4211655,false,non-customer,
+940,Savina,Suckling,F,Help Desk Operator,3317615657,163.com,savina.suckling@163.com,BR,Brazil,Mogi Guaçu,-22.363303,-46.9343777,false,non-customer,
+941,Silvain,Dumbar,M,Librarian,8585443759,biblegateway.com,silvain.dumbar@biblegateway.com,BR,Brazil,Januária,-15.4806094,-44.3642956,true,standard,2018-02-08 05:29:09
+942,Niall,Deniseau,F,Analyst Programmer,4259646649,ask.com,niall.deniseau@ask.com,BR,Brazil,Muzambinho,-21.35188,-46.4970116,true,premium,2018-12-05 22:18:30
+943,Andrea,Cohalan,F,Research Assistant IV,7238903687,huffingtonpost.com,andrea.cohalan@huffingtonpost.com,BR,Brazil,Nerópolis,-16.4078661,-49.1828385,false,non-customer,
+944,Theodor,Kinker,F,Desktop Support Technician,1047342306,tuttocitta.it,theodor.kinker@tuttocitta.it,BR,Brazil,Bragança,-1.0616193,-46.7830109,false,non-customer,
+945,Gwendolin,Flaherty,M,Research Nurse,1933314774,de.vu,gwendolin.flaherty@de.vu,BR,Brazil,Tupaciguara,-18.5938307,-48.7043878,false,non-customer,
+946,Lurleen,Rushmare,F,Staff Scientist,8874072365,mac.com,lurleen.rushmare@mac.com,BR,Brazil,Mirador,-23.2245912,-52.7670021,true,platinum,2018-08-18 05:30:11
+947,Claresta,Greenhill,M,Environmental Tech,7697571800,pen.io,claresta.greenhill@pen.io,BR,Brazil,São Luís do Quitunde,-9.3002357,-35.6095474,false,non-customer,
+948,Asia,Matzel,F,Chief Design Engineer,3488725999,ibm.com,asia.matzel@ibm.com,BR,Brazil,Surubim,-7.8478439,-35.7570657,false,non-customer,
+949,Joshua,Starbeck,F,Media Manager I,7969344725,dyndns.org,joshua.starbeck@dyndns.org,BR,Brazil,Satuba,-9.5715752,-35.825399,false,non-customer,
+950,Mimi,Innes,F,Geologist I,2439023959,tuttocitta.it,mimi.innes@tuttocitta.it,BR,Brazil,Patos,-7.026967,-37.2776539,true,premium,2019-04-01 09:17:16
+951,Fergus,Beecroft,M,Technical Writer,5124063525,usgs.gov,fergus.beecroft@usgs.gov,BR,Brazil,Montes Claros,-16.7159055,-43.8616129,true,standard,2019-10-30 01:48:41
+952,Conney,Deppe,F,VP Product Management,7783479645,nyu.edu,conney.deppe@nyu.edu,BR,Brazil,Espera Feliz,-20.652053,-41.9091561,true,premium,2019-07-29 02:45:05
+953,Neila,Garmey,M,Help Desk Operator,9576823229,ox.ac.uk,neila.garmey@ox.ac.uk,BR,Brazil,Jarinu,-23.1036632,-46.7285093,false,non-customer,
+954,Lemmie,Lawtey,F,Computer Systems Analyst IV,5311949392,dyndns.org,lemmie.lawtey@dyndns.org,BR,Brazil,Viçosa,-5.98978,-37.9466737,false,non-customer,
+955,Demeter,Lambertson,M,Human Resources Manager,8604374217,un.org,demeter.lambertson@un.org,BR,Brazil,Morro do Chapéu,-11.4346353,-41.3803558,true,standard,2018-06-11 01:20:30
+956,Bobbi,Crolla,M,Senior Developer,7856826703,businessweek.com,bobbi.crolla@businessweek.com,BR,Brazil,Limoeiro do Ajuru,-1.8409583,-49.4872858,false,non-customer,
+957,Hillary,Detheridge,M,Statistician IV,1573138819,businessinsider.com,hillary.detheridge@businessinsider.com,BR,Brazil,Barretos,-20.5558832,-48.5762695,true,premium,2018-06-11 19:13:28
+958,Scotti,Mabone,F,Design Engineer,6496225965,deliciousdays.com,scotti.mabone@deliciousdays.com,BR,Brazil,Maracaju,-21.6110027,-55.168269,true,premium,2019-01-04 21:49:04
+959,Emiline,Pawels,F,Analyst Programmer,3649957689,apple.com,emiline.pawels@apple.com,BR,Brazil,Uberaba,-19.7473748,-47.9391625,false,non-customer,
+960,Jillene,Inggall,F,Automation Specialist IV,4234633798,washington.edu,jillene.inggall@washington.edu,BR,Brazil,Maraial,-8.817615,-35.7625241,false,non-customer,
+961,Donnie,Barizeret,M,Financial Advisor,8035612808,g.co,donnie.barizeret@g.co,BR,Brazil,Ladário,-19.009336,-57.5977799,true,standard,2019-09-28 05:28:01
+962,Dallas,Cleverly,M,Marketing Assistant,9325134068,nyu.edu,dallas.cleverly@nyu.edu,BR,Brazil,Rio de Janeiro,-22.9841765,-43.2209394,true,platinum,2019-08-12 04:46:50
+963,Randie,Peake,M,Speech Pathologist,1272025962,pen.io,randie.peake@pen.io,BR,Brazil,Santaluz,-11.2049412,-39.4035876,false,non-customer,
+964,Rouvin,Drinkel,M,Computer Systems Analyst III,7095717299,nymag.com,rouvin.drinkel@nymag.com,BR,Brazil,Boa Esperança,-24.2670414,-52.7241914,true,platinum,2018-09-19 07:03:40
+965,Klara,Longworthy,M,Physical Therapy Assistant,8575409056,discuz.net,klara.longworthy@discuz.net,BR,Brazil,Anastácio,-20.4827446,-55.8108596,false,non-customer,
+966,Nicolas,Cappel,M,Desktop Support Technician,4488209592,51.la,nicolas.cappel@51.la,BR,Brazil,São Jerônimo,-29.962127,-51.7250108,false,non-customer,
+967,Olin,Rotchell,F,Business Systems Development Analyst,3955973578,bbb.org,olin.rotchell@bbb.org,BR,Brazil,Camaquã,-30.8493976,-51.8048311,true,premium,2019-03-21 15:33:50
+968,Jerrold,Allwood,M,Analyst Programmer,7626778743,pbs.org,jerrold.allwood@pbs.org,BR,Brazil,Araranguá,-28.9361187,-49.4923013,true,premium,2019-05-11 21:53:25
+969,Linda,Manz,F,Analyst Programmer,4149209153,bluehost.com,linda.manz@bluehost.com,BR,Brazil,Porto Ferreira,-21.8421051,-47.4710798,true,platinum,2020-01-07 10:14:34
+970,Saba,Rickard,F,Safety Technician IV,4154311206,webnode.com,saba.rickard@webnode.com,BR,Brazil,Bela Vista do Paraíso,-22.9941291,-51.1931385,false,non-customer,
+971,Lauri,Rayworth,F,Desktop Support Technician,3994003452,fema.gov,lauri.rayworth@fema.gov,BR,Brazil,Riachão do Jacuípe,-11.8073632,-39.3809152,false,non-customer,
+972,Kellen,Barszczewski,F,Nurse Practicioner,1931302599,umich.edu,kellen.barszczewski@umich.edu,BR,Brazil,Marapanim,-0.9254064,-47.7243139,false,non-customer,
+973,Guenevere,Franckton,M,VP Product Management,7358981911,microsoft.com,guenevere.franckton@microsoft.com,BR,Brazil,Telêmaco Borba,-24.3273656,-50.6139816,false,non-customer,
+974,Ezechiel,Rosenfarb,F,Analyst Programmer,6173725386,cafepress.com,ezechiel.rosenfarb@cafepress.com,BR,Brazil,Igrejinha,-29.5700426,-50.7927755,false,non-customer,
+975,Angeline,Attree,F,Account Representative IV,5944701373,hatena.ne.jp,angeline.attree@hatena.ne.jp,BR,Brazil,Cambé,-23.277052,-51.2803152,true,premium,2019-01-02 11:23:30
+976,Ophelia,Aurelius,F,Senior Editor,4986155858,prweb.com,ophelia.aurelius@prweb.com,BR,Brazil,Jaraguá do Sul,-26.4822209,-49.073477,true,premium,2019-02-21 01:40:55
+977,Kippar,Tomkys,F,Junior Executive,8568446694,amazon.de,kippar.tomkys@amazon.de,BR,Brazil,Guanhães,-18.8424187,-42.8247877,false,non-customer,
+978,Agnese,Horick,F,Sales Representative,2997727149,infoseek.co.jp,agnese.horick@infoseek.co.jp,BR,Brazil,Betim,-19.9673078,-44.2011904,false,non-customer,
+979,Lelah,Itzhaiek,F,Data Coordiator,4951913490,msu.edu,lelah.itzhaiek@msu.edu,BR,Brazil,Iperó,-23.351784,-47.6931718,true,premium,2018-01-28 18:08:35
+980,Virge,Cagan,F,Electrical Engineer,8109722280,globo.com,virge.cagan@globo.com,BR,Brazil,Guaçuí,-20.7784132,-41.6847632,true,premium,2019-09-05 20:04:20
+981,Hewett,Glandon,M,Dental Hygienist,1182385566,delicious.com,hewett.glandon@delicious.com,BR,Brazil,Londrina,-23.3044524,-51.1695824,true,platinum,2018-06-29 23:27:52
+982,Deanna,Schafer,M,Safety Technician II,6577958977,chronoengine.com,deanna.schafer@chronoengine.com,BR,Brazil,Santa Helena,-26.9123284,-53.6176937,true,platinum,2018-08-06 23:22:51
+983,Anette,Gerritzen,M,Speech Pathologist,6446943222,answers.com,anette.gerritzen@answers.com,BR,Brazil,Palhoça,-27.633137,-48.653927,true,platinum,2018-04-22 14:21:55
+984,Cort,Menhci,F,General Manager,6204945987,cpanel.net,cort.menhci@cpanel.net,BR,Brazil,Quixadá,-4.9684385,-39.0161259,true,standard,2018-04-01 16:49:13
+985,Adolphus,McDowall,M,Financial Advisor,4683476053,vinaora.com,adolphus.mcdowall@vinaora.com,BR,Brazil,Orós,-6.2401676,-38.9459326,false,non-customer,
+986,Celestine,Sacks,F,Geologist II,9925170174,tinypic.com,celestine.sacks@tinypic.com,BR,Brazil,Jataí,-17.8907823,-51.7176899,true,premium,2019-09-28 05:08:37
+987,Glynda,Braniff,M,Clinical Specialist,2494050833,ustream.tv,glynda.braniff@ustream.tv,BR,Brazil,Goianésia,-15.3122723,-49.1166441,false,non-customer,
+988,Nestor,Dowber,F,Civil Engineer,1244148823,cnbc.com,nestor.dowber@cnbc.com,BR,Brazil,São Sepé,-30.1647807,-53.5608275,true,standard,2019-10-20 06:31:38
+989,Shelby,Rames,F,Dental Hygienist,8254838615,abc.net.au,shelby.rames@abc.net.au,BR,Brazil,Nova Odessa,-22.7733,-47.3047061,false,non-customer,
+990,Cloris,Stag,M,Internal Auditor,5564184349,qq.com,cloris.stag@qq.com,BR,Brazil,Machado,-21.6437404,-45.9420118,true,standard,2019-08-13 04:06:37
+991,Wilhelmine,Sollon,M,Marketing Assistant,9672291415,google.ru,wilhelmine.sollon@google.ru,BR,Brazil,São Mateus,-18.7190705,-39.856734,true,premium,2019-03-13 06:40:36
+992,Trev,Mariner,M,Chemical Engineer,5515636866,accuweather.com,trev.mariner@accuweather.com,BR,Brazil,Bandeirantes,-23.1087262,-50.3675124,false,non-customer,
+993,Davine,Valens-Smith,M,Teacher,8702224409,cmu.edu,davine.valens-smith@cmu.edu,BR,Brazil,Itaporanga,-23.7047572,-49.4823246,true,standard,2019-07-08 13:39:11
+994,Lauren,Neame,F,Assistant Media Planner,5188047889,ovh.net,lauren.neame@ovh.net,BR,Brazil,Belo Jardim,-8.3357786,-36.4235973,false,non-customer,
+995,Roman,Kleinhandler,F,Senior Cost Accountant,9353166711,simplemachines.org,roman.kleinhandler@simplemachines.org,BR,Brazil,Santa Gertrudes,-22.4593525,-47.5369982,true,premium,2019-08-12 07:34:44
+996,Orelie,Oulner,M,Paralegal,6706465542,cdbaby.com,orelie.oulner@cdbaby.com,BR,Brazil,São Luiz Gonzaga,-28.4262462,-54.9171412,true,platinum,2019-02-11 09:59:30
+997,Rebekah,Dowry,M,Accounting Assistant I,4954202626,yale.edu,rebekah.dowry@yale.edu,BR,Brazil,Tambaú,-21.7034017,-47.27079,false,non-customer,
+998,Fionna,Poundsford,F,Nurse Practicioner,9217129581,slashdot.org,fionna.poundsford@slashdot.org,BR,Brazil,Lagoa da Prata,-20.0292302,-45.5313666,false,non-customer,
+999,Annecorinne,Cliff,F,Assistant Media Planner,4251219082,amazon.com,annecorinne.cliff@amazon.com,BR,Brazil,Assis,-22.6604341,-50.4187813,false,non-customer,
+1000,Haze,Sabates,M,Financial Advisor,5163127541,over-blog.com,haze.sabates@over-blog.com,BR,Brazil,Itamarandiba,-17.857298,-42.8583915,true,premium,2019-10-09 01:22:45

@@ -1,0 +1,49 @@
+version: 2
+
+sources:
+  - name: sales_car
+    description: 'This is a replica of the postgres database used by our app'
+    tables:
+      - name: company_branches
+        description: 'This table contains informations about company branches'
+      - name: order_items
+        description: 'This table contains informations about orders itens'
+      - name: order_types
+        description: 'This table contains informations about orders types'
+      - name: orders
+        description: 'This table contains informations about orders'
+        tests:
+          - dbt_utils.unique_combination_of_columns:
+              combination_of_columns:
+                - id
+                - order_date
+        columns:
+          - name: 'id'
+            description: 'Primary key of the table'
+            tests: ['unique', 'not_null']
+          - name: 'customer_id'
+            description: 'Foreing key of the customer table'
+            tests: ['not_null']
+          - name: 'departament_id'
+            description: 'Foreing key of column departament in employees table'
+          - name: 'order_type_id'
+            description: 'Foreing key of the order_type table'
+            tests: ['not_null']
+          - name: 'order_status'
+            description: 'Description of order status in orders table'
+            tests: ['not_null', {'accepted_values': {'values': ['delayed', 'on hold', 'pending', 'shipped']}}]
+          - name: 'order_date'
+            description: 'Column date of orders table'
+            tests:
+              - not_null
+              - dbt_utils.accepted_range:
+                  max_value: "CURRENT_TIMESTAMP()"
+          - name: 'return_date'
+            description: 'Column return date of orders table'
+            tests: ['not_null']
+  - name: seeds
+    tables:
+      - name: customers
+        description: 'This table contains informations about customers'
+      - name: employees
+        description: 'This table contains informations about employeers'

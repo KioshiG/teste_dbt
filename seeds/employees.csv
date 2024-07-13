@@ -1,0 +1,101 @@
+id,departament_id,company_branches_id,departament,first_name,last_name,gender,email
+1,2,1,sales manager,Bryce,Kirwan,M,bryce.kirwan@salescar.com
+2,7,4,technical,Mavis,de Courcey,F,mavis.de courcey@salescar.com
+3,7,4,technical,Farr,Younger,M,farr.younger@salescar.com
+4,7,4,technical,Vern,Sjostrom,M,vern.sjostrom@salescar.com
+5,8,4,mecanic,Sal,Labroue,F,sal.labroue@salescar.com
+6,4,2,salesman,Bing,McTrustram,M,bing.mctrustram@salescar.com
+7,8,4,mecanic,Rebecka,Vlach,F,rebecka.vlach@salescar.com
+8,8,4,mecanic,Floris,Maleby,F,floris.maleby@salescar.com
+9,7,3,technical,Brewer,Yurikov,M,brewer.yurikov@salescar.com
+10,4,4,salesman,Ros,Haslock,F,ros.haslock@salescar.com
+11,8,2,mecanic,Palm,Larham,M,palm.larham@salescar.com
+12,6,1,technical manager,Tobi,Heys,F,tobi.heys@salescar.com
+13,4,4,salesman,Barbe,Meadmore,F,barbe.meadmore@salescar.com
+14,2,2,sales manager,Jerrilee,Arthur,F,jerrilee.arthur@salescar.com
+15,4,1,salesman,Ruthann,Guido,F,ruthann.guido@salescar.com
+16,8,1,mecanic,Wenda,Castelow,F,wenda.castelow@salescar.com
+17,4,3,salesman,Rory,Good,M,rory.good@salescar.com
+18,4,3,salesman,Jammal,Burl,M,jammal.burl@salescar.com
+19,2,3,sales manager,Catherin,Helversen,F,catherin.helversen@salescar.com
+20,4,2,salesman,Mitzi,Dies,F,mitzi.dies@salescar.com
+21,4,2,salesman,Lilly,Berrie,F,lilly.berrie@salescar.com
+22,4,2,salesman,Padriac,Jiles,M,padriac.jiles@salescar.com
+23,4,3,salesman,Bathsheba,Asquith,F,bathsheba.asquith@salescar.com
+24,7,3,technical,Werner,Cawood,M,werner.cawood@salescar.com
+25,6,3,technical manager,Cindra,Werrilow,F,cindra.werrilow@salescar.com
+26,1,3,sales director,Elvyn,Yarnley,M,elvyn.yarnley@salescar.com
+27,7,1,technical,Davon,Sayles,M,davon.sayles@salescar.com
+28,8,4,mecanic,Victoria,Aitchinson,F,victoria.aitchinson@salescar.com
+29,4,1,salesman,Barbara-anne,Redmire,F,barbara-anne.redmire@salescar.com
+30,8,3,mecanic,Kit,Impleton,M,kit.impleton@salescar.com
+31,8,1,mecanic,Prudy,Jarrold,F,prudy.jarrold@salescar.com
+32,4,2,salesman,Nolie,Ruggiero,F,nolie.ruggiero@salescar.com
+33,8,2,mecanic,Justinn,Shalliker,F,justinn.shalliker@salescar.com
+34,4,4,salesman,Ancell,Tackes,M,ancell.tackes@salescar.com
+35,8,3,mecanic,Ethelyn,Millbank,F,ethelyn.millbank@salescar.com
+36,8,1,mecanic,Corliss,Pietsma,F,corliss.pietsma@salescar.com
+37,8,4,mecanic,Rouvin,Scholig,M,rouvin.scholig@salescar.com
+38,7,1,technical,Gerry,Domesday,M,gerry.domesday@salescar.com
+39,7,3,technical,Elly,Barr,F,elly.barr@salescar.com
+40,6,2,technical manager,Phyllis,Romeo,F,phyllis.romeo@salescar.com
+41,7,3,technical,Tadeas,Skyner,M,tadeas.skyner@salescar.com
+42,8,1,mecanic,Paulie,Broadbury,M,paulie.broadbury@salescar.com
+43,4,3,salesman,Pru,Karlowicz,F,pru.karlowicz@salescar.com
+44,7,3,technical,Cad,Dyte,M,cad.dyte@salescar.com
+45,4,4,salesman,Hazel,Kenen,M,hazel.kenen@salescar.com
+46,4,1,salesman,Fitz,Carty,M,fitz.carty@salescar.com
+47,5,3,operations director,Fiona,Bullin,F,fiona.bullin@salescar.com
+48,5,1,operations director,Shellysheldon,Conradie,M,shellysheldon.conradie@salescar.com
+49,7,2,technical,Hank,Barrott,M,hank.barrott@salescar.com
+50,8,1,mecanic,Eda,Raikes,F,eda.raikes@salescar.com
+51,2,4,sales manager,Yance,Nias,M,yance.nias@salescar.com
+52,2,3,sales manager,Ainslie,Willerson,F,ainslie.willerson@salescar.com
+53,7,4,technical,Merell,Spratley,M,merell.spratley@salescar.com
+54,4,2,salesman,Jasmina,Boniface,F,jasmina.boniface@salescar.com
+55,4,4,salesman,Giulia,Vanelli,F,giulia.vanelli@salescar.com
+56,7,3,technical,Lenka,Assard,F,lenka.assard@salescar.com
+57,8,1,mecanic,Jorge,Serjeant,M,jorge.serjeant@salescar.com
+58,2,1,sales manager,Killy,De Vere,M,killy.de vere@salescar.com
+59,7,2,technical,Clareta,Jolliman,F,clareta.jolliman@salescar.com
+60,7,3,technical,Burke,Dzenisenka,M,burke.dzenisenka@salescar.com
+61,8,3,mecanic,Cindie,Caswell,F,cindie.caswell@salescar.com
+62,2,1,sales manager,Robbie,Cherm,F,robbie.cherm@salescar.com
+63,8,3,mecanic,Mahalia,Sainz,F,mahalia.sainz@salescar.com
+64,8,4,mecanic,Marijo,Mutlow,F,marijo.mutlow@salescar.com
+65,8,4,mecanic,Faulkner,Jamblin,M,faulkner.jamblin@salescar.com
+66,7,4,technical,Sayre,Condit,F,sayre.condit@salescar.com
+67,4,4,salesman,Ernest,Mullin,M,ernest.mullin@salescar.com
+68,8,2,mecanic,Haily,Divill,M,haily.divill@salescar.com
+69,4,4,salesman,Briano,Rochford,M,briano.rochford@salescar.com
+70,8,3,mecanic,Mohandas,Dummigan,M,mohandas.dummigan@salescar.com
+71,4,1,salesman,Penn,Hebner,M,penn.hebner@salescar.com
+72,4,1,salesman,Winna,Selly,F,winna.selly@salescar.com
+73,6,4,technical manager,Jaime,Bertin,F,jaime.bertin@salescar.com
+74,7,4,technical,Marty,Dorbon,M,marty.dorbon@salescar.com
+75,8,1,mecanic,Corri,Djorevic,F,corri.djorevic@salescar.com
+76,7,2,technical,Robinett,Vannah,F,robinett.vannah@salescar.com
+77,8,1,mecanic,Cornell,Kubecka,M,cornell.kubecka@salescar.com
+78,4,1,salesman,Timothea,Pitbladdo,F,timothea.pitbladdo@salescar.com
+79,8,2,mecanic,Austin,Cristea,F,austin.cristea@salescar.com
+80,8,1,mecanic,Dyanne,Warret,F,dyanne.warret@salescar.com
+81,3,4,sales coordinator,Happy,Baulch,F,happy.baulch@salescar.com
+82,8,3,mecanic,Rodrick,Spenclay,M,rodrick.spenclay@salescar.com
+83,8,1,mecanic,Mile,Scrowby,M,mile.scrowby@salescar.com
+84,8,1,mecanic,Andy,Pettingall,M,andy.pettingall@salescar.com
+85,6,2,technical manager,Skyler,Poston,M,skyler.poston@salescar.com
+86,4,3,salesman,Ryley,Burkhill,M,ryley.burkhill@salescar.com
+87,7,3,technical,Bendicty,De Blasi,M,bendicty.de blasi@salescar.com
+88,8,4,mecanic,Gustav,MacMarcuis,M,gustav.macmarcuis@salescar.com
+89,7,4,technical,Gayler,Poyner,M,gayler.poyner@salescar.com
+90,7,3,technical,Luise,Semechik,F,luise.semechik@salescar.com
+91,2,3,sales manager,Jenifer,Hurring,F,jenifer.hurring@salescar.com
+92,4,2,salesman,Nobe,Sambedge,M,nobe.sambedge@salescar.com
+93,4,3,salesman,Nobie,Mattheus,M,nobie.mattheus@salescar.com
+94,7,3,technical,Benedikt,Hellwing,M,benedikt.hellwing@salescar.com
+95,8,2,mecanic,Staffard,Marnes,M,staffard.marnes@salescar.com
+96,8,1,mecanic,Naomi,Darwood,F,naomi.darwood@salescar.com
+97,4,3,salesman,Florida,Twells,F,florida.twells@salescar.com
+98,7,2,technical,Carly,Kivits,F,carly.kivits@salescar.com
+99,4,3,salesman,Dorena,Watton,F,dorena.watton@salescar.com
+100,7,2,technical,Tomas,Duffan,M,tomas.duffan@salescar.com
